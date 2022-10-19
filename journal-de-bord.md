@@ -10,6 +10,7 @@ Langues : (dans l'ordre)
 -	Chinois (langue maternelle)
 
 Liste des mots : 
+
 •	Kenza
 -	Liberté/liberté d’expression
 -	Intégration
