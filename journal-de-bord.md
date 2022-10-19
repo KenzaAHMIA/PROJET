@@ -14,9 +14,11 @@ Liste des mots :
 -	Liberté/liberté d’expression
 -	Intégration
 -	Fast-food/streetfood/restaurationrapide
+
 •	Shami
 -	 Éducation
 -	Multiculturalisme/multiculturalité
+
 •	Yuan
 -	 Avocat
 -	Étranger
