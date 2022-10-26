@@ -26,9 +26,9 @@ Liste des mots :
 
 
 Tâches à faire :
--	Créer le git pour le projet --> OK
--	Ajouter tous les membres du groupe pour que tout le monde puisse faire des modifications --> OK
--	Chacun/e doit écrire son nom sur le REDME.
+-	Créer le git pour le projet. --> OK
+-	Ajouter tous les membres du groupe pour que tout le monde puisse faire des modifications. --> OK
+-	Chacun/e doit écrire son nom sur le REDME. --> OK
 
 -	Se concerter sur un seul sujet.
 -	Commencer à chercher le corpus.
