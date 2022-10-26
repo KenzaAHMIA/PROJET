@@ -1,4 +1,4 @@
-[]Créer le git pour le projet. --> OK
+Créer le git pour le projet. --> OK
 
 Ajouter tous les membres du groupe pour que tout le monde puisse faire des modifications. --> OK
 
