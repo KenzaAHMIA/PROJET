@@ -1,4 +1,4 @@
-# PROJET
+# PROJET-FASTFOOD
 Kenza AHMIA
 Shami THIRION SEN
 Yuanyuan XUAN
