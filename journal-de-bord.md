@@ -23,12 +23,3 @@ Liste des mots :
 •	Yuan
 -	 Avocat
 -	Étranger
-
-
-Tâches à faire :
--	Créer le git pour le projet. --> OK
--	Ajouter tous les membres du groupe pour que tout le monde puisse faire des modifications. --> OK
--	Chacun/e doit écrire son nom sur le REDME. --> OK
-
--	Se concerter sur un seul sujet. --> OK
--	Commencer à chercher le corpus.
