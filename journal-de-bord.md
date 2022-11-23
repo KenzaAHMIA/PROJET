@@ -23,3 +23,5 @@ Liste des mots :
 •	Yuan
 -	 Avocat
 -	Étranger
+
+--> Théme choisi : fast-food
