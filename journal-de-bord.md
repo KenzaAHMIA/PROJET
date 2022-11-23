@@ -26,17 +26,22 @@ Liste des mots :
 
 --> Théme choisi : fast-food
 
+• Suivit : 
+- Créer le git pour le projet. --> OK
 
-Créer le git pour le projet. --> OK
+- Ajouter tous les membres du groupe pour que tout le monde puisse faire des modifications. --> OK
 
-Ajouter tous les membres du groupe pour que tout le monde puisse faire des modifications. --> OK
+- Chacun/e doit écrire son nom sur le REDME. --> OK
 
-Chacun/e doit écrire son nom sur le REDME. --> OK
+- Se concerter sur un seul sujet. --> OK
 
-Se concerter sur un seul sujet. --> OK
+- Créer une page git pour notre projet. --> OK
 
-Créer une page git pour notre projet. --> OK
+- Chercher le corpus. --> OK
 
-Rédiger une problématique.
+- Tester des scripts. --> OK
 
-Commencer à chercher le corpus.
+- Générer les premiers tableaux (fichiers html). --> OK
+
+- Rédiger une problématique. 
+
