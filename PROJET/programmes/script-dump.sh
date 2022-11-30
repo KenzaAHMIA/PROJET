@@ -63,6 +63,7 @@ while read -r URL; do
 		charset=""
 	fi
 
+# créer les fichiers sur le dumps-text
         echo "$dump" > "dumps-text/$basename-$lineno.txt"
 	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
