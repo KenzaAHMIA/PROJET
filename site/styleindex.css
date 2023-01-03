@@ -1,0 +1,96 @@
+body {
+	background-color: 	#FFDAB9;
+	width:900px;
+	margin:auto;
+	padding:auto;}
+header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+div.tête{
+	position: absolute;
+	font-size: 40px;
+	z-index: 999;
+	text-align: center;
+	min-width: 1400px;
+}
+header h1{
+	font-family: Arial;
+}
+div.paragraphe {
+	font-size: 40px;
+	background-color: white;
+	text-align: center;
+}
+div.images {
+	opacity: 0.5;
+}
+img{
+	width: 170px;
+	height: 210px;
+}
+
+/* -----Menu---- */
+nav.menu{
+	width: 900px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+	padding-top: 40px;
+}
+
+nav.menu ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+nav.menu ul li:hover{
+	transform: scale(0.8);
+	transition: 0.5s all;
+}
+nav.menu ul li a {
+	text-decoration: none;
+	background-color: white;
+	color: black;
+}
+.presentation {
+	background: url(./images/presentation.jpg);
+	padding: 30px;
+	background-size: 150px;
+	font-size: 30px;
+}
+.scripts {
+	background: url(./images/scripts.jpg);
+	padding: 30px;
+	background-size: 150px;
+	font-size: 30px;
+}
+.tableaux {
+	background: url(./images/tableaux.jpg);
+	padding: 30px;
+	background-size: 150px;
+	font-size: 30px;
+}
+.analyse{
+	background: url(./images/analyse.jpg);
+	padding: 30px;
+	background-size: 150px;
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+	color:  black;
+}
+
+footer {
+	width:900px;
+	clear:both;
+	height:30px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	text-align:center;
+	line-height:14pt;
+	color: black;
+}
