@@ -13,6 +13,10 @@
 # -Eo grep etendu, o = only d | cut (sérapré par) -d(délimiteur)" "-f2 (f= field/columns, -f2 = looking for 2nd column, délimité par = | tail -n 1 (last line of file) 
 # the commands above can be stored in a variable 
 #pour fichier csv délimiteur , , donc 
+### for context :m
+#regexp (...)(robots?)(...)
+#regexp (\w+\W)(robots?)(\w\w+)
+# cat nomFicher.txt | sed 's/\(.../)robots\?(...)/____/'
 #===============================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
@@ -24,7 +28,8 @@ then
 	exit
 fi
 
-mot="robot" # à modifier
+
+mot="fast food" # à modifier, add regexp "[Ff]ast [Ff]ood"
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -33,7 +38,7 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th></tr>" >> $fichier_tableau
+echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump_html</th><th>dumpTest</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
@@ -68,10 +73,30 @@ while read -r URL; do
 		dump=""
 		charset=""
 	fi
+	
+	
+	# dump #basename creates the basename for each of the 50 links
+	echo "$dump" > "dumps-text/$basename-$lineno.txt"
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $fichier_tableau
+	#aspiration
+	aspiration=$(curl -L $URL)
+	echo "$aspiration" > "aspirations/$basename-$lineno.html"
+	
+	#contexte ? concordances
+	#compte , avec grep where? // stocker dans un variable
+	#what is grep -o  	-A2 -B2  ... > contexte
+	
+	wordCount = $(grep -E -o  $mot ../dumps-text/$basename-$lineno.txt | wc -l)
+	
+	# concordance will be a new external programme
+
+	#echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td>
+	<td>$charset</td><td><a href=\"../dumps-text/$basename-$lineno.txt\">dump</a></td>
+	</tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
+	
 done < $fichier_urls
 echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau
