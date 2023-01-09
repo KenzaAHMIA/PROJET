@@ -275,7 +275,8 @@ register Here
    or register with social media
    Social:
 
-   Time limit is exhausted. Please reload the CAPTCHA. seven  ×  __  =  35
+   Time limit is exhausted. Please reload the CAPTCHA. 7  +  __  =
+   fifteen
    (Register) Register / (BUTTON) Cancel
 
    (BUTTON) ×Close
@@ -349,7 +350,7 @@ Get delicious recipe inspiration and foodie news delivered to your inbox
        ____________________
      * Location*
        [Location____________]
-     * Email
+     * Name
        ____________________
        This field is for validation purposes and should be left unchanged.
 
@@ -405,7 +406,7 @@ Our newsletter, your inbox
        ____________________
      * Location*
        [Location____________]
-     * Phone
+     * Name
        ____________________
        This field is for validation purposes and should be left unchanged.
 

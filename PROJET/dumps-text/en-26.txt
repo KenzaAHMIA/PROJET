@@ -5,15 +5,15 @@
    Let's play
 
    PLAYMAKER
-     * It's Monday
+     * It's Tuesday
        What day is it?
-          + It's Monday
           + It's Tuesday
           + It's Wednesday
           + It's Thursday
           + It's Friday
           + It's Saturday
           + It's Sunday
+          + It's Monday
      * Now
        What time is it?
           + Now
@@ -279,11 +279,11 @@ POPULAR STORIES
        Complete with 26 Tonnes of Sand
      * Eleven Fantastically Different Events Calling You to Queensland
        This Year
+     * You Can Now Take a Dip in Sydney Harbour with Swimming Returning to
+       Barangaroo Reserve's Marrinawi Cove
      * CP Picks: How Our Editors Are Enjoying Canned Cocktails This Summer
      * A Huge Frida Kahlo, Diego Rivera and Mexican Modernism Exhibition
        Is Coming to Australia in 2023
-     * Lego's Stunning New 'Great Wave' Set Will Let You Recreate
-       Hokusai's Masterpiece at Home
 
 POPULAR PLACES
 
@@ -291,7 +291,7 @@ POPULAR PLACES
      * Pinky Ji
      * Tiva
      * Toko Restaurant
-     * Backyard at The Alex
+     * Gildas
 
 EXPLORE SYDNEY
 

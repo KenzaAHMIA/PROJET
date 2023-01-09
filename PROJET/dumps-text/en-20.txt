@@ -201,7 +201,7 @@ Leave a Reply Cancel reply
    _____________________________________________
    		<p class="math-captcha-form">______________
    			<label>Math Captcha<br/></label>__________
-   			<span><input type="text" size="2" length="
+   			<span>38 + <input type="text" size="2" len
    		</p><p class="form-submit"><input name="sub
    <input type='hidden' name='comment_parent' id
    </p></form>	</div>___________________________
