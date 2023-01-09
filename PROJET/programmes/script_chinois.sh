@@ -85,10 +85,6 @@ while read -r URL; do
 
 	# aspiration
 	charset=$(curl -Ls $URL -D - -o "../aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
-
-	# concordances chinois \p{han}
-	# dans concordances.sh
-	# ou prétraiter les dossier avant
 	
 	# extraction des contextes
 	contexte_temp=$(grep -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
