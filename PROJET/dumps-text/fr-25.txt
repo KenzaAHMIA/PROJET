@@ -32,7 +32,11 @@
    Voyage (Tous)
 
    Top suivant Top 100+ des meilleures chaînes de restaurants au monde
+<<<<<<< HEAD
    Top 136 567 votes1 255 participants
+=======
+   Top 136 588 votes1 265 participants
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Fast food
 
 Top 13 des meilleures chaînes de fast-food en France
@@ -55,13 +59,22 @@ Top 13 des meilleures chaînes de fast-food en France
    Afficher plus
    Règles du top Votez pour vos chaînes de fast-food préférées
    99%
+<<<<<<< HEAD
    Classement fiable Avec 6 567 votes, ce top est considéré comme fiable ✔
+=======
+   Classement fiable Avec 6 588 votes, ce top est considéré comme fiable ✔
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
 Classement des chaînes de fast-food en France ↷
 
    1
+<<<<<<< HEAD
    604
    278
+=======
+   608
+   280
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Burger King
 
 Burger King
@@ -74,8 +87,13 @@ Burger King
    Top 100+ des meilleures chaînes de restaurants au monde
    Classement des 30 meilleurs burgers de Burger King
    2
+<<<<<<< HEAD
    516
    266
+=======
+   521
+   267
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    McDonald's
 
 McDonald's
@@ -91,8 +109,13 @@ McDonald's
    Classement des 43 meilleurs Burgers de chez McDo
    Classement des 23 meilleurs desserts de chez McDo
    3
+<<<<<<< HEAD
    388
    240
+=======
+   389
+   241
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Kentucky Fried Chicken
 
 Kentucky Fried Chicken
@@ -101,7 +124,11 @@ Kentucky Fried Chicken
 
    Produits : Poulet frit et cuisine typique du sud des États-Unis
    4
+<<<<<<< HEAD
    304
+=======
+   307
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    207
    Five Guys
 
@@ -125,7 +152,11 @@ Subway
    Classement des 16 meilleurs sandwichs Subway
    6
    261
+<<<<<<< HEAD
    310
+=======
+   311
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Quick
 
 Quick
@@ -133,6 +164,7 @@ Quick
    Création : 1970 Création de la chaîne Quick Restaurants 1971 : le 2
    juillet, ouverture du 1er Quick à Schoten en Belgique
    7
+<<<<<<< HEAD
    175
    214
    Big Fernand
@@ -144,6 +176,9 @@ Big Fernand
    Produits : Hamburgers
    8
    224
+=======
+   225
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    275
    Domino's Pizza
 
@@ -156,6 +191,19 @@ Domino's Pizza
    Squid Game : 13 publicités détournées par les marques
    20 /122sur 122
    Top 100+ des meilleures chaînes de restaurants au monde
+<<<<<<< HEAD
+=======
+   8
+   175
+   214
+   Big Fernand
+
+Big Fernand
+
+   Création : 2011
+
+   Produits : Hamburgers
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    9
    140
    199
@@ -167,7 +215,11 @@ Steak 'n Shake
 
    Produits : Hamburgers, Frites, Milk-shakes
    10
+<<<<<<< HEAD
    163
+=======
+   164
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    246
    Sushi Shop
 
@@ -176,7 +228,11 @@ Sushi Shop
    Création : 1998
    11
    137
+<<<<<<< HEAD
    248
+=======
+   249
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Pizza Hut
 
 Pizza Hut
@@ -215,6 +271,7 @@ Pomme de Pain
    1
    30 spécialités alsaciennes à goûter absolument
    2
+<<<<<<< HEAD
    Classement des 16 meilleurs sandwichs Subway
    3
    Classement des 30 meilleurs burgers de Burger King
@@ -239,6 +296,32 @@ Pomme de Pain
    1 855 votes
    Les 35 desserts préférés des Français
    4 226 votes
+=======
+   Classement des 100+ plus grands chefs cuisiniers français
+   3
+   Top 100+ des meilleures chaînes de restaurants au monde
+   Votez aussi pour
+   Top 100+ des meilleures chaînes de restaurants au monde
+   3 247 votes
+   Classement des 16 meilleurs sandwichs Subway
+   900 votes
+   Classement des 43 meilleurs Burgers de chez McDo
+   45 153 votes
+   Classement des 30 meilleurs burgers de Burger King
+   9 916 votes
+   Classement des 100+ plus grands chefs cuisiniers français
+   8 926 votes
+   Classement des meilleures pâtisseries françaises
+   16 245 votes
+   Top 15 des spécialités du Nord qui remontent le plus le moral
+   4 338 votes
+   30 spécialités alsaciennes à goûter absolument
+   1 855 votes
+   Les 35 desserts préférés des Français
+   4 233 votes
+   Les 50+ meilleurs fromages de France, d'après les français
+   10 894 votes
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Plus de tops
 
    Toplitic

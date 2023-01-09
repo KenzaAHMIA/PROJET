@@ -69,7 +69,7 @@ KFC
    d’ailleurs situé dans une station-service. La recette de poulet frit du
    colonel remportant un franc succès, d’autres magasins ont rapidement
    été ouverts un peu partout. Sanders qui reste connu pour sa méthode
-   permettant un rendement plus important mais aussi pour sa recette �
+   permettant un rendement plus important mais aussi pour sa recette à
    base de plusieurs épices.
 
 McDonald's
@@ -77,7 +77,7 @@ McDonald's
    Brillamment racontée dans le film Le Fondateur avec Michael Keaton,
    l’histoire de McDo débute le 15 mai 1940 mais ce n’est qu’en 1955 que
    la franchise fut créée. Son inventeur, Ray Kroc, ayant plus ou moins
-   effacé de l’histoire les frères McDonald, eux qui étaient donc �
+   effacé de l’histoire les frères McDonald, eux qui étaient donc à
    l’origine du premier McDo, un établissement somme toute modeste de San
    Bernadino en Californie. Kroc qui leur a enseigné ses méthodes pour
    cuisiner plus vite pour ensuite se développer avec le succès que l’on
@@ -112,14 +112,14 @@ Dunkin' Donuts
    Peut-être aurons-nous un jour la chance de déguster en France les
    beignets de chez Dunkin’ Donuts. Une marqué créée en 1948 et développée
    en tant que franchise dès 1955. C’est à Quincy dans le Massachussetts
-   que Dunkin’ Donuts vit le jour. Petite particularité : si vous allez �
-   New York, vous trouverez un DD tous les 10 mètres (en exagérant �
+   que Dunkin’ Donuts vit le jour. Petite particularité : si vous allez à
+   New York, vous trouverez un DD tous les 10 mètres (en exagérant à
    peine). À Los Angeles et plus largement en Californie en revanche, vous
    avez plus de chances de croiser une otarie qu’un DD.
 
 Jack in the Box
 
-   Fondé en 1951, Jack in the Box est l’un des premiers fast foods �
+   Fondé en 1951, Jack in the Box est l’un des premiers fast foods à
    proposer un drive. Aux États-Unis, on compte plus de 2200
    établissements.
 
@@ -157,10 +157,16 @@ Burger King
 
      * fast food
 
+  Retrouvez Le meilleur Pâtissier Célébrités
+
+   Tous les mercredis à 21h05 sur Gulli
+   Voir l'émission
+
   Les derniers articles publiés
 
    Le contenu chaud, tout juste sorti de notre rédaction
 
+<<<<<<< HEAD
 8 erreurs à ne pas faire avec ses chaussures
 
 10 théories cheloues sur les films Disney
@@ -180,6 +186,28 @@ Burger King
 18 meilleurs films basés sur une énigme
 
 8 histoires de cannibalisme au Moyen Age
+=======
+11 films si les héros avait dit non
+
+9 façons de voir le monde par les Américains
+
+16 personnes qui passent un mauvais début d'année 2023
+
+Un support de papier toilette en forme de mouton, bêêê
+
+20 citations les plus drôles sur l'Angleterre
+
+10 champions de la semaine #412
+
+Une bouillotte pénis qui sourit, chaleur et raffinement
+
+10 trucs flippants de l'évolution
+
+10 personnes qui ont fait des découvertes de ouf en prison
+
+Une ceinture pour attacher ton repas en voiture, pour éviter d'en foutre
+partout
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
   Les articles les plus lus
 
@@ -190,12 +218,21 @@ Burger King
 14 tweets drôles signés Julien Doré
 
 15 règles officielles du Uno
+<<<<<<< HEAD
 
 Un coussin pour les fans de saucisson, ta passion jusque dans ton salon
 
 10 cartes insolites sur la prononciation du Français en fonction des régions
 épisode 2
 
+=======
+
+10 cartes insolites sur la prononciation du Français en fonction des régions
+épisode 2
+
+Un coussin pour les fans de saucisson, ta passion jusque dans ton salon
+
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Un énoooooorme poisson peluche
      * Le récap de Mariés au premier regard, s06e03
 

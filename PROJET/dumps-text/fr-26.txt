@@ -49,7 +49,11 @@
    ____________________votre email
    [BUTTON Input] (not implemented)________________
    Un mot de passe vous sera envoyé par email.
+<<<<<<< HEAD
    mer 4 Jan 2023
+=======
+   lun 9 Jan 2023
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Se connecter / S'inscrire
      * Lafont presse
      * Lafont presse éditions
@@ -65,10 +69,14 @@
    Logo Logo EntreprendreL\'essentiel de l\'actualité économique
    spot_img spot_img
      * Actu
+          + TousLe Journal d'Entreprendre au Festival de Cannes
+            Actu
 
-     * TousLe Journal d'Entreprendre au Festival de Cannes
-       Actu
+Quand la ville de Nantes s’en prend à la liberté d’entreprendre
+            07/01/2023
+            Actu
 
+<<<<<<< HEAD
 La Chine annonce la reprise de la délivrance des visas toutes catégories �
 partir du 8 janvier 2023
        28/12/2022
@@ -105,9 +113,55 @@ Stéphane Courbit, le plus audacieux et le plus secret milliardaire de France
 Comment l’ISG veut réinventer la fonction RH
        03/01/2023
      * Dirigeants
+=======
+La Chine annonce la reprise de la délivrance des visas toutes catégories à
+partir du 8 janvier 2023
+            28/12/2022
+            Actu
 
-     * Dirigeants
+Eric Favre, Jim Ratcliffe et Alain Ducasse à la Une du magazine Entreprendre
+            22/12/2022
+            Actu
 
+Quand tout le Maroc rugit de plaisir pour ses Lions de l’Atlas !
+            14/12/2022
+     * Entreprises
+          + TousCréation
+            d'entrepriseDirigeantsManagementPMESociétésStart-up
+            Entreprises
+
+Brico Fenêtre veut conquérir l’Europe
+            09/01/2023
+            Entreprises
+
+Guillaume Millo : « Transmettre c’est laisser quelque chose en héritage comme
+une source d’inspiration »
+            09/01/2023
+            Dirigeants
+
+Benjamin Patou, nouveau roi de la restauration parisienne ?
+            08/01/2023
+            Entreprises
+
+Stellantis va produire des taxis volants
+            06/01/2023
+          + Dirigeants
+               o Dirigeants
+
+Benjamin Patou, nouveau roi de la restauration parisienne ?
+                 08/01/2023
+                 Dirigeants
+
+Nutrition : Raphaella Nolleau invente l’alimentation sans sucre
+                 04/01/2023
+                 Dirigeants
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+Stéphane Courbit, le plus audacieux et le plus secret milliardaire de France
+                 03/01/2023
+                 Art de vivre
+
+<<<<<<< HEAD
 Nutrition : Raphaella Nolleau invente l’alimentation sans sucre
        04/01/2023
        Dirigeants
@@ -168,11 +222,45 @@ Qui nous sortira de la chienlit en 2023 ?
 
 L’Union Européenne, première victime de la guerre en Ukraine
        31/12/2022
+=======
+Jusqu’où ira Bruno Paillard, le Conquérant du Champagne ?
+                 23/12/2022
+                 Dirigeants
 
-     Art de vivre
-     * TousGastronomieTourisme
-       Art de vivre
+Jacques Borel, pionnier visionnaire de la restauration rapide
+                 22/12/2022
+     * Éco
+          + TousArgentBourseÉconomieImmobilierLa chronique de Robert
+            LafontIndiscrétionsLifestyleSport Business
+            Sport Business
 
+« Pari sportif » perdu pour Cazoo ?
+            09/01/2023
+            Éco
+
+Comment redonner un avenir à l’agriculture française et aux campagnes
+            06/01/2023
+            La chronique de Robert Lafont
+
+Retraites : levons le tabou de la capitalisation !
+            06/01/2023
+            Éco
+
+De la théorie du libre-échange à celle du profit maximum
+            05/01/2023
+     * Entreprendre Vox
+          + Actu
+
+Quand la ville de Nantes s’en prend à la liberté d’entreprendre
+            07/01/2023
+            Entreprendre Vox
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+La mort de Pelé, un événement insignifiant ?
+            07/01/2023
+            Entreprendre Vox
+
+<<<<<<< HEAD
 Au Salon de la Loire Volcanique : la Côte Roannaise à la Une
        28/12/2022
        Art de vivre
@@ -188,24 +276,46 @@ La passion selon Alain Ducasse
 « La Bouitte », un trois étoiles savoyard au sommet de la gastronomie
 française
        04/12/2022
+=======
+Quand les tirailleurs sénégalais étaient enrôlés de force… et sans pension
+            04/01/2023
+            Entreprendre Vox
 
-     Services
-     * Entreprendre Formation
-     * Fusions & Acquisitions
-     * Veille juridique
+Bilan d’une France qui s’effondre
+            03/01/2023
+            Entreprendre Vox
 
-     Vidéo
+Pour une France nouvelle, une France d’avenir !
+            02/01/2023
+     * Art de vivre
+          + TousGastronomieTourisme
+            Art de vivre
 
+Au Salon de la Loire Volcanique : la Côte Roannaise à la Une
+            28/12/2022
+            Art de vivre
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
+Jusqu’où ira Bruno Paillard, le Conquérant du Champagne ?
+            23/12/2022
+            Dirigeants
 
-   Podcasts
+La passion selon Alain Ducasse
+            20/12/2022
+            Gastronomie
 
-
-
-   KIOSQUE
+« La Bouitte », un trois étoiles savoyard au sommet de la gastronomie
+française
+            04/12/2022
+     * Services
+          + Entreprendre Formation
+          + Fusions & Acquisitions
+          + Veille juridique
+     * Vidéo
+     * Podcasts
+     * KIOSQUE
 
    ____________________ (BUTTON) Recherche
-
    Accueil Entreprises Création d'entreprise La perçée du fast food à la
    française
 
@@ -262,7 +372,7 @@ Produits frais et qualité
 
    Points communs : accueil chaleureux, dynamique, orchestré par un
    management favorisant la formation et la promotion interne ; produits
-   ultra-frais, préparés sur place ; amplitude horaire souvent limitée �
+   ultra-frais, préparés sur place ; amplitude horaire souvent limitée à
    la semaine et au déjeuner ; et, évidemment, la mise en avant du
    développement durable (recyclage, produits d’agriculture biologique,
    commerce équitable).
@@ -271,7 +381,7 @@ Produits frais et qualité
 
 Des prix élevés mais justifiés
 
-   Cette nouvelle attitude permet de justifier des prix élevés : de 10 �
+   Cette nouvelle attitude permet de justifier des prix élevés : de 10 à
    12 € le ticket moyen pour une formule plat-boisson-dessert. Sans
    rechigner, le consommateur accepte de faire des efforts sur l’addition
    pour retrouver du goût dans son assiette. Plus de 1 Français sur 3 est
@@ -288,11 +398,20 @@ Des prix élevés mais justifiés
 
 À LIRE AUSSIEN SAVOIR PLUS SUR L'AUTEUR
 
+<<<<<<< HEAD
 Iran : le secret de la résistance face à une répression inédite
 
 Nutrition : Raphaella Nolleau invente l’alimentation sans sucre
 
 Quand les tirailleurs sénégalais étaient enrôlés de force… et sans pension
+=======
+Brico Fenêtre veut conquérir l’Europe
+
+« Pari sportif » perdu pour Cazoo ?
+
+Guillaume Millo : « Transmettre c’est laisser quelque chose en héritage comme
+une source d’inspiration »
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
 LAISSER UN COMMENTAIRE Annuler la réponse
 
@@ -316,7 +435,11 @@ LAISSER UN COMMENTAIRE Annuler la réponse
    [ ] Sauvegarder mes informations
 
    Saisissez votre réponse en chiffres
+<<<<<<< HEAD
    un × trois =___
+=======
+   3 × 4 = __
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Poster un commentaire
 
@@ -334,6 +457,7 @@ Le Mag
 
 Derniers articles
 
+<<<<<<< HEAD
 Iran : le secret de la résistance face à une répression inédite
 
    04/01/2023
@@ -345,6 +469,20 @@ Nutrition : Raphaella Nolleau invente l’alimentation sans sucre
 Quand les tirailleurs sénégalais étaient enrôlés de force… et sans pension
 
    04/01/2023
+=======
+Brico Fenêtre veut conquérir l’Europe
+
+   09/01/2023
+
+« Pari sportif » perdu pour Cazoo ?
+
+   09/01/2023
+
+Guillaume Millo : « Transmettre c’est laisser quelque chose en héritage comme
+une...
+
+   09/01/2023
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    À PROPOS
    Entreprendre.fr, le site de l'information économique, des entreprises

@@ -4,7 +4,11 @@
 
    Eighties
 
+<<<<<<< HEAD
    Eighties.fr, le site qui fait encore développer ses photos
+=======
+   Eighties.fr, le site qui mange du Tang. Sans eau.
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
      * ACCUEIL
      * Qui sommes nous
@@ -123,7 +127,7 @@ Mc Donald’s :
 
    Seul notre brave Raymond y croit, et parvient à convaincre la McDo
    Company de lui accorder la licence. Chose que la firme accepte, avec en
-   bonus des conditions incroyablement avantageuses pour le français, �
+   bonus des conditions incroyablement avantageuses pour le français, à
    savoir des taxes pour les franchisés quasiment nulles (1,5 % au lieu de
    10 à 20 % selon les pays).
 
@@ -300,7 +304,7 @@ Burger King
    IFRAME: https://www.youtube.com/embed/ToYBSi2P_Fc?feature=oembed
 
    Au début des années 90, Burger King tente bien une approche plus
-   familiale, en développant plusieurs opérations commerciales �
+   familiale, en développant plusieurs opérations commerciales à
    destination des jeunes (Power Rangers, Disney, Tortue Ninja …), mais
    c’était bien trop tard. En 1997, le géant de la restauration jette
    l’éponge en France, et se concentre sur le reste de l’Europe. Avec 39
@@ -393,7 +397,7 @@ Pic’pain :
    possédant tout de même de belles originalités. Pic’Pain, comme son nom
    l’indique, mettait en avant le hamburger à la Française, avec du pain
    bien de chez nous, bien croustillant. Il y avait même des pommes de
-   terre au four afin d’offrir une alternative franchouillarde �
+   terre au four afin d’offrir une alternative franchouillarde à
    l’incontournable paquet de frites !
 
    Le menu Pic’Pain coutait 20 francs soit 3 euros… Loin d’offrir autant
@@ -426,6 +430,31 @@ Voir les commentaires ! – Ajouter un commentaire !! !
 
 Sur le même thème
 
+   Chocolat Treets années 80
+   Pubs et Produits quotidiens
+
+Treets et Bonitos, les M&M’s des années 70 / 80 !
+
+   14 septembre 2017 Max 0
+
+   Allez zou ! Aujourd’hui on va se mettre plein de boules de chocolat
+   dans le bidon !! Si vous êtes un enfant de la même époque que la nôtre,
+   vous n’avez pas pu oublier les ancêtres de nos bons vieux M&M’s,
+   appelés Treets et Bonitos !!! Les Bonitos, […]
+
+   Belle des champs fromage des annees 80 1
+   Pubs et Produits quotidiens
+
+Le Fromage Belle des champs !
+
+   11 septembre 2009 Tommy 1
+
+   Entre fromage et dessert, ici, on a choisi !! ! Venez donc baguenauder
+   dans les pâturages, venez donc vous promener avec la Belle des Champs !
+   Qu’il est blanc, qu’il est crémeux cet article !
+
+   […]
+
    Pubs et Produits quotidiens
 
 Mini berlingots de Nestlé : Le lait concentré sucré des 80’s !
@@ -438,6 +467,7 @@ Mini berlingots de Nestlé : Le lait concentré sucré des 80’s !
    et surtout des mini berlingots !!   Faut bien admettre que c’est super
    […]
 
+<<<<<<< HEAD
    Annees 80, 80's, eighties, Bonbons des annees 80, Smarties, Nestlé,
    Collection, images du cirque, tubes, boites, bus smarties, nostalgie,
    souvenirs,
@@ -468,6 +498,8 @@ Le Fromage Belle des champs !
 
    […]
 
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 14 Commentaires
 
     1.
@@ -489,7 +521,7 @@ Le Fromage Belle des champs !
        soleil qui se trouvait à côté de l’actuel emplacement du Sephora
        dans les années 80. C’était un comptoir à l’Américaine, avec les
        burgers cuits sur une plauqe à la demande, avec une sauce tartatre
-       délicieuse. Il s’appelait quick Burger il me semble, mais rien �
+       délicieuse. Il s’appelait quick Burger il me semble, mais rien à
        voir avec l’abomination Belge.
        Répondre
     4.
@@ -552,7 +584,7 @@ Le Fromage Belle des champs !
     8.
    fano
        23 juin 2021 á 17 h 17 min
-       Salut, j’ai mangé mon premier burger dans un fast nommé PACMAN �
+       Salut, j’ai mangé mon premier burger dans un fast nommé PACMAN à
        Orléans. Quelqu’un connait ?
        Répondre
     9.

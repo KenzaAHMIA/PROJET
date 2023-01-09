@@ -148,12 +148,20 @@ Mots proches
    QUIZ
      __________________________________________________________________
 
+<<<<<<< HEAD
    Pour les mots « sandwich » ou « match », quel pluriel faut-il utiliser
    de préférence en français ?
      *
           + (*) sandwiches et matches
           + ( ) sandwichs et matchs
           + ( ) les mots sont invariables
+=======
+   Lequel de ces noms a un pluriel en « aux » ?
+     *
+          + (*) chacal
+          + ( ) chenal
+          + ( ) festival
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Applications mobiles Index Mentions légales et crédits CGU Charte de
    confidentialité Cookies Contact © Larousse

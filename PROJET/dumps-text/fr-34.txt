@@ -247,7 +247,7 @@ Investir dans la restauration rapide en franchise
    concepts de restauration rapide et une multitude d’établissements
    disséminés partout en France. Cependant la restauration rapide reste un
    secteur porteur, à condition de faire les bons choix ! Devenir
-   franchisé d’un réseau de restauration rapide est une solution �
+   franchisé d’un réseau de restauration rapide est une solution à
    sérieusement étudier. Les avantages de rejoindre une franchise pour
    ouvrir un restaurant sont en effet à prendre en considération. Le
    premier d’entre eux est certainement d’avoir accès à un concept qui a
@@ -339,6 +339,7 @@ Trouver une franchise
 
 Les franchises qui recrutent dans le même secteur
 
+<<<<<<< HEAD
 MY LITTLE WARUNG
 
    Les restaurants beach food de l’Asie du sud-est
@@ -347,24 +348,105 @@ MY LITTLE WARUNG
    saine adaptée à tous les régimes, un accueil chaleureux, une ambiance
    décontractée et un décor de cabane [...]
    20
+=======
+SANTOSHA
+
+   Première cantine street food d'Asie du Sud-Est
+   Des restaurants ouverts 7 jours sur 7, sur place, à emporter et en
+   livraison ! Une cuisine saine, fraîche et équilibrée s’adaptant à tous
+   les régimes alimentaires. Une identité forte avec un code couleur
+   composé de jaune et de vert, des tables [...]
+   19
+   Implantations
+   75 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+NBK NAANERIE
+
+   Franchise street food restauration rapide. Cheese Naans & produits
+   frais
+   Enseigne de street food évoluant dans l’univers du Cheese Naan, la
+   future grande tendance food en France.
+   3
+   Implantations
+   45 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+CLASS'CROUTE
+
+   Restauration rapide, livraison aux salariés et aux entreprises.
+   Class’croute associe restauration rapide sur place/à emporter et la
+   livraison en entreprise de plateaux-repas, de cocktails et de buffets.
+   150
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Implantations
    100 000 €
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
-LA PANETIÈRE
+FOUD
 
-   Restauration rapide, terminal de cuisson, pains, viennoiseries,
-   pâtisseries, sandwichs, salades, café, boulangerie, snacking.
-   Le goût du pain retrouvé. Restauration boulangère, pains exceptionnels
-   et pâtisserie créative, nés d’une terre saine et nourricière qui
-   confère à nos produits leur caractère unique.
-   220
+   Foud, cuisine de bistrot fait maison, à déguster sur place, en
+   livraison ou à emporter. Restauration rapide - Restaurant d’entreprise
+   - Livraison repas - Pause déjeuner - Plateaux repas - restauration
+   digitale
+   FOUD propose de vrais repas avec des recettes françaises, y compris
+   végétariennes, à la fois gourmandes et conviviales, saines et
+   équilibrées. Une cuisine de bistrot, « faite maison », à découvrir et à
+   réchauffer le midi et le soir, pour [...]
+   5
+   Implantations
+   145 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+OLLA | POKEBOWLS
+
+   La franchise de Pokébowls gourmands et gourmets!
+   Une Oasis Urbaine alliant lieu de vie tendance, des bons et beaux
+   produits et un accueil chaleureux.
+   1
+   Implantation
+   60 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+LA MIE DE PAIN
+
+   Une passion gourmande
+   Boulangerie pâtisserie artisanale, sandwicherie, restauration rapide
+   40
+   Implantations
+   150 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+COTE SUSHI
+
+   Nikkei from Peru
+   Côté Sushi est le N°1 Français de la livraison, vente à emporter & sur
+   place de la cuisine Nikkei (cuisine fusion Japonaise Péruvienne). Une
+   restauration à destination des particuliers et des entreprises.
+   48
+   Implantations
+   100 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+LE CARIBEEN
+
+   Bokit & Street Food
+   Restauration rapide inspirée de la street-food antillaise (bokit,
+   burgers, salades) à base de viande halal.
+   3
    Implantations
    60 000 €
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+<<<<<<< HEAD
 BELGA QUEEN
 
    La Véritable Gaufre Belge
@@ -428,15 +510,25 @@ L'ATELIER PAPILLES
    (BUTTON) Demander une documentation gratuite
 
 O'TACOS
+=======
+COMPOSE - CANTINE SUR MESURE
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
-   Un Tacos Oui Mais O’tacos
-   Le tacos à la française par excellence
-   280
+   Restauration rapide sur mesure qui propose un large choix de plats
+   chauds ou froids avec des produits sélectionnés et préparés sur place
+   par nos cuisiniers quotidiennement à déguster sur place, à commander en
+   ligne en click&collect ou en livraison.
+   Réseau de restauration rapide sur mesure, raffiné, convivial, urbain.
+   Du petit-déjeuner au dîner, COMPOSE offre un large choix gourmand qui
+   évolue au gré des saisons et se décline en plats chauds, froids,
+   salades, soupes, pizzas, tartes [...]
+   15
    Implantations
    80 000 €
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+<<<<<<< HEAD
 L'ALSACIEN
 
    L’ALSACIEN, Bar à Flammekueche ; terroir, bières et vin au service
@@ -459,6 +551,15 @@ BILL'S BURGER
    4
    Implantations
    65 000 €
+=======
+BOULANGERIE SOPHIE LEBREUILLY
+
+   La Gourmandise, recette de notre développement !
+   Boulangerie, Pâtisserie, Restauration Rapide et Café Gourmand
+   35
+   Implantations
+   120 000 €
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 

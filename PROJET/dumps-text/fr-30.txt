@@ -45,13 +45,13 @@ Formulaire de candidature
 
 Informations personnelles
 
-   Prénom*_________________________________________
+   Prénom* ________________________________________
    Nom* ________________________________________
    Adresse* ________________________________________
    Code postal* ________________________________________
    Ville* ________________________________________
    E-mail* ________________________________________
-   Téléphone__________________________________________
+   Téléphone* ________________________________________
 
 Votre projet
 
@@ -81,7 +81,7 @@ Votre projet
    Apport personnel* ________________________________________
    A quelle échéance souhaitez-vous lancer votre projet ?*
    ________________________________________
-   Secteur géographique souhaité__________________________________________
+   Secteur géographique souhaité* ________________________________________
    Comment nous avez-vous connu ?*
    ________________________________________
    [ ] J'accepte que Tutti Pizza et ses prestataires collectent et

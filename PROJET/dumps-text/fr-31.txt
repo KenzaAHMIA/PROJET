@@ -32,7 +32,7 @@ L’ascension du marché de la restauration rapide en France
    La restauration rapide, communément appelé “fast-food” est un type de
    restauration à un prix souvent raisonnable, avec des horaires
    flexibles. Ces fast-foods proposent des produits dont la préparation
-   est globalement automatisée, pouvant être consommés sur place ou �
+   est globalement automatisée, pouvant être consommés sur place ou à
    emporter. En France, l’offre de restauration rapide est très variée, en
    passant par des hamburgers, des kebabs ou encore des sushis ! Les
    français consomment de plus en plus de fast-foods. Un rapport de
@@ -110,7 +110,7 @@ L’ascension du marché de la restauration rapide en France
 
 
    En comparaison au service à table, les fast-foods ont été peu impactés
-   par la Covid-19. Effectivement, la restauration rapide était déj�
+   par la Covid-19. Effectivement, la restauration rapide était déjà
    formée à la vente à emporter, au drive, ou encore à la livraison.
    D’après Bernard Boutboul, Président de Gira, ce secteur a connu un
    retrait de seulement 5 à 10% de son chiffre d’affaires sur l’année

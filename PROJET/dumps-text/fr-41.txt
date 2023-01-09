@@ -12,49 +12,34 @@
    (BUTTON)
 
      * Musique Musique Musique Musique
-
-     * Dossiers
-     * Rap US
-     * Ventes
-     * Actualités Musique
-     * Clips
-     * Voir tout
-
-     Vidéos Vidéos Vidéos Vidéos
-     * Freestyles
-     * Interviews
-     * Voir tout
-
-
-
-   Pop-Culture Pop-Culture Pop-Culture Pop-Culture
-
-     * Dossiers
-     * Geek
-     * Jeux vidéo
-     * Manga/Animé
-     * Series/Cinéma
-     * WTF
-     * Voir tout
-
-
-
-   Lifestyle Lifestyle Lifestyle Lifestyle
-
-     * Dossiers
-     * Voir tout
-
-
-
-   Sport Sport Sport Sport
-
-     * Dossiers
-     * Voir tout
+          + Dossiers
+          + Rap US
+          + Ventes
+          + Actualités Musique
+          + Clips
+          + Voir tout
+     * Vidéos Vidéos Vidéos Vidéos
+          + Freestyles
+          + Interviews
+          + Voir tout
+     * Pop-Culture Pop-Culture Pop-Culture Pop-Culture
+          + Dossiers
+          + Geek
+          + Jeux vidéo
+          + Manga/Animé
+          + Series/Cinéma
+          + WTF
+          + Voir tout
+     * Lifestyle Lifestyle Lifestyle Lifestyle
+          + Dossiers
+          + Voir tout
+     * Sport Sport Sport Sport
+          + Dossiers
+          + Voir tout
 
    L'actu en continu
    Tous nos dossiers
    Contactez-nous
-
    Suivez-nous absolument partout
 
    ____________________
@@ -75,7 +60,11 @@
 
 En France, La capitale du fast-food est…
        Partager
+<<<<<<< HEAD
        40910 vues
+=======
+       40911 vues
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
        Un classement qui réserve son lot de surprises.
        Pour la journée mondiale de la santé, un média français a établi
        son classement des villes qui comptent le plus de chaînes de
@@ -109,6 +98,7 @@ Top articles
 
 Dossiers
        VOIR TOUT
+<<<<<<< HEAD
        #Sport il y a 4 heures
 
 40 anecdotes trop stylées sur Allen Iverson
@@ -139,12 +129,45 @@ Mais de quoi parle Dr. Dre dans The Chronic ?
        #Rap FR 20 décembre 2022
 
 Live Report Damso à l'Accor Arena
+=======
+       #Rap US 6 janvier 2023
+
+Mais de quoi parle « Enter the Wu-Tang » ?
+       #Sport 6 janvier 2023
+
+Le côté obscur de Mohamed Ali
+       #Sport 4 janvier 2023
+
+40 anecdotes sur le mauvais garçon Allen Iverson
+       #lifestyle 30 décembre 2022
+
+True Religion, la marque que plus personne ne porte
+       #Rap FR 30 décembre 2022
+
+Comment 1995 a influencé toute une génération ?
+       #Rap FR 29 décembre 2022
+
+Les albums les plus attendus de 2023
+       #Cinéma 29 décembre 2022
+
+66 anecdotes qui tuent sur Kill Bill de Tarantino
+       #Rap US 28 décembre 2022
+
+« The Chronic » contre « 2001 » de Dr. Dre
+       #Cinéma 23 décembre 2022
+
+Les 12 blockbusters immanquables en 2023
+       #lifestyle 22 décembre 2022
+
+La Air Force 1, la plus présidentielle des baskets
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
 À lire aussi
        VOIR TOUT
    #lifestyle
 
 Une IA créée une collection Jacquemus x Nike
+<<<<<<< HEAD
        18420 vues
    #lifestyle
 
@@ -166,6 +189,29 @@ adidas prêt à relancer sa 350S sans Yeezy ?
 
 Le PSG réédite ses maillots de la saison 93/94
        2158 vues
+=======
+       19213 vues
+   #lifestyle
+
+Nike : 3 millions de dollars toutes les 5 heures
+       1547 vues
+   #lifestyle
+
+adidas : des millions de dollars de stock de Yeezy à écouler ?
+       5518 vues
+   #lifestyle
+
+Justin Bieber très remonté contre H&M
+       1567 vues
+   #lifestyle
+
+adidas prêt à relancer sa 350S sans Yeezy ?
+       3313 vues
+   #lifestyle
+
+Le PSG réédite ses maillots de la saison 93/94
+       2196 vues
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
           + Musique Musique Musique Musique
           + Nos vidéos Nos vidéos Nos vidéos Nos vidéos
           + Pop-Culture Pop-Culture Pop-Culture Pop-Culture

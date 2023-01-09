@@ -141,7 +141,7 @@ Five Guys
    installées en France. Sa popularité est beaucoup due à Barack Obama
    dont c’est la chaîne préférée. Ils proposent des burgers et autres
    sandwichs. Leurs frites sont cuites dans l’huile d’arachide, ce qui
-   leur donne un goût différent. Ils proposent également des milkshakes �
+   leur donne un goût différent. Ils proposent également des milkshakes à
    composer.
 
 
@@ -371,7 +371,7 @@ Berts
    Prix : €
 
    Berts est un mix entre le café typique français et la restauration
-   rapide. On y trouve principalement des sandwichs et des salades faits �
+   rapide. On y trouve principalement des sandwichs et des salades faits à
    base de produits frais (voire bio) sur place.
 
 
@@ -452,7 +452,7 @@ Homer Lobster
 
    Prix : €€€
 
-   La spécialité d’Homer Lobster est le Lobster Roll. C’est un sandwich �
+   La spécialité d’Homer Lobster est le Lobster Roll. C’est un sandwich à
    base de homard typiquement américain, ici réalisé dans une brioche
    artisanale à la française. D’autres spécialités sont disponibles,
    toujours à base de poissons (thon ou saumon) ou de crabe.
@@ -464,7 +464,7 @@ Joe Burger
 
    Prix : €
 
-   Joe Burger propose aussi bien des burgers que des tartinades �
+   Joe Burger propose aussi bien des burgers que des tartinades à
    accompagner de frites. Le pain est artisanal, les frites fraîches et la
    viande est hachée sur place. Les produits sont frais et le menu inclut
    des options végétariennes et vegan, ou encore sans lactose.
@@ -598,7 +598,7 @@ B.Bell Broche
 
    B.Bell Broche c’est un kebab à la française (on dit une broche). Les
    produits sont frais et faits maison. Le fromage est garanti AOC et la
-   viande est française. On a le choix entre les sandwichs proposés ou �
+   viande est française. On a le choix entre les sandwichs proposés ou à
    composer. Une option végétarienne est disponible.
 
 

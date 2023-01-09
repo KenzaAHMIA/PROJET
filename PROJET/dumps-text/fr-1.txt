@@ -60,45 +60,18 @@ Sommaire
      * Début
      * 1Historique
        (BUTTON) Afficher / masquer la sous-section Historique
-
-     * 1.1En France
-
-     2Types de restauration rapide
-
-
-
-   3Exemples de préparations et mets
-
-
-
-   4Chaînes de restauration rapide
-
-
-
-   5Controverses
-
-
-
-   6Filmographie
-
-
-
-   7Notes et références
-
-
-
-   8Annexes
-
-   (BUTTON) Afficher / masquer la sous-section Annexes
-     * 8.1Bibliographie
-
-
-
-   8.2Articles connexes
-
-
-
-   8.3Liens externes
+          + 1.1En France
+     * 2Types de restauration rapide
+     * 3Exemples de préparations et mets
+     * 4Chaînes de restauration rapide
+     * 5Controverses
+     * 6Filmographie
+     * 7Notes et références
+     * 8Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 8.1Bibliographie
+          + 8.2Articles connexes
+          + 8.3Liens externes
 
    Basculer la table des matières
    [ ]
@@ -117,7 +90,7 @@ Restauration rapide
      * Български
      * বাংলা
      * བོད་ཡིག
-     * Catal�
+     * Català
      * Corsu
      * Čeština
      * Dansk
@@ -433,7 +406,7 @@ Chaînes de restauration rapide[modifier | modifier le code]
 Controverses[modifier | modifier le code]
 
    Il est souvent reproché aux chaînes de restauration rapide (restaurants
-   de hamburgers notamment) de fournir une cuisine médiocre contribuant �
+   de hamburgers notamment) de fournir une cuisine médiocre contribuant à
    la « malbouffe »^[13] ; diététiquement néfaste, source de gaspillage,
    sous-tendue par une volonté de profit maximum ayant recours aux bas
    salaires. Ces critiques émanent notamment du monde médical et

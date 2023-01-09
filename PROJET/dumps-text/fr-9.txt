@@ -196,13 +196,21 @@ villes où les fast-foods sont les plus nombreux.
      *
    Colocation : les villes où les candidats ont le plus de mal à trouver
        un logement
-       Colocation : les villes où les candidats ont le plus de mal �
+       Colocation : les villes où les candidats ont le plus de mal à
        trouver un logement
        Immobilier
      *
+<<<<<<< HEAD
    Les 10 villes d’Europe où trouver le plus facilement un emploi
        Les 10 villes d’Europe où trouver le plus facilement un emploi
        Votre carrière
+=======
+   Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira son
+       premier restaurant à Paris
+       Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira
+       son premier restaurant à Paris
+       Conso
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      *
    Les fast-foods étrangers lui mangent dans la main
        Les fast-foods étrangers lui mangent dans la main
@@ -212,6 +220,7 @@ villes où les fast-foods sont les plus nombreux.
        Sodebo : le triomphe du fast-food à la française
        Entreprises et marchés
      *
+<<<<<<< HEAD
    Angers, désignée comme la ville où l'on vit le mieux en France en 2022
        Angers, désignée comme la ville où l'on vit le mieux en France en
        2022
@@ -222,6 +231,11 @@ villes où les fast-foods sont les plus nombreux.
        Ces villes où il est facile de trouver une colocation… et celles où
        vous aurez du mal
        Immobilier
+=======
+   Après le "food" McDo soigne le "fast"
+       Après le "food" McDo soigne le "fast"
+       Entreprises et marchés
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Logo capital 30 ans Inscrivez-vous gratuitement pour accéder aux
    articles exclusifs des 30 ans de Capital Ou je vais sur capital.fr

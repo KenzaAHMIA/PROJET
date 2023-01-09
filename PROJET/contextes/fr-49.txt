@@ -5,10 +5,24 @@
 
    Mais pour ce qui est des fast-food avec pignon sur rue, de ces valeurs
    sûres garanties 100% exploitation du personnel dans lesquelles on
+<<<<<<< HEAD
    retourne encore et encore malgré l’écoeurement qui nous y étreint �
 --
    12/06/2009 17:34
    Je confirme la politique branchée d'O'Kitch. Expos d'artistes (de
    mémoire le collectif Bazooka). C'était même le premier fast-food �
+=======
+   retourne encore et encore malgré l’écoeurement qui nous y étreint à
+--
+   Les deux marques se sont à ce point inscrites dans le paysage qu’on en
+   oublierait presque les challengers qui ont fait trembler le monde de la
+   restauration rapide française dans les années 80.
+
+   Le premier McDonald’s, d’après plusieurs sources wikipediesques, aurait
+--
+   12/06/2009 17:34
+   Je confirme la politique branchée d'O'Kitch. Expos d'artistes (de
+   mémoire le collectif Bazooka). C'était même le premier fast-food à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    diffuser des clips vidéos sur des moniteurs (souvenirs de fins de
    soirée d'après concert dans le quartier des Halles, à Paris)

@@ -6,6 +6,7 @@
 
    Skip to content
 
+<<<<<<< HEAD
    access_time2023-01-04
    Latest:
      * « Laïcité » : comprendre la loi sur la séparation des Eglises et de
@@ -20,6 +21,24 @@
      * « Kaleidoscope » saison 2 : est-ce déjà prévu ?
      * « Kaleidoscope » : la série Netflix a regarder dans n’importe quel
        ordre
+=======
+   access_time2023-01-09
+   Latest:
+     * Molière : retour sur la vie mouvementée du dramaturge !
+     * L’expérience du cerf-volant de Benjamin Franklin a-t-elle vraiment
+       existé ?
+     * « Ginny & Georgia » saison 3 : est-ce prévu par Netflix ?
+     * Auren et Jeanne Cherhal chantent le désir des femmes avec
+       « Vivante »
+     * Edward Norton découvre qu’il serait un descendant de Pocahontas !
+     * « Qui aurait pu prédire la crise climatique ? » : beaucoup de gens,
+       et depuis des siècles
+     * « Hunger Games 5 » : que sait-on actuellement sur le film ?
+     * 3 raisons de (re)découvrir « Hunger Games »
+     * « Laïcité » : comprendre la loi sur la séparation des Eglises et de
+       l’Etat
+     * « Ginny & Georgia » saison 2 arrive enfin sur Netflix
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Cultea
 
@@ -161,7 +180,7 @@ Les débuts compliqués du fast food en France
    en bataille juridique avec l’homme d’affaires français, car il ne lui
    verse pas assez de bénéfices. En 1981, la franchise accordée à Dayan
    prend alors fin, et il renomme ses restaurants OKitch, que Quick
-   rachètera plus tard. Avant cela, un McDonald’s ouvre ses portes �
+   rachètera plus tard. Avant cela, un McDonald’s ouvre ses portes à
    Strasbourg, le 17 septembre 1979.
    Quick - Cultea Logo de Quick.
 

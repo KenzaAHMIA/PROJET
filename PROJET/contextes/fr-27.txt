@@ -14,6 +14,11 @@ Selon un rapport de l'Anses, la consommation de fast-food a grimpé ces dix
 dernières années. Pour contrer cette tendance, l'Agence incite à faciliter
 l'accès aux cantines, scolaires et professionnelles.
 --
+<<<<<<< HEAD
+=======
+   de l'Agence nationale de sécurité sanitaire de l’alimentation, de
+   l’environnement et du travail (Anses) publiée le 25 février, la
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    restauration rapide gagne en popularité chez les enfants, adolescents
    et adultes français. La part de ceux qui affirment ne jamais manger au
    fast-food a fondu comme neige au soleil : ils représentaient un tiers
@@ -74,13 +79,23 @@ l'accès aux cantines, scolaires et professionnelles.
        conquérir la France
        Entreprises et marchés
      *
+<<<<<<< HEAD
+=======
+   Fast-Food: on va manger quoi dans 10 ans ?
+       Fast-Food: on va manger quoi dans 10 ans ?
+       Conso
+     *
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    McDonald’s contre Burger King : la guerre du fast-food
        McDonald’s contre Burger King : la guerre du fast-food
        Entreprises et marchés
      *
+<<<<<<< HEAD
 --
        Conso
      *
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Bercy fait condamner la chaine de fast-food Subway
        Exclu Capital. Bercy fait condamner la chaine de fast-food Subway
        Entreprises et marchés

@@ -16,10 +16,18 @@
           + Climat
           + Coronavirus et pandémie de Covid-19
           + Iran
+<<<<<<< HEAD
           + Union européenne
           + Royaume-Uni
           + Inflation
           + Mort de Pelé
+=======
+          + Royaume-Uni
+          + Santé
+          + États-Unis
+          + Inflation
+          + Union européenne
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
           + Toute l’actualité en continu
        Actualités
           + International
@@ -47,6 +55,7 @@
           + Tribunes éco
           + Cities
           + Le Club de l’économie
+<<<<<<< HEAD
        La Bourse de New York, le 15 novembre 2022. La Bourse de New York,
        le 15 novembre 2022.
        Économie
@@ -67,17 +76,57 @@
        « Le président de la République ne peut pas se prévaloir du vote
        des électeurs en avril pour imposer sa réforme des retraites »
        Collectif
+=======
+       L’influenceuse française Léa Elui présente une création pour
+       L'Oréal à la Fashion Week de Paris, le 2 octobre 2022.
+       L’influenceuse française Léa Elui présente une création pour
+       L'Oréal à la Fashion Week de Paris, le 2 octobre 2022. Enquête
+       Article réservé aux abonnés
+       Comment réguler le Far West des influenceurs
+       Économie
+       Article réservé aux abonnés
+       Amazon croit toujours à la livraison par drone, malgré les
+       obstacles
+       James Cameron et son épouse, à Londres (Royaume-Uni), le 6 décembre
+       2022. James Cameron et son épouse, à Londres (Royaume-Uni), le 6
+       décembre 2022.
+       Chronique
+       Article réservé aux abonnés
+       Disney : « Jake Sully est en fait l’avatar de James Cameron, le
+       réalisateur le plus rentable de toute l’histoire du cinéma »
+       Philippe Escande
+       Tribune
+       Article réservé aux abonnés
+       Crise climatique : « A présent qu’un accord a été trouvé sur la
+       création d’un fonds à la COP27, il faut définir les modalités de
+       paiement »
+       Craig Cogut
+       PDG de Pegasus Capital Advisors
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Vidéos
           + Vidéos
           + L’actualité
           + Les explications
           + Enquêtes vidéo
           + Les mini-séries
+<<<<<<< HEAD
+=======
+       Enquête
+       Comment des appareils de surveillance de Frontex sont utilisés par
+       les garde-côtes libyens pour intercepter des migrants
+       International
+       Pourquoi la livraison de chars légers par la France à
+       l’Ukraine peut changer la donne
+       International
+       Révolte en Iran : sept minutes pour comprendre les causes profondes
+       de la colère
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
        L’année 2022 a été marqué par de nombreux évènements : guerre en
        Ukraine, élection présidentielle, Coupe du monde au Qatar...
        L’année 2022 a été marqué par de nombreux évènements : guerre en
        Ukraine, élection présidentielle, Coupe du monde au Qatar... Vidéos
        Le résumé vidéo de 2022 en sept minutes
+<<<<<<< HEAD
        Disparitions
        Mort de Pelé : les secrets d’un surnom de légende
        Le pape François a rendu hommage à son prédécesseur, le pape Benoît
@@ -88,6 +137,8 @@
        prédécesseur
        Économie
        Pourquoi le champagne est-il cher ?
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Débats
           + Débats
           + Editoriaux
@@ -97,7 +148,11 @@
           + Entretiens idées
           + Analyses
           + Tribunes
+       Des policiers font face aux partisans de Jair Bolsonrao, à
+       Brasilia, le 8 janvier 2023. Des policiers font face aux partisans
+       de Jair Bolsonrao, à Brasilia, le 8 janvier 2023.
        Éditorial
+<<<<<<< HEAD
        Réforme des retraites : une nécessaire souplesse
        Chronique
        Article réservé aux abonnés
@@ -120,6 +175,32 @@
        Parkinson ? »
        Amandine Lagarde
        directrice générale de l’association France Parkinson
+=======
+       Menaces sur la démocratie brésilienne
+       Une femme prie à l’intérieur de l’église Saint-Sulpice à Paris, le
+       4 octobre 2021. Une femme prie à l’intérieur de l’église
+       Saint-Sulpice à Paris, le 4 octobre 2021.
+       Entretien
+       Article réservé aux abonnés
+       Andrea Riccardi : « Est-ce la fin de l’Eglise ou le début d’une
+       nouvelle manière de vivre le christianisme ? »
+       Le ministre de l’intérieur, Gérald Darmanin, à l’Assemblée
+       nationale, à Paris, le 6 décembre 2022. Le ministre de l’intérieur,
+       Gérald Darmanin, à l’Assemblée nationale, à Paris, le 6 décembre
+       2022.
+       Chronique
+       Article réservé aux abonnés
+       « Contre les discours d’exclusion, il faut écouter les classes
+       moyennes issues de l’immigration »
+       Philippe Bernard
+       Tribune
+       Article réservé aux abonnés
+       Crise climatique : « A présent qu’un accord a été trouvé sur la
+       création d’un fonds à la COP27, il faut définir les modalités de
+       paiement »
+       Craig Cogut
+       PDG de Pegasus Capital Advisors
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Culture
           + Culture
           + Cinéma
@@ -128,6 +209,7 @@
           + Musiques
           + Arts
           + Scènes
+<<<<<<< HEAD
        « Nazar » (1990), de Mani Kaul. « Nazar » (1990), de Mani Kaul.
        Culture
        Article réservé aux abonnés
@@ -147,6 +229,31 @@
        Culture
        Quand « Rolling Stone » oublie Céline Dion de son palmarès, ses
        fans et le Québec s’indignent
+=======
+       James Cameron et son épouse, à Londres (Royaume-Uni), le 6 décembre
+       2022. James Cameron et son épouse, à Londres (Royaume-Uni), le 6
+       décembre 2022.
+       Chronique
+       Article réservé aux abonnés
+       Disney : « Jake Sully est en fait l’avatar de James Cameron, le
+       réalisateur le plus rentable de toute l’histoire du cinéma »
+       Philippe Escande
+       Russell Banks à Paris, le 12 octobre 2016. Russell Banks à Paris,
+       le 12 octobre 2016. Disparitions
+       Article réservé aux abonnés
+       Le romancier américain Russell Banks est mort à 82 ans
+       Culture
+       Article réservé aux abonnés
+       « Reservation Dogs », saison 2, sur Disney + : le surnaturel et le
+       burlesque cohabitent sur la réserve
+       « Black Is Different » (1994), de Niki de Saint Phalle,
+       sérigraphie. « Black Is Different » (1994), de Niki de Saint
+       Phalle, sérigraphie.
+       Culture
+       Article réservé aux abonnés
+       Les Abattoirs de Toulouse brossent un portrait de Niki de Saint
+       Phalle en guerrière indignée
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Le Goût du monde
           + Le Goût du monde
           + Le Monde passe à table
@@ -157,6 +264,7 @@
           + Horlogerie & Joaillerie
           + M le mag
           + L’époque
+<<<<<<< HEAD
        Le Monde passe à table
        « Ulva lactuca », la laitue nouvelle vague
        Le Goût du Monde
@@ -166,6 +274,26 @@
        L'époque
        Newsletter « Le Fil Good » : une sélection par la rédaction de
        nouvelles réconfortantes
+=======
+       Le Goût du Monde
+       Article réservé aux abonnés
+       Le mois de la détox : après le foie gras de décembre, l’artichaut
+       de janvier ?
+       Carte postale produite par Ray et Charles Eames en 1954 pour faire
+       la promotion de leur travail. Carte postale produite par Ray et
+       Charles Eames en 1954 pour faire la promotion de leur travail.
+       Le Goût du Monde
+       Le dessous des cartes postales de Ray et Charles Eames
+       La pasta alla genovese proposée par Céline Maguet. La pasta alla
+       genovese proposée par Céline Maguet.
+       Le Monde passe à table
+       La pasta alla genovese : la recette de Céline Maguet
+       Les groupes de parole anonymes se multiplient en France pour guérir
+       des addictions. Les groupes de parole anonymes se multiplient en
+       France pour guérir des addictions.
+       Podcasts
+       Addictions : l’essor des groupes de parole anonymes
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Services
        Services Le Monde
           + Les ateliers du Monde
@@ -195,10 +323,13 @@
        Suppléments partenaires
           + La liberté de créer
           + Dubaï, une ville aux multiples visages
+<<<<<<< HEAD
           + Nicolas Feuillatte : une nouvelle approche de la dégustation
           + Découvrir Québec
           + Une alarme pour que noël reste une fête
           + Un whisky écossais, façonné par la mer
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
           + Boutiques-hôtels MGallery
           + Gestion des cookies
      * Recherche
@@ -211,7 +342,11 @@ La petite histoire du fast-food en France
 
    Par Laurent Telo
 
+<<<<<<< HEAD
    Publié le 30 septembre 2015 à 13h46, mis à jour le 01 octobre 2015 �
+=======
+   Publié le 30 septembre 2015 à 13h46, mis à jour le 01 octobre 2015 à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    06h52
 
    Temps de Lecture 1 min.

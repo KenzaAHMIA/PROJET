@@ -1,8 +1,16 @@
+<<<<<<< HEAD
    [ ]
 
 fast-food
 
    [ ] 12 langues
+=======
+   Définition, traduction, prononciation, anagramme et synonyme sur le
+   dictionnaire libre Wiktionnaire.
+   Voir aussi : Fastfood, fastfood, fast food
+
+Français[modifier le wikicode]
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 --
 Étymologie[modifier le wikicode]
 
@@ -20,7 +28,11 @@ Nom commun [modifier le wikicode]
        client.
           + Le fast-food est un plaisir pervers. Une jouissance
             intellectuelle d’abord : la volupté de se vautrer dans le
+<<<<<<< HEAD
             politiquement incorrect. — (Philippe Delerm, Dickens, barbe �
+=======
+            politiquement incorrect. — (Philippe Delerm, Dickens, barbe à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
             papa, Gallimard, collection Folio, 2005, page 53)
           + Le fast-food halal est historiquement dominé de la tête et des
             épaules par les kebabs, ces petits points de vente dans
@@ -38,6 +50,21 @@ Nom commun [modifier le wikicode]
             apparition. — (Delphine Christophe, Georgina Letourmy, Paris
             et ses cafés, 2004, page 101)
 --
+<<<<<<< HEAD
+=======
+Variantes orthographiques[modifier le wikicode]
+
+     * fastfood
+     * fast food
+     * fastefoude
+--
+Traductions[modifier le wikicode]
+
+     * Allemand : Fastfood (de), Schnellkost (de) féminin
+     * Anglais : fast food (en)
+     * Arabe : وجبات سريعة (ar) ()
+--
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 Prononciation[modifier le wikicode]
 
      * France (Saint-Maurice-de-Beynost) : écouter « fast-food
@@ -50,6 +77,9 @@ Voir aussi[modifier le wikicode]
      * fast-food sur l’encyclopédie Wikipédia Wikipedia-logo-v2.svg
 
    Récupérée de
+<<<<<<< HEAD
    « https://fr.wiktionary.org/w/index.php?title=fast-food&oldid=31200010
    »
    Catégories :
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

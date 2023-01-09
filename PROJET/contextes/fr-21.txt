@@ -3,3 +3,32 @@
 Top 5 des enseignes de fast-food les plus puissantes
 
    Author avatar Tomas
+<<<<<<< HEAD
+=======
+--
+     * Tweet
+
+   La restauration rapide est un marché florissant qui pèse plusieurs
+   milliards de dollars. Et ce n'est pas près de s'arrêter. Ci-après le
+   classement des fast-foods les plus puissants du monde en 2019.
+   Fast-food
+
+   © Pixabay
+
+   Les chiffres de 2019 donnent le tournis ! Il ne fait plus aucun doute
+   que la restauration rapide est apprécié des Hommes. Est-ce en raison
+   des prix qui y sont appliqués ? Est-ce en raison du goût de la
+   nourriture qui y est servie ? Ce qui est sûr, c'est que les résultats
+--
+
+   Sans aucune surprise, le géant américain McDonald’s occupe la première
+   place des enseignes de restauration rapide les plus puissantes au
+   monde.
+
+--
+Cela pourrait vous intéresser
+
+     * Classement des enseignes de restauration rapide - LE BAROMÈTRE
+       PROMISE CONSULTING INC Classement des enseignes de restauration
+       rapide par Tomas
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

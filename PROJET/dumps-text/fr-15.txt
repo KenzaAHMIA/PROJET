@@ -166,13 +166,14 @@ Une étude loin d'être exhaustive
    Les snacks et sandwicheries indépendants ne sont également pas
    répertoriés. Cette approche exclut donc de fait toutes les petites
    structures servant aussi de la malbouffe comme les restaurants de
-   kebabs et de tacos. Ce problème est particulièrement visible �
+   kebabs et de tacos. Ce problème est particulièrement visible à
    Marseille, où les chiffres donnent l'impression qu'il y a peu de
    fast-foods comparativement aux autres grandes villes.
    Louis Tanca
 
 Top Articles
 
+<<<<<<< HEAD
     1. Le chargement de publicité sur votre smartphone peut grignoter
        jusqu'à 80% de votre forfait data. Le chargement de publicité sur
        votre smartphone peut grignoter jusqu'à 80% de votre forfait data.
@@ -193,14 +194,41 @@ Les Français boivent moins de vin et inquiètent les vignerons
 
 Tisane, compost, décorations... Que faire de son sapin de Noël après les
 fêtes?
+=======
+    1. Noël La Graët Noël La Graët
+
+Mbappé, Oudéa-Castéra, la presse espagnole... indignation générale après les
+propos de Le Graët sur Zidane
+    2.
+
+Populisme, accusations de fraude, insurrections... Du Capitole à Brasilia,
+Bolsonaro dans les pas de Trump
+    3.
+
+Mort de Diana, relations avec son père.... Les révélations du prince Harry
+dans son livre, "Le Suppléant"
+    4.
+
+La chute des envois de SMS au Nouvel An signe-t-elle la mort programmée des
+textos?
+    5.
+
+"Merci pour ce nouveau départ": Jeremy Renner publie une nouvelle photo et
+remercie ses infirmiers
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
      * BFMTV
      * Société
 
 A la Une
 
+<<<<<<< HEAD
    "Une défiance permanente": la macronie craint une explosion sociale qui
    échapperait aux syndicats
+=======
+   Alcool, interdiction le dimanche, accidents: ce qu'il faut retenir des
+   annonces du gouvernement sur la chasse
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    BFMTV
    première sur l'info

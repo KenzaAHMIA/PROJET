@@ -5,6 +5,7 @@
    Menu Se connecter Retour vers le site CIPIZ, c'est quoi ?La carte
    CipizBons Plans Transpirer#WTFAgirSortirCultureEmploi et
    formationMediattitudesGeek ____________________ Rechercher
+<<<<<<< HEAD
    Journal numérique Le direct A la une ActualitésFaits divers France
    Monde L'édito Le dessin d'Alex Insolite En images Vu d'ici Le Courrier
    et vousÉcrivez-nous Envoyez vos photos Questions-réponses RégionL'actu
@@ -21,6 +22,26 @@
    Avis de décès Emploi Carnet Annonces légalesAnnonces Légales Marchés
    publics Vie des sociétés Enquêtes publiques Ventes aux enchères Nos
    jeux L'agenda Boutique Club abonné Newsletters Retour vers
+=======
+   Journal numérique Le direct Horoscope 2023 A la une ActualitésFaits
+   divers France Monde L'édito Le dessin d'Alex Insolite En images Vu
+   d'ici Le Courrier et vousÉcrivez-nous Envoyez vos photos
+   Questions-réponses RégionL'actu en Picardie Amiens et métropole Nord
+   amiénois Sud amiénois Abbeville et sa région Villes Soeurs et Bresle
+   Vimeu Péronne et sa région Albert et environ Santerre Ham et environs
+   Beauvais et environs Clermont, Plateau picard Compiègne et environs
+   Noyon Saint-Quentinois Aisne SportRésultats sportifs FootballActualités
+   football Amiens SC FC Chambly ASBO OSQ Gothiques RugbyL'actu rugby RCA
+   BRC RCC SQBB Handball Course à pied Cyclisme Natation Tennis Tennis de
+   table Volley-ball Hippisme Loisirs pratiqueArts et spectacles Ch'Dur et
+   pi ch'Mo Nature Santé Littérature Les blogs du Courrier picardBulles
+   picardes Coups de barre Les dessous chics Généalogiquement vôtre
+   ÉconomieCanal Seine-NordImpact environnemental Emploi-Formation Suivi
+   de chantier Toute une histoire Cipiz Lereo Avis de décès Emploi Carnet
+   Annonces légalesAnnonces Légales Marchés publics Vie des sociétés
+   Enquêtes publiques Ventes aux enchères Nos jeux L'agenda Boutique Club
+   abonné Newsletters Diverto Retour vers
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Le Courrier Picard
 
       Votre compte
@@ -29,7 +50,7 @@
 
    Accueil WTF
 
-       Le MacDo à la française des années 80, «PicPain», fait son retour
+     Le MacDo à la française des années 80, «PicPain», fait son retour
 
    Vous ne l’avez peut-être pas connu mais si vos parents viennent du Nord
    de la France, il y a de forte chance pour que l’enseigne leur rappelle
@@ -49,7 +70,7 @@
    burgers à la carte de cette enseigne nordiste. Un fast-food à la
    française qui a vu le jour dans la Métropole lilloise en 1971. Dans les
    années 80 c’est Gérard Mulliez qui s’empare du concept et en fait le
-   chouchou des jeunes avec un menu à 15 francs pour les étudiants soit �
+   chouchou des jeunes avec un menu à 15 francs pour les étudiants soit à
    peine 2,50 €. Le pain était livré deux fois par jour, les légumes frais
    et les produits souvent locaux, le tout avec la rapidité du fast-food.
 
@@ -63,16 +84,26 @@
    Lilloise.
 
    À l’époque, il y avait une douzaine de restaurants dont la majorité
-   dans le Nord – Pas-de-Calais. Peut-être que la version 2022 viendra �
+   dans le Nord – Pas-de-Calais. Peut-être que la version 2022 viendra à
    la conquête de la Picardie ? Affaire à suivre.
 
    Lire aussi
 
+<<<<<<< HEAD
   Elon Musk crée un parfum pour «l’aider à racheter» Twitter
 
   Une Amiénoise remporte un titre au Festival Européen de la coupe mulet
 
   Une chasse au trésor pour gagner des tatouages à Amiens
+=======
+  Le snus: une nouvelle forme de tabac à sucer, illégale mais prisée par les
+  lycéens
+
+  Louane règle ses comptes avec les fans qui la photographient sans demander et
+  lui crient dessus
+
+  Ces huit stars du web sont passées en 2022 par Amiens (the place to be)
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
   Poursuivez votre lecture sur ce(s) sujet(s) :
 
@@ -80,6 +111,7 @@
 
 A lire aussi
 
+<<<<<<< HEAD
    Mario X Lapins crétins Mario X Lapins crétins
 
   Une nouvelle collab entre Mario et les Lapins Crétins
@@ -108,6 +140,36 @@ A lire aussi
 
   Video GP Explorer: 40.000 personnes ont assisté à une course de youtubeurs sur
   le circuit du Mans
+=======
+   Entre concerts, ciné ou encore expo, voici 10 idées de sorties
+   amiénoises à faire en janvier. Entre concerts, ciné ou encore expo,
+   voici 10 idées de sorties amiénoises à faire en janvier.
+
+  Amiens: 10 sorties pour bien commencer l’année
+
+   Ce sera le cinquième Battlekart de France. Ce sera le cinquième
+   Battlekart de France.
+
+  Un Mario Kart en réalité augmentée va ouvrir à 30 minutes d’Amiens
+
+   Serious game de la Hotoie Serious game de la Hotoie
+
+  6 mois après le jeu, voilà comment les Amiénois imaginent le parc de la Hotoie
+
+   B9717672475Z.1_20181121103039_000+GRNCFD5B9.1-0
+   B9717672475Z.1_20181121103039_000+GRNCFD5B9.1-0
+
+  Le Zénith d’Amiens déjà complet, Matt Pokora ajoute une date
+
+   montage mainsquare montage mainsquare
+
+  Video David Guetta, Macklemore et Orelsan annoncés au Mainsquare festival en
+  2023
+
+   063_1127210096 063_1127210096
+
+  Video Le premier nom du Mainsquare 2023: Maroon 5
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Voir plus d'articles L'actu tous les jours
    grâce à notre newsletter S'inscrire aux newsletters Retour en haut du
@@ -126,8 +188,8 @@ Les sections du site
     Services
 
    Votre publicité dans nos titres Abonnement au Journal Boutique des
-   lecteurs Annoncer un événement Avis de décès Gérer les cookies SUIVEZ
-   Courrier picard Facebook Twitter Instagram
+   lecteurs Contactez-nous Diverto Annoncer un événement Avis de décès
+   Gérer les cookies SUIVEZ Courrier picard Facebook Twitter Instagram
 
    © Rossel & Cie - 2022
    Conditions générales d’utilisation - Conditions générales de vente -

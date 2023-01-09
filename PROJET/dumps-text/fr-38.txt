@@ -67,21 +67,12 @@ Sommaire
      * Début
      * 1Français
        (BUTTON) Afficher / masquer la sous-section Français
-
-     * 1.1Étymologie
-
-     1.2Nom commun
-     * 1.2.1Variantes orthographiques
-
-     1.2.2Traductions
-
-
-
-   1.3Prononciation
-
-
-
-   1.4Voir aussi
+          + 1.1Étymologie
+          + 1.2Nom commun
+               o 1.2.1Variantes orthographiques
+               o 1.2.2Traductions
+          + 1.3Prononciation
+          + 1.4Voir aussi
 
    Basculer la table des matières
    [ ]
@@ -138,7 +129,7 @@ Nom commun [modifier le wikicode]
        client.
           + Le fast-food est un plaisir pervers. Une jouissance
             intellectuelle d’abord : la volupté de se vautrer dans le
-            politiquement incorrect. — (Philippe Delerm, Dickens, barbe �
+            politiquement incorrect. — (Philippe Delerm, Dickens, barbe à
             papa, Gallimard, collection Folio, 2005, page 53)
           + Le fast-food halal est historiquement dominé de la tête et des
             épaules par les kebabs, ces petits points de vente dans

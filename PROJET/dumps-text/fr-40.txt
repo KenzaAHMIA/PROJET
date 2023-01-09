@@ -27,7 +27,7 @@ Le classement des 10 plus grands groupes de restauration en France.
    Avec ses 1495 restaurants dans l’Hexagone, le leader mondial du fast
    food confirme sa position de numéro 1 en France.
 
-   Le saviez-vous ? Le premier Mac Donald’s français a ouvert ses portes �
+   Le saviez-vous ? Le premier Mac Donald’s français a ouvert ses portes à
    Strasbourg en 1979.
 
    Le magazine The Economist a imaginé “l’indice Big Mac”. Le concept ? En
@@ -155,7 +155,7 @@ Le classement des 10 plus grands groupes de restauration en France.
    Pour terminer ce classement des 10 plus grands groupes de restauration
    collective en France, Newrest est le leader mondial du catering
    (service de traiteur professionnel) : catering aérien, catering
-   ferroviaire, restauration collective… Newrest est le seul caterer �
+   ferroviaire, restauration collective… Newrest est le seul caterer à
    intervenir sur l’ensemble des segments de la restauration et des
    services associés.
 
@@ -178,12 +178,25 @@ Spécial Gastronomie
 
 Vous pourriez aussi aimer :
 
+<<<<<<< HEAD
    Comment cuisiner les meilleurs plats de langoustines ?
 
 Comment cuisiner les meilleurs plats de langoustines ?
+=======
+   Quelles dimensions de bac gastro est adaptée pour un restaurant ?
 
-   1 semaine Spécial Gastronomie
+Quelles dimensions de bac gastro est adaptée pour un restaurant ?
 
+   3 heures Spécial Gastronomie
+
+Pourquoi les sacs repas isothermes sont-ils si importants ?
+
+   1 jour Spécial Gastronomie
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+   Pourquoi opter pour un jus de cranberry ?
+
+<<<<<<< HEAD
    Buvez du cidre, et vous serez en bonne santé !
 
 Buvez du cidre, et vous serez en bonne santé !
@@ -193,9 +206,25 @@ Buvez du cidre, et vous serez en bonne santé !
    Les brûleurs de graisse naturels
 
 Les brûleurs de graisse naturels
+=======
+Pourquoi opter pour un jus de cranberry ?
+
+   3 jours Spécial Gastronomie
+
+   Comment cuisiner les meilleurs plats de langoustines ?
+
+Comment cuisiner les meilleurs plats de langoustines ?
 
    2 semaines Spécial Gastronomie
 
+   Buvez du cidre, et vous serez en bonne santé !
+
+Buvez du cidre, et vous serez en bonne santé !
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+   2 semaines Spécial Gastronomie
+
+<<<<<<< HEAD
    Comment choisir sa machine à café à grain ?
 
 Comment choisir sa machine à café à grain ?
@@ -205,6 +234,11 @@ Comment choisir sa machine à café à grain ?
    Comment réussir des mini-cannelés salés pour l’apéritif ?
 
 Comment réussir des mini-cannelés salés pour l’apéritif ?
+=======
+   Les brûleurs de graisse naturels
+
+Les brûleurs de graisse naturels
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    2 semaines Spécial Gastronomie
 
@@ -216,6 +250,7 @@ Comment ouvrir sa franchise dans la restauration en 2023 ?
 
 Autres recettes
 
+<<<<<<< HEAD
    Esquimaux mûre-citron vert
 
 Esquimaux mûre-citron vert
@@ -233,6 +268,31 @@ Recette avocado toast et œuf au plat
 Morue grillée à la basque
 
    2 ans Spécial Gastronomie
+=======
+   Quelles recettes et aliments privilégier pour soigner ses cheveux ?
+
+Quelles recettes et aliments privilégier pour soigner ses cheveux ?
+
+   4 mois Spécial Gastronomie
+
+   Recette œufs à la bénédictine
+
+Recette œufs à la bénédictine
+
+   1 an Spécial Gastronomie
+
+   Recette du jour : Carpaccio de tomates basilic
+
+Recette du jour : Carpaccio de tomates basilic
+
+   4 ans Spécial Gastronomie
+
+   Recette cuisse de canard au four
+
+Recette cuisse de canard au four
+
+   1 an Spécial Gastronomie
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Recette pain de poisson aux légumes
 
@@ -250,6 +310,14 @@ Suivez-nous
 
 Articles récents
 
+<<<<<<< HEAD
+=======
+     * Quelles dimensions de bac gastro est adaptée pour un restaurant ?
+       Quelles dimensions de bac gastro est adaptée pour un restaurant ?
+     * Pourquoi les sacs repas isothermes sont-ils si importants ?
+     * Pourquoi opter pour un jus de cranberry ?
+       Pourquoi opter pour un jus de cranberry ?
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Recette du sex on the beach
        Recette du sex on the beach
      * Comment cuisiner les meilleurs plats de langoustines ?
@@ -264,6 +332,7 @@ Articles récents
        Comment réussir des mini-cannelés salés pour l’apéritif ?
      * Comment ouvrir sa franchise dans la restauration en 2023 ?
        Comment ouvrir sa franchise dans la restauration en 2023 ?
+<<<<<<< HEAD
      * 6 fromages italiens peu connus que vous devez absolument tester !
        6 fromages italiens peu connus que vous devez absolument tester !
      * Pourquoi privatiser un bar ou un restaurant pour un événement ?
@@ -277,6 +346,13 @@ Articles les plus lus
 
      * Recette du sex on the beach
        Recette du sex on the beach
+=======
+
+Articles les plus lus
+
+     * Quelles dimensions de bac gastro est adaptée pour un restaurant ?
+       Quelles dimensions de bac gastro est adaptée pour un restaurant ?
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Sublimez Pâques avec un délicieux fondant au chocolat
        Sublimez Pâques avec un délicieux fondant au chocolat
      * Ma recette du jour : la salade pascale

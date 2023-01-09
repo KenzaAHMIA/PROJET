@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+
+   Mieux armées face à la pandémie que les restaurants traditionnels, les
+   enseignes de restauration rapide ont résisté dans de nombreuses villes
+   en 2020, et particulièrement à Bordeaux, Tours et Metz, en tête du
+   classement.
+--
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    0,195 pour 1000 habitants.
 
    Suivent ensuite Tours (0,172 fast-food pour 1000 habitants), Metz
@@ -21,6 +30,10 @@ bien"
 --
 
    En un an, Paris a toutefois perdu près de 10 % de ses enseignes de
+<<<<<<< HEAD
    fast-food (336 contre 373 en 2020). L‘heure est également au reflux �
+=======
+   fast-food (336 contre 373 en 2020). L‘heure est également au reflux à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Lyon (68 enseignes contre 77), Marseille (68 contre 70), Toulouse (60
    au lieu de 62) et Bordeaux (51 au lieu de 54).

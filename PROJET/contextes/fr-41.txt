@@ -11,7 +11,17 @@
 
 En France, La capitale du fast-food est…
        Partager
+<<<<<<< HEAD
        40910 vues
+=======
+       40911 vues
+--
+       Pour la journée mondiale de la santé, un média français a établi
+       son classement des villes qui comptent le plus de chaînes de
+       restauration rapide par habitant. Un classement étonnant, qui
+       consacre Bordeaux comme capitale de la malbouffe dans l’Hexagone.
+       À LIRE AUSSI
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 --
        Speed Burger.
        C’est la ville de Bordeaux qui se place en première position, avec

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
    #» Flux » Flux des commentaires » Top 5 des meilleurs fast-foods �
+=======
+   #» Flux » Flux des commentaires » Top 5 des meilleurs fast-foods à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Paris Flux des commentaires alternate alternate alternate
 
    Skip to content
@@ -23,7 +27,7 @@ Top 5 des meilleurs fast-foods à Paris
 
    Le fast-food ou la restauration rapide commence à se répandre de plus
    en plus à Paris. Pour trouver l’adresse qui répond au mieux à vos
-   attentes, retrouvez ci-dessus le top 5 des meilleurs fast-foods �
+   attentes, retrouvez ci-dessus le top 5 des meilleurs fast-foods à
    Paris.
 
 Kraft Hot Dog

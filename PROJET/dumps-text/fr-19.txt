@@ -22,7 +22,11 @@
 McDonald's et Uber Etats plebiscitées parmi les enseignes préférées des
 Français
 
+<<<<<<< HEAD
    14 Mai 2021 - 4574 vue(s)
+=======
+   14 Mai 2021 - 4631 vue(s)
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Twitter Facebook LinkedIn Email
    Ey-Parthenon vient de publier les résultats de son enquête annuelle sur
    les enseignes préférées des Français. Signes des temps, après des mois
@@ -102,16 +106,17 @@ Le fast-food plébiscité, McDo en tête
    ____________________________________________________________
    Validation :*
    Soumettre votre commentaire
-   (*) Champs obligatoires, votre email ne sera ni publié ni exploité �
+   (*) Champs obligatoires, votre email ne sera ni publié ni exploité à
    des fins commerciales.
    En validant ce formulaire, vous affirmez avoir pris connaissance de
    notre politique de confidentialité et acceptez l'utilisation de vos
    données pour publier ce commentaire Conformément à la loi n° 78-17 du 6
    janvier 1978, relative à l'Informatique, aux Fichiers et aux Libertés,
-   vous disposez d'un droit d'accès et de rectification des données �
+   vous disposez d'un droit d'accès et de rectification des données à
    caractère personnel vous concernant, et vous pourrez demander la
    suppression de votre commentaire à tout moment en nous contactant.
    A ne pas manquer
+<<<<<<< HEAD
      * basilic and co restauration pizza italienne laurent bassi
        Tendances 1
        Basilic & Co, déjà 60 restaurants au compteur et un nouveau concept
@@ -131,6 +136,28 @@ Le fast-food plébiscité, McDo en tête
        Tendances 0
        BEST OF 2022 de l’actualité snacking : burger veggie, tendances
        food, chiffres clefs, inflation, e-commerce...
+=======
+     * Transgourmet
+       Tendances 3
+       One Stop Delivery et Smart Cuisine, des boosters d’activité en 2022
+       pour Transgourmet
+     * Hub One
+       Communauté 4
+       Comment Hub One veut aider les chaînes à réussir leur transition
+       vers le réemploi, avec Green Track
+     * Salad & Co
+       Communauté 3
+       Salad & Co, sous les feux la rampe avec une première vitrine en
+       centre-ville lillois pour la franchise
+     * basilic and co restauration pizza italienne laurent bassi
+       Tendances 3
+       Basilic & Co, déjà 60 restaurants au compteur et un nouveau concept
+       lancé
+     * ecran foodporn repas français datalicious just eat ifop
+       Tendances 1
+       Convivialité du repas et place des écrans, le nouveau paradoxe
+       français
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
     1.
     2.
@@ -178,6 +205,7 @@ Les concepts Snacking
      * class'croute Communauté 21
        Exclu. Mathieu Rabaud, prend la direction générale de class'croute
        aux côtés du nouveau PDG Nicolas Clisson
+<<<<<<< HEAD
      * Marie Blachère
        Communauté 25
        Marie Blachère passe la barre des 700 et inaugure son nouveau
@@ -196,6 +224,38 @@ Les concepts Snacking
      * 50 ans McDonald's
        Communauté 34
        Bon anniversaire McDonald’s ! Déjà 50 ans en France
+=======
+     * OFC Groupe Bertrand Communauté 6
+       Exclu. OFC rejoint Groupe Bertrand qui renforce un peu plus encore,
+       son empreinte digitale
+
+     * 50 ans McDonald's
+       Communauté 34
+       Bon anniversaire McDonald’s ! Déjà 50 ans en France
+     * fermeture restaurants flunch
+       Communauté 50
+       Au moins 39 restaurants Flunch vont définitivement fermer leurs
+       portes
+     * 1er Forum de l'Accompagnement des Entrepreneurs de la Restauration
+       Événements 44
+       1er Forum de l'Accompagnement des Entrepreneurs de la Restauration
+     * Le FoodTweet #22 : êtes-vous prêt au sandwich baguette tradition
+       inscrite au patrimoine de l’Unesco ?
+       Management & Franchise 3
+       Le FoodTweet #22 : êtes-vous prêt au sandwich baguette tradition
+       inscrite au patrimoine de l’Unesco ?
+     * #FoodTech: avec Citron et Hello Gaston, l’intelligence artificielle
+       en restauration est annoncée Management & Franchise 57
+       #FoodTech: avec Citron et Hello Gaston, l’intelligence artificielle
+       en restauration est annoncée
+     * Resto France Experts
+       Equipement, Techno & Service 19
+       24H Resto France Experts, un passeport suisse pour une nouvelle
+       dynamique avant EquipHotel
+     * Tendances 26
+       Eco-contribution pour les emballages, obligatoire depuis le 1er
+       juillet 2022 en livraison
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Umih Thierry Marx
        Tendances 4
        Thierry Marx plébiscité prend la tête de l’Umih aux côtés d’Eric
@@ -205,6 +265,7 @@ Les concepts Snacking
        Communauté 21
        Les Burgers de Lucien, le kiosque de la famille Heullant à la
        conquête des campagnes
+<<<<<<< HEAD
      * fermeture restaurants flunch
        Communauté 50
        Au moins 39 restaurants Flunch vont définitivement fermer leurs
@@ -225,22 +286,37 @@ Les concepts Snacking
        en restauration est annoncée Management & Franchise 57
        #FoodTech: avec Citron et Hello Gaston, l’intelligence artificielle
        en restauration est annoncée
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    [INS: :INS]
 
 Dans la même thématique
 
+<<<<<<< HEAD
    BEST OF 2022 de l’actualité snacking : burger veggie, tendances food,
    chiffres clefs, inflation, e-commerce...
    Tendances 0
+=======
+   Transgourmet
+   Tendances 3
+   One Stop Delivery et Smart Cuisine, des boosters d’activité en 2022
+   pour Transgourmet
+   BEST OF 2022 de l’actualité snacking : burger veggie, tendances food,
+   chiffres clefs, inflation, e-commerce...
+   Tendances 1
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    BEST OF 2022 de l’actualité snacking : burger veggie, tendances food,
    chiffres clefs, inflation, e-commerce...
    Petit Veau
    Tendances 2
    Ça tourne bien rond pour Petit Veau
+<<<<<<< HEAD
    Sirha Innovation Awards
    Tendances 4
    12 Sirha Innovation Awards sur le podium 2023
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
      * Accueil
      * Actualités

@@ -22,7 +22,10 @@
      * Votre avis
 
    La Maison de la Radio et de la Musique
+<<<<<<< HEAD
 
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Un restaurant McDonald
    Un restaurant McDonald ©Getty - SOPA Images Un restaurant McDonald
    ©Getty - SOPA Images
@@ -215,7 +218,6 @@ l'enquête " O'Tacos sinon rien" (Society, 16.11.18).
      * Disponible sur Google Play Télécharger dans l'App Store
 
    (BUTTON)
-
    Choisir une locale (BUTTON)
      * France Bleu Alsace
      * France Bleu Armorique

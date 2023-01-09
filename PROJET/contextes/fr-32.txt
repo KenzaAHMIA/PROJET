@@ -1,5 +1,63 @@
+<<<<<<< HEAD
+=======
+   Se connecter
+
+Le marché de la restauration rapide en France
+
+   Avis > Donne ton avis
+--
+   Accueil ›
+   Exposé ›
+   Le marché de la restauration rapide en France
+
+   Téléchargement
+
+   2904 téléchargements
+   Le march de la restauration rapide en France
+
+Extrait du document
+--
+
+
+   On distingue 7 segments de restauration rapide : les fast-foods, la
+   restauration alternative, les spécialités locales, les sandwicheries,
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    les coffee shop, la restauration ethnique et les pizzerias. En 2008,
    les plus grosses parts de marchés se partagaient entre la restauration
    alternative (34%), les spécialités locales (24%) et les fast-food
    (20%).
 
+<<<<<<< HEAD
+=======
+--
+
+
+   Le secteur de la restauration rapide en France est très concurrentiel,
+   les principaux acteurs se nomment Mc Donald's, Quick, le groupe Holder
+   (boulangeries Paul), Eliance restauration rapide (Pomme de pain) ou
+   encore le groupe Yum (KFC). On peut constater que les boulangeries sont
+   très bien placées en terme de CA vis à vis des groupes de fast food.
+--
+
+
+   La concurrence dans la restauration rapide se joue en général sur 3
+   aspects liés au consommateur. Tout d'abord le temps, la pause déjeuner
+   dure de moins en moins longtemps, il faut pouvoir vendre rapidement un
+--
+
+
+   En France, la restauration rapide est constituée d'un marché de 35 000
+   entreprises (123 000 salariés) et pèse 10 milliards de chiffre
+   d'affaires. Près de 2 milliards de repas sont pris sur le pouce par
+   année en France. 7 achats sur 10 sont des ventes à emporter. Le taux de
+   croissance moyen annuel de la restauration rapide est d'environ 5,4%.
+   4500 professionnels se lancent dans la restauration rapide chaque
+   année.
+
+--
+
+
+   Le secteur de la restauration rapide est en pleine expansion, de
+   nombreux points de vente s'ouvrent chaque jour en France. Ils
+   s'adaptent à la demande des consommateurs qui veulent manger vite mais
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

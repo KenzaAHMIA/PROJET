@@ -1,6 +1,10 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5FDJZWQ&
 
+<<<<<<< HEAD
    [ld+json]
+=======
+   Logo ProPulse couleur
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Compte Pro
    (BUTTON) Services
    Compte
@@ -85,7 +89,11 @@
 Étude de marché des fast food : chiffres et éléments
 
    Mis à jour le 27 Décembre 2022
+<<<<<<< HEAD
    [9k=] étude de marché du fast food
+=======
+   étude de marché du fast food étude de marché du fast food
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Ouvrir fast-food
 
@@ -146,7 +154,11 @@ Contexte
    La crise sanitaire a profondément modifié le comportement des
    consommateurs. La vente à emporter et la livraison s’ancrent dans les
    habitudes, ce qui profite aux acteurs historiques du secteur
+<<<<<<< HEAD
    positionnés sur ces services et constitue un relais de croissance �
+=======
+   positionnés sur ces services et constitue un relais de croissance à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    fort potentiel pour les opérateurs de la restauration à table. L’essor
    des dark kitchen, exclusivement dédiées au click&collect et à la
    livraison, bouscule la restauration, contrainte d’accélérer sa
@@ -205,7 +217,7 @@ L'organisation du marché
 
    De nombreux réseaux sous enseignes ont investi ces concepts afin de se
    démarquer dans un contexte concurrentiel âpre.
-     * le fast casual : cette restauration rapide haut de gamme répond �
+     * le fast casual : cette restauration rapide haut de gamme répond à
        une préoccupation grandissante des consommateurs pour l'équilibre
        alimentaire et la qualité des produits consommés. Avec un ticket
        moyen de 20 à 25% plus élevé que sur les autres segments, le fast
@@ -273,7 +285,11 @@ L'organisation du marché
    Restauration / Bar
    22 Septembre 2022
    (BUTTON)
+<<<<<<< HEAD
    [9k=]
+=======
+   Les points de vigilance des fast-food
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Les points de vigilance des fast-food
    Restauration / Bar
@@ -284,6 +300,21 @@ L'organisation du marché
    L'activité des fast-food
    Restauration / Bar
    27 Décembre 2022
+<<<<<<< HEAD
+=======
+   (BUTTON)
+   La réglementation des fast-food
+
+   La réglementation des fast-food
+   Restauration / Bar
+   27 Décembre 2022
+   (BUTTON)
+   Pizzerias
+
+   Les points de vigilance des pizzerias
+   Restauration / Bar
+   04 Janvier 2023
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    (BUTTON)
    [9k=]
 
@@ -297,23 +328,62 @@ L'organisation du marché
    Restauration / Bar
    04 Janvier 2023
    (BUTTON)
+<<<<<<< HEAD
    [2Q==]
+=======
+   Ouvrir sa boîte de nuit
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Les points de vigilance des boîtes de nuit
    Restauration / Bar
    04 Janvier 2023
    (BUTTON)
+<<<<<<< HEAD
    [Z]
+=======
+   Les points de vigilance du bar-tabac
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Les points de vigilance du bar-tabac
    Restauration / Bar
    04 Janvier 2023
    (BUTTON)
+<<<<<<< HEAD
    [9k=]
+=======
+   ouvrir restaurant
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Les points de vigilance des restaurants
    Restauration / Bar
    27 Décembre 2022
+<<<<<<< HEAD
+=======
+   (BUTTON)
+   Ouvrir son restaurant
+
+   L'activité des restaurants
+   Restauration / Bar
+   27 Décembre 2022
+   (BUTTON)
+   Ouvrir son restaurant
+
+   La réglementation des restaurants
+   Restauration / Bar
+   27 Décembre 2022
+   (BUTTON)
+   Étude de marché des restaurants
+
+   Étude de marché des restaurants : chiffres et éléments
+   Restauration / Bar
+   27 Décembre 2022
+   (BUTTON)
+   Étude de marché du bar-tabac
+
+   Étude de marché du bar-tabac : chiffres et éléments
+   Restauration / Bar
+   26 Décembre 2022
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    (BUTTON)
    [9k=]
 
@@ -351,9 +421,15 @@ L'organisation du marché
 
    Le compte pro qui vous donne les moyens de réussir
    Découvrir Propulse
+<<<<<<< HEAD
    [Z]
    [Z]
    [Z]
+=======
+   Logo blanc Propulse du Crédit Agricole
+   propulse-ios-store-banner
+   propulse-android-store-banner
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    À propos
 
@@ -368,6 +444,8 @@ L'organisation du marché
    Nos contenus
 
    Blog
+
+   Le magazine des entrepreneurs
 
    Business plan
 
