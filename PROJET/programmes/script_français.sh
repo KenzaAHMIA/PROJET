@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# see egrep or others
+
 #===============================================================================
 # VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
 # Ici, on décrit le comportement du programme.
@@ -14,7 +16,7 @@
 # the commands above can be stored in a variable 
 #pour fichier csv délimiteur , , donc 
 ### for context :m
-#regexp (...)(robots?)(...)
+#regexp (...)(mitif à chercher ?)(...)
 #regexp (\w+\W)(robots?)(\w\w+)
 # cat nomFicher.txt | sed 's/\(.../)robots\?(...)/____/'
 #===============================================================================
@@ -28,8 +30,8 @@ then
 	exit
 fi
 
-
-mot="fast food" # à modifier, add regexp "[Ff]ast [Ff]ood"
+mot="\bresauration rapide|fast-food\b"
+# street food # à modifier selon langue
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -38,11 +40,20 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump_html</th><th>dumpTest</th></tr>" >> $fichier_tableau
+echo "<tr><th>ligne</th>
+	<th>code</th>
+	<th>encodage</th>
+	<th>URL</th>
+	<th>Dumps</th>
+	<th>Aspirations</th>
+	<th>occurences</th>
+	<th>Contexte</th>
+	<th>concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
 	echo -e "\tURL : $URL";
+	
 	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
@@ -74,26 +85,45 @@ while read -r URL; do
 		charset=""
 	fi
 	
+	# variable "$mot" always withing quotes 
 	
-	# dump #basename creates the basename for each of the 50 links
-	echo "$dump" > "dumps-text/$basename-$lineno.txt"
+	# dump 
+	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
+	
+	# number of instances of a word , insert in HTML Table 
+	occurences=$(grep -E -o -i "$mot" ../dumps-text/$basename-$lineno.txt | wc -l)
+	
+	
+	#concordances :construction concordance avec commande externe : ./ pour execution, si non confusion avec dossier 
+	../programmes/concordance.sh ../dumps-text/$basename-$lineno.txt "$mot" > ../concordances/$basename-$lineno.html
 
-	#aspiration
-	aspiration=$(curl -L $URL)
-	echo "$aspiration" > "aspirations/$basename-$lineno.html"
-	
-	#contexte ? concordances
-	#compte , avec grep where? // stocker dans un variable
-	#what is grep -o  	-A2 -B2  ... > contexte
-	
-	wordCount = $(grep -E -o  $mot ../dumps-text/$basename-$lineno.txt | wc -l)
-	
-	# concordance will be a new external programme
+	# aspiration
+	charset=$(curl -Ls $URL -D - -o "../aspirations/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 
-	#echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $fichier_tableau
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td>
-	<td>$charset</td><td><a href=\"../dumps-text/$basename-$lineno.txt\">dump</a></td>
+	# concordances chinois \p{han}
+	# dans concordances.sh
+	# ou prétraiter les dossier avant
+	
+	# extraction des contextes
+	contexte=$(grep -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
+	echo "$contexte"
+	
+	## iTrameur 
+	
+	
+	
+
+	echo "<tr><td>$lineno</td>
+	<td>$code</td>
+	<td>$charset</td>
+	<td><a href=\"$URL\">$URL</a></td>
+	<td><a href=\"../dumps-text/$basename-$lineno.txt\">fr-$lineno</a></td>
+	<td><a href=\"../aspirations/$basename-$lineno.html\">fr-$lineno</a></td>
+	<td>$occurences</td>
+	<td><a href=\"../contextes/$basename-$lineno.txt\">fr-$lineno</a></td>
+	<td><a href=\"../concordances/$basename-$lineno.html\">fr-$lineno</a></td>
 	</tr>" >> $fichier_tableau
+	
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 	
