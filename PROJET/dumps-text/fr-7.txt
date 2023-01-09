@@ -6,20 +6,20 @@
 
    Skip to content
 
-   access_time2022-11-23
+   access_time2023-01-04
    Latest:
-     * « Le Menu » : simple amuse-gueule ou grande bouffe des plus
-       mortelles ? [critique]
-     * La série « The Walking Dead » s’est terminée sans sa gloire passée…
-     * « Mario Kart 8 Deluxe » présente son nouveau DLC à paraître !
-     * Pauline Kael : critique oubliée du cinéma américain
-     * « L’Innocent » de Louis Garrel est un film irrésistible [critique]
-     * Est-il vraiment « trop tard » pour boycotter la coupe du monde au
-       Qatar ?
-     * La folle épopée de l’équipe de France à la Coupe du monde 2018 !
-     * La rédaction de Gamekult annonce son départ !
-     * 3 raisons de (re)voir « Downton Abbey II », sorti en DVD et Blu-ray
-     * Pédopornographie : 48 hommes arrêtés partout en France
+     * « Laïcité » : comprendre la loi sur la séparation des Eglises et de
+       l’Etat
+     * « Ginny & Georgia » saison 2 arrive enfin sur Netflix
+     * « A l’aube de notre histoire » : la désinformation selon Netflix
+     * « Pasión de Buena Vista » débarque au Casino de Paris en mars 2023
+     * Le carnaval de Guyane : fête, culture et tradition
+     * « Avatar 3 » : que sait-on déjà sur le film ?
+     * Prime Video : voici le programme de janvier 2023
+     * Disneyland Paris : découvrez les secrets du château
+     * « Kaleidoscope » saison 2 : est-ce déjà prévu ?
+     * « Kaleidoscope » : la série Netflix a regarder dans n’importe quel
+       ordre
 
    Cultea
 
@@ -36,11 +36,9 @@
           + Histoire
           + Géographie
           + Sciences
-          + Géographie
-          + Sociologie
-          + Français Facile
+          + Personnalité Historique
           + Photos d’Histoire
-          + Personnalité historique
+          + Sociologie
           + Français Facile
      * Société
           + France
@@ -84,11 +82,9 @@
           + Histoire
           + Géographie
           + Sciences
-          + Géographie
-          + Sociologie
-          + Français Facile
+          + Personnalité Historique
           + Photos d’Histoire
-          + Personnalité historique
+          + Sociologie
           + Français Facile
      * Société (BUTTON) Show sub menu
           + France
@@ -257,7 +253,7 @@ Laisser un commentaire Annuler la réponse
    _____________________________________________
    _____________________________________________
 
-   © 2022 Cultea Politique de confidentialité
+   © 2023 Cultea Politique de confidentialité
 
    Nous utilisons des cookies sur notre site web. Vous pouvez "Accepter
    tout", ou bien contrôler vos préférences dans "Paramètres des cookies".

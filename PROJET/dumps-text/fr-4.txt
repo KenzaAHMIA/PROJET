@@ -8,6 +8,7 @@
      * Food Trucks
      * Restauration Rapide
      * Villes
+     * Blog
      * Shop
 
    ____________________ (BUTTON)
@@ -319,7 +320,7 @@ Carl’s Jr
      * Mentions Légales
      * Plan du site
 
-   © 2022 FastFood.fr. Le guide du Fast Food en France : Burgers
+   © 2023 FastFood.fr. Le guide du Fast Food en France : Burgers
    Restaurants, FoodTruck de Paris et les Chaînes de restauration rapide.
 
    (BUTTON) (BUTTON)

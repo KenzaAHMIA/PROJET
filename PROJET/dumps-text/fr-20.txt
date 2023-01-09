@@ -1,5 +1,5 @@
     (BUTTON) Menu BFM Business
-   Direct tv Direct radio
+   Direct Radio Radio Direct tv DirectTV
 
      * Émissions
      * Économie et Social
@@ -15,48 +15,61 @@
      * Auto
      * Espace Pro
 
-     * BFMTV
-     * BFM Business
-     * RMC
-     * RMC Sport
-     * RMC Découverte
-     * RMC Story
-     * RMC Crime
-     * BFM Régions
-     * BFM Bourse
-     * Tech&Co
+   Regarder le direct
+   Regarder le direct
+   Écouter la radio
+   Écouter la radio
+   Replay BFM Business
+   Replay BFM Business
+     * Vidéos
+     * Émissions
+     * Podcasts
+     * Newsletters
+     * Événements
+     * Canaux TV
+     * Services
+       Voir plus
+          + Vérif
+          + Tout savoir sur la loi Pinel
+          + Faire réussir la France
+          + Chine Eco
+          + Espace Pro
+          + Devenir annonceur
+          + Grille TV
+          + Jeux concours
 
-   BUSINESS
-     * Économie et Social
+   Rubriques
+     * Economie & social
      * International
      * Entreprises
      * Conso
      * Patrimoine
      * Emploi
+     * RSE
      * Immo
      * Bourse
      * Crypto
      * Tech
      * Auto
-     * Espace Pro
-     * Verif
-     * Tout savoir sur la loi Pinel
-     * Faire réussir la France
-     * Chine Éco
-     * Devenez annonceur
 
-     * Direct TV
-     * Direct Radio
-     * Vidéos
-     * Émissions
-     * Replay
-     * Podcasts
-     * Évènements
-     * Canaux
-     * Grille TV Radio
-
-   Newsletters Business Inscrivez-vous gratuitement !
    Suivez-nous sur
+   Instagram Newsletters IOS Android
+   Les sites du groupe
+   (BUTTON) Précédent
+     * Tech&Co
+     * BFM Immo
+     * BFM Patrimoine BFM Patrimoine
+     * BFM Crypto BFM Crypto
+     * BFM Bourse
+     * BFMTV
+     * BFM Régions
+     * RMC
+     * RMC Sport
+     * RMC Crime RMC Crime
+     * RMC Découverte
+     * RMC Story
+
+   (BUTTON) Suivant
 
    Economie
 
@@ -167,40 +180,40 @@ La pizza et le taco eux aussi francisés
 
 Top Articles
 
-    1. L'équipe de France face à l'Australie, au Qatar le 22 novembre 2022
-       L'équipe de France face à l'Australie, au Qatar le 22 novembre 2022
+    1. Le chargement de publicité sur votre smartphone peut grignoter
+       jusqu'à 80% de votre forfait data. Le chargement de publicité sur
+       votre smartphone peut grignoter jusqu'à 80% de votre forfait data.
 
-France-Australie: la Coupe du monde débute très bien pour les Bleus, emmenés
-par un Giroud record
+Vous pouvez désormais repérer les numéros de démarchage téléphonique, voici
+comment faire
     2.
 
-Coupe du monde: Macron peut-il espérer gagner en popularité en cas de
-victoire de la France?
+Sécheresse, électricité: pourquoi le prix de l'eau va augmenter en 2023
     3.
 
-Kadyrov, Prigojine, Sobianine, Patrouchev, Bortnikov: qui pourrait prendre la
-place de Poutine?
+"Je suis trop amoché pour écrire": Jeremy Renner s'exprime pour la première
+fois depuis son accident
     4.
 
-Compléments alimentaires, huiles essentielles... Ces faux remèdes pour ne pas
-tomber malade en hiver
+Les Français boivent moins de vin et inquiètent les vignerons
     5.
 
-Marseille: il va chez son ophtalmologue pour faire vérifier ses lunettes, il
-ressort aveugle
+Tisane, compost, décorations... Que faire de son sapin de Noël après les
+fêtes?
 
      * BFMTV
      * Economie
 
 A la Une
 
-   Les petits arrangements de l’Etat pour la renationalisation d’EDF
+   Résilier ou renégocier? Ces entreprises dans l'impasse après
+   l'explosion de leur facture d'électricité
 
    (BUTTON)
    (BUTTON)
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
-   [France-Australie-1525874.jpg]
+   [-450223.jpg]
 
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
@@ -241,7 +254,6 @@ A la Une
      * Comparateur assurance
      * Shopping
      * Immobilier neuf
-     * Offres d'emploi
      * Portage Salarial
      * Règlements
 

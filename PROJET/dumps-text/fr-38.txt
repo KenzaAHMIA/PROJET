@@ -61,7 +61,9 @@
    du titre de la page. Aller en haut.
    [ ]
 
-   Contents (BUTTON) move to sidebar (BUTTON) hide
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Français
        (BUTTON) Afficher / masquer la sous-section Français
@@ -82,6 +84,7 @@
    1.4Voir aussi
 
    Basculer la table des matières
+   [ ]
 
 fast-food
 
@@ -169,7 +172,7 @@ Traductions[modifier le wikicode]
      * Arabe : وجبات سريعة (ar) ()
      * Chinois : 快餐 (zh) (kuàicān)
      * Coréen : 즉석식 (ko) (cheukseoksik)
-     * Espéranto : rapidmanĝejo (eo)
+     * Espéranto : rapidmanĝejo (eo), krakmanĝejo (eo)
      * Géorgien : ფასტფუდი (ka) (p'astp'udi)
      * Grec : ταχυφαγείο (el) (takhifagío) neutre
      * Hongrois : gyorsétterem (hu)
@@ -193,7 +196,7 @@ Voir aussi[modifier le wikicode]
      * fast-food sur l’encyclopédie Wikipédia Wikipedia-logo-v2.svg
 
    Récupérée de
-   « https://fr.wiktionary.org/w/index.php?title=fast-food&oldid=30852789
+   « https://fr.wiktionary.org/w/index.php?title=fast-food&oldid=31200010
    »
    Catégories :
      * français
@@ -226,8 +229,8 @@ Voir aussi[modifier le wikicode]
      * Pages liées à Wikipédia en français
      * oo prononcés /u/ en français
 
-     * La dernière modification de cette page a été faite le 1 octobre
-       2022 à 13:02.
+     * La dernière modification de cette page a été faite le 19 décembre
+       2022 à 10:22.
      * Les textes sont disponibles sous licence Creative Commons
        attribution partage à l’identique ; d’autres termes peuvent
        s’appliquer. Voyez les termes d’utilisation pour plus de détails.

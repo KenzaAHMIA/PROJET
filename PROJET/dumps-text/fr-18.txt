@@ -34,14 +34,14 @@
      * Jeux
      * Boutique
      * LeCLUB
-     * Séjour en montagne
+     * Mon Séjour en Montagne
 
    Aujourd'hui
    Strasbourg
 
    Strasbourg
 
-   mer. 23/11/2022
+   mer. 04/01/2023
    Lire le journal
    Les Dernières Nouvelles d'Alsace
    S'abonner Se connecter Me connecter/ M’inscrire
@@ -63,7 +63,7 @@
    [ ] J'ai lu et accepté les Conditions générales d'utilisation
 
    Si vous voyez ce champ, ne le remplissez pas ____________________
-   Je m'inscris
+   ____________________ Je m'inscris
 
    Les Dernières Nouvelles d'Alsace, en tant que responsable de
    traitement, recueille dans ce formulaire des informations qui sont
@@ -125,7 +125,6 @@
           + Bas-Rhin
           + Haut-Rhin
 
-     * Coupe du monde de football
      * Toute l'actualité sportive
           + Résultats et classements
           + Matchs en direct
@@ -254,7 +253,6 @@
           + Haut-Rhin
 
    Je choisis mon �dition favorite
-     * Coupe du monde de football
      * Toute l'actualité sportive
           + Résultats et classements
           + Matchs en direct
@@ -333,7 +331,7 @@
 
    Strasbourg
 
-   mer. 23/11/2022
+   mer. 04/01/2023
    Lire le journal
      * Vidéos
      * Podcasts
@@ -343,7 +341,7 @@
      * Jeux
      * Boutique
      * LeCLUB
-     * Séjour en montagne
+     * Mon Séjour en Montagne
 
    Icone de l'application mobile
 

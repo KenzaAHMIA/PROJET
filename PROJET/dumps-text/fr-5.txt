@@ -4,7 +4,7 @@
    [EN]
    (BUTTON) ✕
 
-Privacy & Transparency
+Privacy & Transparency 🎄
 
    We and our partners use cookies to Store and/or access information on a
    device. We and our partners use data for Personalised ads and content,
@@ -17,7 +17,7 @@ Privacy & Transparency
    submitted will only be used for data processing originating from this
    website. If you would like to change your settings or withdraw consent
    at any time, the link to do so is in our privacy policy accessible from
-   our home page.
+   our home page..
 
    (BUTTON) Manage Settings (BUTTON) Allow All Cookies
    Vendor List | Privacy Policy
@@ -663,12 +663,6 @@ Articles similaires
    Top 11 meilleurs restaurants libanais à Paris (du snack au
    gastronomique)
 
-   Place de l'Europe
-
-Où se garer gratuitement à Bordeaux en journée
-
-   Province
-
 58 activités insolites, fun et originales à faire à Paris
 
    Activités, Insolite
@@ -678,6 +672,12 @@ Où se garer gratuitement à Bordeaux en journée
 Où loger à Paris et dans quel quartier réserver mon hôtel ?
 
    Quartiers, Pratique
+
+   Cabaret Paris
+
+Les 5 cabarets les plus prestigieux et légendaires de Paris
+
+   Sorties
 
 Rechercher
 
@@ -717,8 +717,6 @@ Location de voiture
 
    Ezoic report this ad
 
-   Ezoic report this ad
-
    France Hotel Guide
      * A propos de nous
      * Mentions Légales
@@ -731,7 +729,7 @@ Location de voiture
    Suivez-nous sur :
      __________________________________________________________________
 
-   Copyright © 1996-2022 france-hotel-guide.com. All rights reserved
+   Copyright © 1996-2023 france-hotel-guide.com. All rights reserved
 
      * Immanquables
      * Culture
@@ -749,5 +747,3 @@ Location de voiture
    (BUTTON) Fermer
 
    x
-
-   [noscript-1632lqsy2s4fklqsvsii.gif]

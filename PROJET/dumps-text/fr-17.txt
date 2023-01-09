@@ -17,21 +17,21 @@
    Franchise Immobilier commercial Toute l'actualité des entreprises Les
    vidéos de LSA
    Métiers
-   Nominations & organisation Emploi Marketing Supply chain Les équipes
-   Paiement Equipement des magasins Legislation Concepts de magasins Data
-   LSA Focus Carnet des décideurs Toute l'actualité des décideurs Toute
-   l'actualité des métiers
+   Nominations & organisation Legislation Paiement Equipement des magasins
+   Data Supply chain Marketing Les équipes Concepts de magasins LSA Focus
+   Carnet des décideurs Toute l'actualité des décideurs Toute l'actualité
+   des métiers
    Marchés
-   PGC Data PGC Data non-alimentaire Bio Frais-froid Epicerie Boissons DPH
-   High-tech & électroménager Bazar - Discount Bricolage-jardinage Enfant
-   Mode & Sport Nouveautés produits Base de données produits Toute
-   l'actualité des marchés
+   PGC Tous les chiffres des PGC Tous les chiffres du non-alimentaire Bio
+   Frais-froid Epicerie Boissons DPH High-tech & électroménager
+   Bricolage-jardinage Meuble Enfant Mode & Sport Nouveautés produits Base
+   de données produits Toute l'actualité des marchés
    Commerce connecté
    E-commerce Omnicanal Magasin connecté Marketing digital Solutions &
    Techno Ils font le digital Toute l'actualité du commerce connecté
    LSA Green
-   Développement durable Climat RSE Made in France Bio Sain et naturel
-   Toute l'actualité LSA Green
+   Développement durable Energie Climat RSE Made in France Bio Sain et
+   naturel Toute l'actualité LSA Green
    Événements LSA
    Congrès Stratégies Commerciales LSA Live Trophées LSA de l'innovation
    Conférences LSA Trophées LSA Webinars Trophées La Conso s'engage Tous
@@ -176,15 +176,15 @@ Mon actualité personnalisable
    [placeholder.jpg]
 
    Sélectionné pour vous
-   Rewe rompt son contrat avec l'équipe allemande de football suite aux
-   déclarations de la FIFA
+   Des magasins prêts au nouveau label national anti-gaspi, sous expertise
+   de Phenix
 
-Rewe rompt son contrat avec l'équipe allemande de football suite aux
-déclarations de la FIFA
+Des magasins prêts au nouveau label national anti-gaspi, sous expertise de
+Phenix
 
-La Foir’Fouille présente ses nouvelles couleurs à Plaisir
+Cora et E. Leclerc arrêtent la diffusion de prospectus
 
-Parts de marché : Lidl caracole, Intermarché revient
+En Belgique, Mestdagh passe sous pavillon Intermarché ce 3 janvier 2022
 
    Partager
      *
@@ -219,46 +219,47 @@ Parts de marché : Lidl caracole, Intermarché revient
    (BUTTON) Fermer
 
    LES ÉVÉNEMENTS
-   Conférence
+   Trophée
 
-   PARCOURS COMMUNICATION DU POINT DE VENTE
+   TROPHÉES CATEGORY MANAGEMENT & MERCHANDISING 2023
 
-   29 Novembre 2022 100% digital , live et replay
+   9 Mars 2023 Paris
 
-   Définir sa stratégie de communication et son mix media optimisé
-
-   Marketing
-   Programme et inscription
-   Conférence
-
-   CONGRÈS RHD NEO RESTAURATION 2022
-
-   5 Décembre 2022 Paris
-
-   Fidélité, ancrage territorial, expérience…quelles redéfinitions de
-   l’écosystème de la RHD
+   1ère Edition
 
    Métiers grande conso
    Programme et inscription
-   Trophée
+   Conférence
 
-   IN-NEO AWARDS BY NEO RESTAURATION
+   CONFÉRENCE CATEGORY MANAGEMENT & MERCHANDISING
 
-   5 Décembre 2022 Paris
+   9 Mars 2023 Paris
 
-   Primer les acteurs qui participent à l’évolution de la RHD
+   Définir les opportunités catégorielles et adapter sa stratégie
+   merchandising
 
    Métiers grande conso
    Programme et inscription
-   Trophée
+   Conférence
 
-   TROPHÉES DE L’INNOVATION
+   CONGRÈS DES STRATÉGIES DE L’OFFRE
 
-   7 Décembre 2022 Paris
+   6 Avril 2023 Paris
 
-   Célébrez l'innovation sous toutes ses formes !
+   Fluidifier les échanges et gagner du temps dans la construction de
+   l’offre
 
-   Tendances Conso
+   Distribution
+   Programme et inscription
+   Conférence
+
+   60 ANS DE L’HYPERMARCHÉ
+
+   11 Mai 2023 Paris
+
+   Quel avenir et quels enjeux pour l’hypermarché
+
+   Distribution
    Programme et inscription
 
    Tous les événements
@@ -327,13 +328,23 @@ Parts de marché : Lidl caracole, Intermarché revient
      * Mise à disposition du replay
 
    + 50 Replays disponibles
-   Comment Carrefour copilote le e-commerce avec ses fournisseurs via un
-   accès sécurisé à leurs données
+   E-commerce, plateforme digitale, usages numériques : allier sécurité et
+   performance
 
-   08 décembre 22 11h00 - 45 min
+   07 février 23 11h00 - 45 min
 
-   Comment Carrefour copilote le e-commerce avec ses fournisseurs via un
-   accès sécurisé à leurs données
+   E-commerce, plateforme digitale, usages numériques : allier sécurité et
+   performance
+
+   Proposé par La rédaction de LSA et Cloudflare
+   Je m'inscris au webinar
+   Comment Carrefour aide ses fournisseurs à piloter, en toute sécurité,
+   leur performance e-commerce
+
+   11 janvier 23 11h00 - 45 min
+
+   Comment Carrefour aide ses fournisseurs à piloter, en toute sécurité,
+   leur performance e-commerce
 
    Proposé par Okta - To build a world where identity belongs to you
    Je m'inscris au webinar
@@ -346,46 +357,38 @@ Parts de marché : Lidl caracole, Intermarché revient
    bon moment, au bon endroit
 
    Proposé par ORACLE CX
-   Je m'inscris au webinar
-   Santé, écoresponsabilité, gaspillage alimentaire, prix : comment
-   arbitrer pour répondre aux attentes des consommateurs ?
-
-   29 novembre 22 11h00 - 60 min
-
-   Santé, écoresponsabilité, gaspillage alimentaire, prix : comment
-   arbitrer pour répondre aux attentes des consommateurs ?
-
-   Proposé par CENTRIC SOFTWARE
-   Je m'inscris au webinar
+   Voir le replay
 
    LES SERVICES DE LSA CONSO
 
    Trouvez les entreprises de la conso qui recrutent des talents
-   B&M
+   Reuter.com
 
-   Directeur de Magasin H/F - France entière
-   B&M - 10/10/2022 - Franchise - PARIS
+   Conseiller clients avant-vente (h/f)
+   Reuter.com - 01/12/2022 - CDI - BOULOGNE BILLANCOURT
 
    + 550 offres d’emploi
    Tout voir
    Proposé par LSA
 
    Détectez vos opportunités d'affaires
-   49 - Ponts-de-Cé
+   972 - STE LUCE
 
-   Appel à projets guinguette estivale
-   DATE DE REPONSE 13/12/2022
+   Accord-cadre à bons de commande multi-attributaire pour la fourniture
+   de denrées alimentaires pour les besoins de la SOGES.
+   DATE DE REPONSE 03/02/2023
 
    + de 10.000 avis par jour
    Tout voir
    Proposé par Marchés Online
 
    Les réseaux de Franchises à suivre
-   VELOGIK LES ATELIERS
+   AIDADOMI
 
-   VELOGIK LES ATELIERS
-   LA franchise au service de la mobilité cyclable : réparation,
-   maintenance et vente accessoires vélos.
+   AIDADOMI
+   Aide aux personnes âgées, Aide aux personnes en situation de handicap,
+   Entretien du domicile, Garde d’enfants, Bricolage/Jardinage,
+   Téléassistance
 
    + 2600 franchises référencées
    Tout voir
@@ -402,15 +405,15 @@ Parts de marché : Lidl caracole, Intermarché revient
 
 ARTICLES LES PLUS LUS
 
-     * Le premier Atacadão de Carrefour France devrait ouvrir en
-       Seine-Saint-Denis
-     * Les 35 industriels qui vendent le plus en grande distribution
-     * Carrefour réclame un dédommagement à Système U pour rupture de
-       contrat commercial
-     * [Exclu] Changement à la tête d’Auxo, la centrale de Casino et
-       Intermarché
-     * Bricolage : les premières images du magasin Screwfix de Wattrelos
-     * Parts de marché : Lidl caracole, Intermarché revient
+     * Jardin : OOGarden placée en redressement judiciaire
+     * Place du Marché (ex-Toupargel) risque d’être placée en liquidation
+       judiciaire
+     * Patrick Puy au chevet de Go Sport
+     * Pour Carrefour, "la livraison à domicile n’est plus un marché de
+       niche"
+     * La centrale d'achat européenne Eurelec (Leclerc et Rewe) gagne
+       contre Bercy
+     * Lidl : Michel Biero reprend ses fonctions en France
 
    Suivez LSA
    Twitter Facebook Linked In Rss

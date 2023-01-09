@@ -1,6 +1,6 @@
    #fastfoodfr - RSS
 
-
+   top of page
    Ce site a été conçu sur la plateforme de création de sites internet
    .com
    . Créez votre site aujourd'hui.Commencez
@@ -255,3 +255,5 @@ Posts récents
    6. La restauration française qui s’inspire des principes du fast-food
    type hamburger pour enrichir s
    Retour à l'accueil
+
+   bottom of page

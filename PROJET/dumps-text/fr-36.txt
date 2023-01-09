@@ -10,6 +10,7 @@
    [France_____________]
    (BUTTON) Search
    Le marché du fast food - France
+     * Entreprises
      * Contact
      * [user_circle.svg]
      * [cart.svg] 0
@@ -48,7 +49,8 @@ le marché du fast food | France
      * Avis clients
      * Études similaires
 
-[businesscoot_circle_black.svg] Contenu de l'étude
+[businesscoot_circle_black.svg] Contenu de l'étude:
+Le marché du fast food - France
 
    Langues disponibles
 
@@ -297,10 +299,9 @@ POSITIONNEMENT DES ACTEURS
      * Subway (Performance Food group)
      * Groupe Bertrand
      * KAP Developpement
-     * KFC
+     * KFC France
      * Pizza Hut (Groupe Yum)
-     * Groupe Le Duff
-     * Domino’s Pizza
+     * Le Duff Groupe
      * Speed Rabbit Pizza
      * Sushi Shop Restauration
      * Exki
@@ -555,7 +556,7 @@ CE MARCHÉ DANS D'AUTRES PAYS
 
    Businesscoot SAS - 201 rue Championnet - 75018 Paris, France
 
-   Copyright © 2022.
+   Copyright © 2023.
 
    Businesscoot
 

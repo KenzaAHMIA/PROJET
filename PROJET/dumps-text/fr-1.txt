@@ -54,7 +54,9 @@
    Aller en haut.
    [ ]
 
-   Contents (BUTTON) move to sidebar (BUTTON) hide
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Historique
        (BUTTON) Afficher / masquer la sous-section Historique
@@ -99,6 +101,7 @@
    8.3Liens externes
 
    Basculer la table des matières
+   [ ]
 
 Restauration rapide
 
@@ -576,16 +579,25 @@ Liens externes[modifier | modifier le code]
 
    v · m
    Restauration rapide
-        Types
-   Aliment industriel · Aliment ultratransformé · Cuisine de rue ·
-   Malbouffe · Restauration rapide haut de gamme · Snack (grignotage) ·
-   Vente à emporter
+   Types
+     * Aliment industriel
+     * Aliment ultratransformé
+     * Cuisine de rue
+     * Malbouffe
+     * Restauration rapide haut de gamme
+     * Snack (grignotage)
+     * Vente à emporter
+
    Points de vente
-   Aire de restauration · Chariot de nourriture · Camion-restaurant ·
-   Restaurant rapide (en) · Stand alimentaire (en)
+     * Aire de restauration
+     * Chariot de nourriture
+     * Camion-restaurant
+     * Restaurant rapide (en)
+     * Stand alimentaire (en)
+
    Voir aussi :
-   Critique de la restauration rapide (en) · Liste de chaînes de
-   restaurants
+     * Critique de la restauration rapide (en)
+     * Liste de chaînes de restaurants
 
      * icône décorative Alimentation et gastronomie
      * icône décorative Portail des entreprises
@@ -594,7 +606,6 @@ Liens externes[modifier | modifier le code]
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Restauration_rapide&oldid=
    196300931 ».
-
    Catégorie :
      * Restauration rapide
 

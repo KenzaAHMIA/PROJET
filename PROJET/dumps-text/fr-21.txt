@@ -151,7 +151,7 @@ A lire également
 
    Le plus grand choix de repas en ligne
 
-     * © 2022 Eat-list
+     * © 2023 Eat-list
      *
      * Mentions légales
      *
@@ -175,7 +175,7 @@ A lire également
           +
           +
           +
-     * © 2022 Eat-list
+     * © 2023 Eat-list
 
    Votre mise à jour a bien été effectuée
 

@@ -7,24 +7,12 @@
 
      * Drive-Thru
           + ODMB
-          + Drive ID
           + Qtimer
           + OrderMatic
      * Self-Checkout
           + S15
           + S22 Lite
-          + ATP
      * Kiosk
-          + ATP
-          + DOT
-          + K22
-          + K27
-          + K27 Outdoor
-          + Service à table
-          + Touchless
-     * Click & Collect
-          + Pickup
-          + Mobile & Web Ordering
      * Etudes de cas
           + Commerces & loisirs
           + Alimentation et boissons
@@ -270,25 +258,12 @@ en compte ?
    Acrelec Logo White
      * Drive-Thru
           + ODMB
-          + Drive ID
           + Qtimer
           + OrderMatic
      * Kiosk
-          + K22
-          + K27
-          + K27 Outdoor
-          + K32 Outdoor
-          + Service à table
-          + Touchless
-          + ATP
-     * Click & Collect
-          + Pickup
-          + Mobile &
-            Web Ordering
      * Self-Checkout
           + S15
           + S22 Lite
-          + ATP
      * Etudes de cas
           + Commerces
             & loisirs

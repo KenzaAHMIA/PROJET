@@ -1,105 +1,20 @@
-   #Flux RSS Topito Topito » Top 10 des chaînes de fast-food préférées des
-   Français (ou en tout cas de nos lecteurs) Flux des commentaires
+   #Flux RSS Topito
 
-   La vie, du côté top
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
+   (BUTTON)
 
-   On est partout :
-
-   [logo_responsive_2.png]
-     * Publier un top
-
-     * 37 064 listes
-
-Catégorie
-          + Actualités / Politique
-          + Amour / Sexe
-          + Animaux
-          + Art / Photo
-          + Auto / Moto
-          + Bureau / Travail
-          + Cinéma
-          + Cuisine / Gastronomie
-          + Design / Décoration
-          + Economie / Finance
-          + High-Tech / Science
-          + Histoire
-          + Internet
-          + Jeux Vidéo
-          + Life / Société
-          + Livres / BD / Presse
-          + Mode / Beauté
-          + Musique
-          + Nawak
-          + People
-          + Santé
-          + Shopping
-          + Sport
-          + Topito vous parle
-          + TV / Séries
-          + Voyage
-          + Vu en Une
-          + Topithèmes
-
-Rendez-vous
-          + L'instant sesque du samedi
-          + Le meilleur de Twitter
-          + Les champions de la semaine
-          + Le coin des parents
-          + Le rdv grammar nazi
-          + Les quiz de François
-          + GIFS
-
-Par ton
-          + Humour
-          + Insolite
-          + Découverte
-          + Utile
-
-Par format
-          + Du texte
-          + Plein d'images
-          + Du bon son
-          + De jolies vidéos
-     * Quiz
-     * Vidéo
-     * Battle
+     * Listes
+     * Tests & Quiz
      * Shopping
-     * Topito Comedy Night
+     * Vidéos
+     * Battle
+     * Comedy Night
 
-     * Best-of
-     *
-     *
-
-   ____________________ (BUTTON)
-
-   Topito
-
-   Accueil ›
-   Cuisine / Gastronomie ›
-   Top 10 des chaînes de fast-food préférées des Français (ou en tout cas
-   de nos lecteurs)
-
-   Top précédent
-   11 faits divers improbables liés ... Top précédent Top suivant
-   15 détournements photoshop du cha ... Top suivant
+   (BUTTON)
 
 Top 10 des chaînes de fast-food préférées des Français (ou en tout cas de nos
 lecteurs)
 
-   Yannus
-   Par Yannus
-   le 14/07/2016
-   Catégorie : Cuisine / Gastronomie Vu en Une
+   Publié dans Cuisine / Gastronomie, le 14/07/2016 par Yannus
 
    Comme Stéphane Bern avec les plus beaux villages de France, nous sommes
    allés visiter toutes les aires d’autoroute et les zones industrielles
@@ -109,7 +24,7 @@ lecteurs)
    Bern. Donc préparez-vous à manger gras, parce que voici VOTRE
    classement des fast-foods de France.
 
-1. McDonald's
+McDonald's
 
    Ce n’est pas une grosse surprise. McDo est le classique du fast-food.
    Parce que même si on s’écharppe sur les menus mcdo pour savoir quel est
@@ -119,14 +34,14 @@ lecteurs)
    McDo.
    Crédits photo : McDonald's
 
-2. Burger King
+Burger King
 
    Il n’y a pourtant que 54 restaurants en France et, déjà, tout le monde
    adore. Burger King est un fantasme français tout comme le community
    manager de burger king.
    Crédits photo : BurgerKing
 
-3. KFC
+KFC
 
    Cocorico, la France aime le poulet ! En même temps c’est normal, quand
    on voit le gentil papy KFC, on a tout de suite envie de lui faire un
@@ -134,14 +49,14 @@ lecteurs)
    revanche, les restaurants ne sont pas entretenus entretenus.
    Crédits photo : KFC
 
-4. Subway
+Subway
 
    Ce qu’il y a de bien avec Subway, c’est qu’il fait appel à notre
    imagination. On peut soi-même créer son sandwich, et c’est merveilleux
    car on a tous une âme de Picasso culinaire au fond de nous.
    Crédits photo : Subway
 
-5. Pizza Hut
+Pizza Hut
 
    On raconte que la France est la première consommatrice de pizza
    d’Europe, devant les Italiens. Le Français d’aujourd’hui n’a pas envie
@@ -149,7 +64,7 @@ lecteurs)
    qu’on est tous des tortues ninjas au fond de nous).
    Crédits photo : PizzaHut
 
-6. Quick
+Quick
 
    On met Quick, parce qu’on le connaît tous. Mais racheté par Burger
    King, le petit Quick va bientôt être en voie de disparition… C’était
@@ -157,14 +72,14 @@ lecteurs)
    des derniers Quicks, vous les regretterez.
    Crédits photo : Quick
 
-7. Big Fernand
+Big Fernand
 
    Big Fernand, ça se trouve que dans les grandes villes, donc ça peut
    expliquer sa petite place. Mais on est sûr qu’ils vont envahir la
    France. C’est comme McDo, mais en bon. Très bon.
    Crédits photo : BigFernand
 
-8. Mezzo Di Pasta
+Mezzo Di Pasta
 
    Pourtant, c’est tellement bon les pâtes. Et il y a tellement de sauces,
    genre le pesto. Putain le pesto quoi, nous, on le mange à la petite
@@ -172,14 +87,14 @@ lecteurs)
    elle et moi.
    Crédits photo : MezzoDiPasta
 
-9. Pomme de pain
+Pomme de pain
 
    Cette petite place est peut-être due au fait que Pomme de Pain ne
    permet pas de faire son sandwich. Ajoutons que quitte à manger
    fast-food, autant manger un bon gros truc bien gras. Du type McDo.
    Crédits photo : PommeDePain
 
-10. Nabab
+Nabab
 
    Un fast-food de kebab, c’est pas évident. Parce qu’on est attaché à son
    petit vendeur de quartier ouvert presque toute la nuit. Rien ne vaut le
@@ -189,198 +104,112 @@ lecteurs)
    Mais en vrai si vous voulez changer des fast-food on aussi un top avec
    le meilleur restaurant américain de Paris. Ce n’est pas Mc Do.
 
-   Tu veux un mois de décembre qui claque ? Alors découvre toutes nos
-   sélections pour avoir le calendrier de l'Avent original le plus
-   incroyable de tous :
-   [3841.jpg]
-     __________________________________________________________________
+     * burger
+     * fast food
+     * McDonald's
 
-   Partager sur : Whatsapp Whatsapp Facebook Twitter
+  Les derniers articles publiés
 
-   Plus de tops sur burger , fast food , McDonald's
+   Le contenu chaud, tout juste sorti de notre rédaction
 
-   Yannus
-   Points
-   327 Tops
+8 erreurs à ne pas faire avec ses chaussures
 
-Un top signé Yannus
+10 théories cheloues sur les films Disney
 
-   (Rédacteur chez Topito) Salut c'est moi ! celui qui t'appelle et qui te
-   dit que c'est lui.
-     *
+15 des gens qui se sont plantés de tatouage
 
-Commentaires au top
+15 super illustrations sur la parentalité par Helene the illustrator
 
-   T'as quelque chose à dire, une réaction ? C'est ici. Oui, c'est bien
-   fait hein ?
+15 trucs étranges confisqués par des profs
 
-Plus de Tops sur fast food
+21 memes drôles sur les Pokémon
 
-   Si tu aimes ce Top, tu aimeras ça aussi. Puisqu'on te le dit.
+8 supermarchés de droite
 
-Top 20+ des meilleurs burgers de Paris, pour changer des fast-food
+12 illustrations sympa de Jun Han Chin
 
-   Tip Top !
+18 meilleurs films basés sur une énigme
 
-Top 11 des mix culinaires les plus étranges
+8 histoires de cannibalisme au Moyen Age
 
-Top 10 des chaines de junk food qu’on aimerait bien avoir chez nous
+  Les articles les plus lus
 
-Top 15 des preuves que les fast foods se foutent vraiment de notre gueule,
-faites un effort merde
+   Ceux qu'il ne faut surtout pas rater
 
-Top 10 des choses les plus pénibles quand on bosse dans un fast food
+10 preuves que la Twingo est la meilleur bagnole du monde
 
-Top 10 des vêtements imprimés Junk Food, parce que le gras, ça va avec tout
+14 tweets drôles signés Julien Doré
 
-TOP précédent
+15 règles officielles du Uno
 
-Top 11 des faits divers improbables liés à Pokemon Go, tout le ...
+Un coussin pour les fans de saucisson, ta passion jusque dans ton salon
 
-TOP suivant
+10 cartes insolites sur la prononciation du Français en fonction des régions
+épisode 2
 
-Top 15 des détournements photoshop du chat qui tapait l’incrust ...
+     * Un petit sac en forme de canette "sarcasme liquide"
+     * 15 détournements photoshop du chat qui tapait l'incruste dans un
+       match de rugby
 
-     *
-     *
+    1. Accueil
 
-topito en live
-       C'est tout chaud, coco
-          + 23/11
+     Cuisine / Gastronomie
 
-20 tweets drôles sur le match France-Australie
-          + 23/11
+     Top 10 des chaînes de fast-food préférées des Français (ou en tout
+   cas de nos lecteurs)
 
-20 preuves en images que ton coloc est un monstre
-          + 23/11
+   Suis-nous sur les réseaux
+   (BUTTON)
+   3,5M
+   Facebook
 
-20 memes sur les oublis
-          + 23/11
+     * Topito
+     * Topito Shopping
+     * Topito Voyage
+     * Topito Foot
+     * 👶🏼 Topito Parents
+     * Topito Comedy
+     * Topito Comedy Night
 
-[Topitruc] Un mini gaufrier pour faire des gaufres en forme de coeur
-          + 22/11
+   300K
+   TikTok
 
-8 icônes LGBTQ+ dans les dessins animés
-          + 22/11
+     * Topito Interview
+     * Topito Comedy
+     * Topito Academy
 
-10 trucs à retenir de France-Australie
-          + 22/11
+   1.7M
+   Youtube
 
-10 vents qui font bien mal à l'égo
-          + 22/11
+     * Topito
+     * Topito Studio
+     * Topito Interview
 
-[Topitruc] Un calendrier de l’Avent au CBD, les gourmandises au chanvre
-          + 22/11
+   200K
+   Twitter
 
-15 suites de films qui n'ont rien à voir avec l'original
-          + 22/11
+     * Topito
+     * Topito Foot
 
-10 trucs qu'il ne faut jamais faire aux Etats-Unis
-     *
+   600K
+   Snapchat
 
-Tops Partenaires
-       Ca serait dommage de les rater
+     * Topito
 
-[QUIZ] Test : Quel mangeur de raclette es-tu ?
-       Avec RichesMonts
+   1.4M
+   Instagram
 
-[Topitruc] Un calendrier de la suite GET 27 à gagner
-       Avec GET27
-       Voir tous les tops de nos partenaires
-     *
+     * Topito
+     * Topito Shopping
+     * Topito Voyage
+     * Topito Parents
+     * Topito Foot
+     * Topito Comedy Night
 
-Le topitruc du jour
-       Tous les jours un produit insolite
+   Flux RSS
+   Linkedin
 
-Un mini gaufrier pour faire des gaufres en forme de coeur
-       49.95 €
-       Il m'en faut un !
-       Voir tous les topitrucs
-     *
-
-La dernière vidéo
-       Si tu ne devais en voir qu'une...
-
-[Vidéo] Booder : La musique que tu as honte d’écouter
-       Avec Marrakech Du Rire 2022 sur M6
-       Voir toutes les vidéos
-
-   ✖ Fermer Merci, mais je suis déjà fan
-
-Donne de la joie à ton mur Facebook
-
-Allez viens, on est bien bien bien :
-
-   Retrouve nous sur
-     *
-     *
-     *
-
-   Inscris toi à notre topissime newsletter_____________________
-   Je m'inscris
-
-Les derniers tip tops
-
-   On sait bien que t'as encore 5 minutes...
-
-+30 logos complètement foirés, mais vraiment
-
-+40 messages de voisinage vraiment droles
-
-   exclusif
-
-10 produits qu'on a du mal à trouver en Angleterre
-
-15 appréciations scolaires originales
-
-15 phrases loufoques dans les trains belges
-
-   Voir tous les tip tops
-
-Les + partagés
-
-De la semaine
-
-   Le 7ème jour, Dieu créa le Top
-    1. exclusif
-
-Top 12 des mots qui n’existent pas (dans tous les dicos), mais ...
-    2. 10 choses que les caissières aimeraient que tu saches
-    3. Un pull de Noël avec une peluche de T-Rex, élu meilleur pull de
-       tous les temps
-    4. 10 stars qu'il ne faut pas emmerder sur Twitter
-    5. 15 photos qui prouvent que le Canada est un pays merveilleux
-
-Du mois
-
-   Notre employé du mois à nous
-    1. exclusif
-
-Top 12 des mots qui n’existent pas (dans tous les dicos), mais ...
-    2. 10 écrivains célèbres qui étaient de belles enflures
-    3. +30 logos complètement foirés, mais vraiment
-    4. 13 offres d'emploi qui abusent clairement
-    5. 20 tweets sur le Beaujolais Nouveau
-
-All time
-
-   Over the top
-    1. exclusif
-
-Top 10 des avantages à être petite (faire 1m55, c’est la classe ...
-    2. 30+ traductions françaises un peu foirées
-    3. 12 signes astrologiques du meilleur au pire
-    4. 15 insultes d'autrefois à réhabiliter
-    5. 30 détournements de "Martine", le best-of
-
-   Voir tout le best of
-
-   Topito
-
-     Topito, what else ?
-     G. Clooney
-
-A propos de Topito
+   À propos
 
      * A propos
      * On recrute !
@@ -390,52 +219,91 @@ A propos de Topito
      * Espace Presse
      * Nous contacter
 
-Publicité
+   Les trucs sérieux
 
-     * Annoncer sur Topito
-
-Les trucs sérieux
-
-     * Paramètres de Gestion de la Confidentialité
      * Conditions d'utilisation
      * Politique de Confidentialité
      * Archives
 
-   Designed by Colorz | Coded by Ziofix
-   Copyright © 2022 Corpito
+   Publicité
 
-     * ____________________ (BUTTON) Rechercher
-     * Accueil
-     * Tops
-     * Topitrucs
-     * Vidéos
-     * GIFs
+     * Annoncer sur Topito
+
+   Copyright © 2023 Corpito
+   Et sinon, vous ça va ?
+
+   Listes
+     * Top tweets
+     * Récap Koh Lanta
+     * Champions de la semaine
+     * Teubés de la semaine
+     * Meilleurs memes
+
+   Tests & Quiz
+     * Tests de personnalité
      * Quiz
-     * Topifight
-     *
-     * Best-of
-     * Top au hasard
-     * Espace Topiteur
-     * Connexion
-     * Inscription
-     * Retrouvez Topito sur
-     * Youtube
-     * Facebook
-     * Twitter
-     * Instagram
-     * Snapchat
-     * RSS
-     * Newsletter
-     * IOS
-     * Android
-     * Le site
-     * À propos
-     * L'Équipe
-     * Comedy Night
-     * Nous contacter
-     * Conditions d'utilisation
-     *
+     * Les derniers
+     * Les + populaires
 
-   Copyright © 2022 Corpito Retour en haut
+   Battles
+     * Les derniers
+     * Les + populaires
 
-   Quantcast
+   Vidéos
+     * Vidéos les + populaires
+     * Sketchs
+     * Interviews
+     * Academy
+
+   Shopping
+     * Tops les + récents
+     * Tops les + populaires
+     * Les dernières idées cadeaux
+     * Guide de vacances
+     * Les Calendriers de l'Avent
+     * Idées cadeaux de Noël
+     * Idées cadeaux de Saint-Valentin
+     * Idées cadeaux de Fête des Mères
+     * Idées cadeaux de Fête des Pères
+
+   Catégorie
+     * Actualités / Politique
+     * Amour / Sexe
+     * Animaux
+     * Art / Photo
+     * Auto / Moto
+     * Bureau / Travail
+     * Cinéma
+     * Cuisine / Gastronomie
+     * Design / Décoration
+     * Economie / Finance
+     * High-Tech / Science
+     * Histoire
+     * Internet
+     * Jeux Vidéo
+     * Life / Société
+     * Livres / BD / Presse
+     * Mode / Beauté
+     * Musique
+     * Nawak
+     * People
+     * Santé
+     * Shopping
+     * Sport
+     * Topito vous parle
+     * TV / Séries
+     * Voyage
+     * Vu en Une
+
+   ____________________ (BUTTON)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPFHKLC
+
+   Contenu bloqué à cause du paramétrage des cookies 🍪
+
+   Afin de respecter votre choix de consentement, ce contenu est bloqué.
+   En cliquant sur "Accepter", vous acceptez le dépôt de cookies de
+   services et partenaires externes.
+   Modifiez ce choix à tout moment dans le menu "Paramètres de Gestion de
+   la Confidentialité" en bas de page.
+   En savoir plus Accepter & afficher

@@ -4,6 +4,7 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
 
    Retour à l’accueil
+     * Journal
      *
      *
      *
@@ -63,8 +64,10 @@
 
    Dans l’actu
      * Guerre en Ukraine
-     * Coupe du monde 2022
-     * Inflation
+     * Covid-19
+     * Mort de Pelé
+     * Réforme des retraites
+     * Grève des médecins libéraux
      * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
@@ -230,11 +233,11 @@ McDonald's
 
    Codes promo
      * Codes promo
-     * Code promo AliExpress
-     * Code promo Carrefour
-     * Code promo Dell
-     * Code promo Vistaprint
-     * Code promo Black Friday
+     * Code promo Uber Eats
+     * Code promo ASOS
+     * Code promo Bouygues Telecom
+     * Code promo Lastminute
+     * Code promo Tommy Hilfiger
 
    20 Minutes
      * Recrutement
@@ -278,6 +281,7 @@ McDonald's
      * CGU
      * Protection des données personnelles
      * Gestion des cookies
+     * Supprimer les cookies publicitaires éditeur
      * Nous contacter
 
    Choix de consentement © Copyright 20 Minutes - La fréquentation de

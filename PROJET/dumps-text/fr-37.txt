@@ -8,14 +8,14 @@
 
    (BUTTON) Menu
 
-     * Entreprises
+     * ENTREPRISES
        Entreprises
        De la création à la cession, nous vous accompagnons dans toutes les
        étapes de la vie de votre entreprise.
        Entreprises - Tout voir
           + Créez votre entreprise
             (BUTTON) Retour
-               o Comment créer votre entreprise Tout voir
+               o Comment créer votre entreprise - Tout voir
                o L'étude de marché
                o Le statut juridique
                o Le business plan
@@ -66,7 +66,7 @@
        d’accélération.
        Retrouvez toutes nos actualités
        (BUTTON) Fermer
-     * Éducation
+     * ÉDUCATION
        Éducation
        Nouveaux métiers, nouveaux défis, nouvelles formations, nos écoles
        se réinventent en permanence pour répondre en temps réel aux
@@ -75,9 +75,11 @@
           + Découvrir nos écoles
             (BUTTON) Retour
                o Découvrir nos écoles - Tout voir
-               o Nos écoles et filières
+               o Nos écoles
                o L'ouverture internationale de nos écoles
                o Raison d’être de notre Groupe éducatif
+               o Soutenir nos écoles en leur versant votre taxe
+                 d’apprentissage
           + Trouver une formation
             (BUTTON) Retour
                o Trouver une formation - Tout voir
@@ -109,6 +111,11 @@
                o Compte personnel de formation
                o Certification de son niveau de français
                o Certificat de compétences en entreprise (CCE)
+          + Créer son entreprise quand on est étudiant
+            (BUTTON) Retour
+               o Créer son entreprise quand on est étudiant - Tout voir
+               o Le statut d'étudiant-entrepreneur
+               o Les incubateurs de nos écoles
        ZOOM SUR
        Nora Gougane
        De la reconversion à la création d’entreprise
@@ -117,7 +124,7 @@
        pour créer son entreprise.
        Retrouvez toutes nos actualités
        (BUTTON) Fermer
-     * Prospective
+     * PROSPECTIVE
        Prospective
        Élus et experts se mobilisent pour défendre vos intérêts et
        identifier ce que seront les futurs enjeux des entreprises.
@@ -127,7 +134,7 @@
           + Travaux et publications
           + Observatoire économique (CROCIS)
             (BUTTON) Retour
-               o Observatoire économique : le CROCIS
+               o Le CROCIS - Tout voir
                o Les activités
                o Les rubriques
                  (BUTTON) Retour
@@ -143,6 +150,8 @@
                     # Les Cahiers du CROCIS
                     # Tableaux de bord économiques de l'Ile-de-France
                     # Baromètres « Image PME »
+               o Formations & prestations
+               o Cartographie économique
           + Chiffres-clés de l'Ile-de-France
        ZOOM SUR
        tourisme d'affaires H1
@@ -153,7 +162,7 @@
        hausse, constitue un signal encourageant.
        En savoir plus
        (BUTTON) Fermer
-     * Événements
+     * ÉVÉNEMENTS
        Événements
        Les salons, les congrès et la location de nos espaces pour vos
        événements… autant d’opportunités pour promouvoir vos produits et
@@ -164,11 +173,12 @@
           + Découvrir nos sites d'expositions et de congrès
           + Louez un espace CCI Event Paris
        ZOOM SUR
-       C S
-       11 préconisations pour relancer la filière congrès et salons
-       Face à une concurrence internationale offensive, il est urgent que
-       Paris retrouve sa position de leader mondial dans la filière des
-       événements d'affaires.
+       Tourisme d'affaire
+       Les séjours professionnels : une clientèle stratégique pour
+       l’hôtellerie francilienne
+       L’Île-de-France est l’une des destinations les plus plébiscitées au
+       monde, autant par les touristes d’agrément que par les visiteurs
+       professionnels.
        En savoir plus
        (BUTTON) Fermer
      * International
@@ -198,9 +208,64 @@
        disposition pour accélérer vos projets export.
        Toutes les actualités
        (BUTTON) Fermer
-
      * Notre Groupe
+       Notre Groupe
+       Acteur majeur de l'économie régionale, au service des entreprises,
+       des jeunes et des territoires pour favoriser le développement de la
+       croissance et de l’emploi.
+       Notre Groupe - Tout voir
+          + Notre histoire
+          + Nos missions
+          + Notre organisation
+            (BUTTON) Retour
+               o Notre organisation - Tout voir
+               o Président
+               o Bureau
+               o Elus et assemblée régionale
+               o Directeur général
+               o Nos implantations
+               o Nos marques et sites web
+               o Bilan mandature 2016-21
+          + Finances et juridique
+            (BUTTON) Retour
+               o Finances et juridique - Tout voir
+               o Délégations de signature et de compétence
+               o Marchés publics
+               o Commissions fiscales de conciliation
+          + Nos engagements RSE
+          + Nous rejoindre
+            (BUTTON) Retour
+               o Nous rejoindre - Tout voir
+               o Développer les talents
+               o Nos offres d'emploi
+       ZOOM SUR
+       Header couverture RA
+       Rapport d'activité 2021
+       Retour sur les actions de la CCI Paris Ile-de-France en 2021 :
+       accompagner la relance, se transformer pour mieux répondre aux
+       attentes du monde économique et dynamiser nos territoires, préparer
+       étudiants et entreprises à relever les défis de demain…
+       Toutes les actualités
+       (BUTTON) Fermer
      * Newsroom
+       Newsroom
+       Pour rester connecté à l'actualité économique de notre région.
+       Newsroom - Tout voir
+          + Communiqués & dossiers de presse
+          + Travaux et publications
+          + Actualités
+          + Le Président dans les médias
+          + Rapport d'activité
+          + Newsletter
+       ZOOM SUR
+       Ouverture du Salon TRANSFAIR
+       Cession/reprise d’entreprise : Salon Transfair 1er décembre 2022
+       Alors que plus de 800 000 emplois sont concernés par la disparition
+       possible du tissu entrepreneurial francilien dans les 10 prochaines
+       années, le salon Transfair réunit cédants et repreneurs pour
+       simplifier et démystifier les opérations de transmission/reprise.
+       Découvrir le communiqué
+       (BUTTON) Fermer
 
      * FR
      * EN
@@ -209,26 +274,42 @@
    ______________________________ (BUTTON) Lancer la recherche
    Rechercher les autres contenus
    (Appliquer) Appliquer
-   [Laflor-IStock-GettyImages-1920X510.jpg?itok=YmbY07zQ]
-   Création d'entreprise
-   Création d'entreprise : pourquoi op...
-   Vous êtes étudiant et vous souhaitez créer une entreprise ? Optez pour
-   le Statut National Étudiant-Entrepreneur et bénéficiez d’un
-   accompagnement !
-   21/11/22
-   [Apprentissage-H2-D-Fizkes-GettyImages.jpg?itok=m8ckuu4q]
-   Apprentissage
-   Pourquoi choisir l’apprentissage ?
-   Suivre une formation en étant rémunéré, obtenir un diplôme reconnu,
-   apprendre un métier, acquérir de l'expérience et favoriser son
-   intégration dans le monde professionnel… les 16-29 ans sont de plus en
-   plus nombreux à se tourner vers l'apprentissage.
-   18/11/22
-   [Bandeau%20Creda%20.png?itok=p7jErMe9]
-   Droit
-   L’exclusion d’un associé de SAS pou...
-   16/11/22
+   [CommerceH2DWilliamW.PotterAdobe%20Stock.jpg?itok=8U8nLz7q]
+   Commerce
+   Réussir la transformation digitale ...
+   Développer vos ventes en ligne, digitalisez la gestion de votre
+   commerce. Nous vous proposons les formations et ressources adaptées �
+   la transformation de votre commerce.
+   03/01/23
+   [DelphotoStock-AdobeStock-1920X510.jpg?itok=0PM_0HBQ]
+   CCI Paris Ile-de-France
+   Le directeur général de la CCI Pari...
+   Le Président Didier Kling a nommé Stéphane Fratacci directeur général.
+   Il a pris ses fonctions le 2 janvier 2019.
+   03/01/23
+   [H2D-Entreprises-D-Pekic-IStock-GettyImages-1920x510.jpg?itok=KlwDdjrE]
+   Commerce
+   Etre présent et mieux vendre sur In...
+   Le chèque numérique, qui peut s'élever jusqu'à 1 500 euros, a pour
+   objectif d’aider les commerçants à optimiser leur gestion, leur
+   marketing et leur visibilité sur le web.
+   03/01/23
    Voir plus
+   [FatCamera-IStock-GettyImages-1920x510.jpg?itok=4oNxfWq1]
+   Ecole
+   Construire l’école de demain : le p...
+   Avec le projet Ecoles phygitales de la CCI Paris Ile-de-France vise �
+   accélérer le développement du numérique éducatif et d’hybridation des
+   formations.
+   20/12/22
+   [SG-AdobeStock-1920x510_0.jpg?itok=lq9kbRXI]
+   Développement de l'entreprise
+   Risque de coupures d’électricité : ...
+   Les entreprises ont un rôle essentiel à jouer pour éviter les coupures
+   d'électricité. En devenant partenaire d’EcoWatt, elles peuvent réduire
+   leur propre consommation et relayer les alertes EcoWatt et les bons
+   gestes à adopter.
+   28/11/22
    [Isaac74-AdobeStock-1920x510.jpg?itok=qQLnI1a8]
    Développement de l'entreprise
    Flambée des prix de l’énergie : com...
@@ -237,18 +318,6 @@
    Jean-Léry Lecornier, président-directeur général de l’Union des
    Forgerons.
    17/11/22
-   [Nobtis-IStock-GettyImages-1920X510.jpg?itok=ItXXEuEM]
-   Industrie
-   L'Usine du Futur au Salon du Made in France
-   07/11/22
-   [Copains-1920x510.jpg?itok=WW3BusVQ]
-   Commerce
-   Paris Shop & Design : le design au ...
-   Le prix Paris Shop & Design récompense les initiatives les plus
-   réussies en matière de design et d’architecture dans la conception des
-   espaces de vente de commerces et services de proximité, cafés, hôtels
-   et restaurants parisiens.
-   18/10/22
    Voir plus
    pdf
    Subdélégation de pouvoirs pour le s...
