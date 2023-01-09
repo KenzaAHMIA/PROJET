@@ -3,7 +3,11 @@
    burgers à la carte de cette enseigne nordiste. Un fast-food à la
    française qui a vu le jour dans la Métropole lilloise en 1971. Dans les
    années 80 c’est Gérard Mulliez qui s’empare du concept et en fait le
+<<<<<<< HEAD
+   chouchou des jeunes avec un menu à 15 francs pour les étudiants soit �
+=======
    chouchou des jeunes avec un menu à 15 francs pour les étudiants soit à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    peine 2,50 €. Le pain était livré deux fois par jour, les légumes frais
    et les produits souvent locaux, le tout avec la rapidité du fast-food.
 

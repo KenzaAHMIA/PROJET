@@ -111,6 +111,18 @@ Un prix démesuré mais pour la bonne cause
    newsletter
    Vous aimez le jambon ? Alors vous allez adorer le San Daniele AOP !
    Dernières actus cuisine
+<<<<<<< HEAD
+   15 recettes de repas rapides pour gagner du temps
+   15 recettes de repas rapides pour gagner du temps
+   10 recettes aussi rapides que gourmandes pour le dîner
+   10 recettes aussi rapides que gourmandes pour le dîner
+   Fondez de gourmandise pour ce potimarron farci aux lentilles et au
+   roquefort, un plat qui a du caractère !
+   Fondez de gourmandise pour ce potimarron farci aux lentilles et au
+   roquefort, un plat qui a du caractère !
+   15 recettes de gâteaux simples et rapides
+   15 recettes de gâteaux simples et rapides
+=======
    5 recettes de gâteaux simples et rapides à faire en 15 minutes
    5 recettes de gâteaux simples et rapides à faire en 15 minutes
    Devenez le roi ou la reine de l'Épiphanie avec la recette gourmande de
@@ -123,6 +135,7 @@ Un prix démesuré mais pour la bonne cause
    restaurant !
    Top Chef : l'ex-candidate Alexia Duchêne ouvre (enfin) son premier
    restaurant !
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    A voir aussi
    Le plus gros burger jamais inventé par Burger King
    Le plus gros burger jamais inventé par Burger King

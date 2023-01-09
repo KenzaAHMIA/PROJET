@@ -63,10 +63,18 @@
 
    Dans l’actu
      * Guerre en Ukraine
+<<<<<<< HEAD
+     * Covid-19
+     * Mort de Pelé
+     * Réforme des retraites
+     * Grève des médecins libéraux
+     * Sorties ciné
+=======
      * Emeutes au Brésil
      * Crise énergétique
      * Noël le Graët
      * Réforme des retraites
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -230,12 +238,21 @@ McDonald's
      * Sportune
 
    Codes promo
+<<<<<<< HEAD
+     * Codes promo
+     * Code promo Uber Eats
+     * Code promo ASOS
+     * Code promo Bouygues Telecom
+     * Code promo Lastminute
+     * Code promo Tommy Hilfiger
+=======
      * Code Promo
      * Code Promo Samsung
      * Code Promo Dell
      * Code Promo ALL - Accor Live Limitless
      * Code Promo Adidas
      * Code Promo SNCF
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    20 Minutes
      * Recrutement

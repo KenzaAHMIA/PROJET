@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
    #Eighties » Flux Eighties » Flux des commentaires Eighties » Flux iCal
    Eighties » L’explosion des Fast-Food dans les Années 80 ! Flux des
    commentaires alternate alternate alternate
@@ -7,6 +9,7 @@
    AccueilCulture EightiesPubs et Produits quotidiensL’explosion des
    Fast-Food dans les Années 80 !
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 L’explosion des Fast-Food dans les Années 80 !
 
 Les hamburgers et fast-food de notre jeunesse !
@@ -23,6 +26,8 @@ Les hamburgers et fast-food de notre jeunesse !
 
    A l’époque, on parlait déjà de malbouffe, mais la restauration rapide
 --
+<<<<<<< HEAD
+=======
    chaîne Mc Donald’s. Mais nous parlerons aussi d’autres enseignes qui
    vous rappelleront sans doute des souvenirs. Voici donc l’histoire non
    exhaustive de la restauration rapide en France.
@@ -35,6 +40,7 @@ Mc Donald’s :
    la plus franchisée de l’Hexagone, et pourtant le pari n’était pas gagné
    d’avance…
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    la Suède en 1973, et le Royaume Uni en 1974.
 
    restaurant Mc Donald hamburgers années 80 fast-food
@@ -114,12 +120,15 @@ Burger King
 
    Burger King, malgré sa puissance aux USA et dans le reste de l’Europe,
 --
+<<<<<<< HEAD
+=======
 O’Kitch
 
    Voila une chaîne de restauration rapide totalement éphémère, mais qui a
    compté pour beaucoup dans le développement des fast-foods en France.
 
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    McDo est officiellement celui de Strasbourg).
 
    restaurant o'kitch hamburgers années 80 fast-food Paris

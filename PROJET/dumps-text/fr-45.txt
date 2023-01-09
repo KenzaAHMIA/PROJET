@@ -1,5 +1,9 @@
    Journal édition numérique L'édition numérique du
+<<<<<<< HEAD
+   mercredi 4 janvier 2023
+=======
    lundi 9 janvier 2023
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Home page Le Télégramme
      * Se connecter
      * S'abonner
@@ -83,6 +87,18 @@
    Newsletters
      * (BUTTON) ____________________ (BUTTON)
        Les plus recherchés
+<<<<<<< HEAD
+          + obseques
+          + naissances
+          + deces
+          + accident
+          + lanester
+          + Auray
+          + Cleguer
+          + klenschi
+          + vegedream
+          + cnrl
+=======
           + baleine
           + plouguerneau
           + dauphin
@@ -92,7 +108,11 @@
           + crozon
           + Hahahard
           + accident
+<<<<<<< HEAD
           + Théâtre du croisty
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      *
           + Toute l'actualité
           + Le T+

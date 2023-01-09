@@ -5,6 +5,24 @@
    Menu Se connecter Retour vers le site CIPIZ, c'est quoi ?La carte
    CipizBons Plans Transpirer#WTFAgirSortirCultureEmploi et
    formationMediattitudesGeek ____________________ Rechercher
+<<<<<<< HEAD
+   Journal numérique Le direct A la une ActualitésFaits divers France
+   Monde L'édito Le dessin d'Alex Insolite En images Vu d'ici Le Courrier
+   et vousÉcrivez-nous Envoyez vos photos Questions-réponses RégionL'actu
+   en Picardie Amiens et métropole Nord amiénois Sud amiénois Abbeville et
+   sa région Villes Soeurs et Bresle Vimeu Péronne et sa région Albert et
+   environ Santerre Ham et environs Beauvais et environs Clermont, Plateau
+   picard Compiègne et environs Noyon Saint-Quentinois Aisne
+   SportRésultats sportifs FootballActualités football Amiens SC FC
+   Chambly ASBO OSQ Gothiques RugbyL'actu rugby RCA BRC RCC SQBB Handball
+   Course à pied Cyclisme Natation Tennis Tennis de table Volley-ball
+   Hippisme Loisirs pratiqueArts et spectacles Ch'Dur et pi ch'Mo Nature
+   Santé Littérature Les blogs du Courrier picardBulles picardes Coups de
+   barre Les dessous chics Généalogiquement vôtre Économie Cipiz Lereo
+   Avis de décès Emploi Carnet Annonces légalesAnnonces Légales Marchés
+   publics Vie des sociétés Enquêtes publiques Ventes aux enchères Nos
+   jeux L'agenda Boutique Club abonné Newsletters Retour vers
+=======
    Journal numérique Le direct Horoscope 2023 A la une ActualitésFaits
    divers France Monde L'édito Le dessin d'Alex Insolite En images Vu
    d'ici Le Courrier et vousÉcrivez-nous Envoyez vos photos
@@ -23,6 +41,7 @@
    Annonces légalesAnnonces Légales Marchés publics Vie des sociétés
    Enquêtes publiques Ventes aux enchères Nos jeux L'agenda Boutique Club
    abonné Newsletters Diverto Retour vers
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Le Courrier Picard
 
       Votre compte
@@ -70,6 +89,13 @@
 
    Lire aussi
 
+<<<<<<< HEAD
+  Elon Musk crée un parfum pour «l’aider à racheter» Twitter
+
+  Une Amiénoise remporte un titre au Festival Européen de la coupe mulet
+
+  Une chasse au trésor pour gagner des tatouages à Amiens
+=======
   Le snus: une nouvelle forme de tabac à sucer, illégale mais prisée par les
   lycéens
 
@@ -77,6 +103,7 @@
   lui crient dessus
 
   Ces huit stars du web sont passées en 2022 par Amiens (the place to be)
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
   Poursuivez votre lecture sur ce(s) sujet(s) :
 
@@ -84,6 +111,36 @@
 
 A lire aussi
 
+<<<<<<< HEAD
+   Mario X Lapins crétins Mario X Lapins crétins
+
+  Une nouvelle collab entre Mario et les Lapins Crétins
+
+   Image=d-20221007-GXPKGK_high Image=d-20221007-GXPKGK_high
+
+  Amiens: quand des jeunes femmes vendent des photos d’elles nues sur la
+  plateforme MYM
+
+   L’équipe de WarpZone Amiens, Philippine, Quentin et Benjamin L’équipe
+   de WarpZone Amiens, Philippine, Quentin et Benjamin
+
+  Video Le premier bar gaming d’Amiens ouvre ses portes
+
+   jeu jeu
+
+  Amiens: À toi de jouer ce week-end
+
+   Arkunir Burger Arkunir Burger
+
+  Après un défi entre Burger King et un twitto, un nouveau burger est né
+
+   La première édition du GP Explorer a eu lieu au Mans, samedi 8 octobre
+   2022. La première édition du GP Explorer a eu lieu au Mans, samedi 8
+   octobre 2022.
+
+  Video GP Explorer: 40.000 personnes ont assisté à une course de youtubeurs sur
+  le circuit du Mans
+=======
    Entre concerts, ciné ou encore expo, voici 10 idées de sorties
    amiénoises à faire en janvier. Entre concerts, ciné ou encore expo,
    voici 10 idées de sorties amiénoises à faire en janvier.
@@ -107,6 +164,7 @@ A lire aussi
    063_1127210096 063_1127210096
 
   Video Le premier nom du Mainsquare 2023: Maroon 5
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    La distribution du 20e Panier Culturel aura lieu samedi 19 novembre
    2022 à Amiens. La distribution du 20e Panier Culturel aura lieu samedi
@@ -137,4 +195,4 @@ Les sections du site
    © Rossel & Cie - 2022
    Conditions générales d’utilisation - Conditions générales de vente -
    Politique de cookies - Politique de Protection Vie privée - Notre
-   charte éditoriale - Mentions Légales
+   charte éditoriale - Droits de reproduction

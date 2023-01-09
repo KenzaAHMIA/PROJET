@@ -15,8 +15,11 @@ critique gastronomique, et le journaliste Pierre-Philippe Berson, auteur de
    Au pays de la gastronomie, le fast-food – repas sur le pouce - serait
    en train de détrôner la nappe à carreaux : de l’enseigne O'Tacos au
    camion de rue, la restauration rapide s’est faite une place dans
+<<<<<<< HEAD
+=======
    l’hexagone, entre "french tacos" et burgers gastros.
    Publicité
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 --
 
    Populaire ou raffiné, comment expliquer son succès ? Y’a-t-il une

@@ -178,6 +178,7 @@ Spécial Gastronomie
 
 Vous pourriez aussi aimer :
 
+<<<<<<< HEAD
    Pourquoi la gastronomie est l’un des éléments-clés de la réussite de
    votre événement d’entreprise ?
 
@@ -186,6 +187,13 @@ Pourquoi la gastronomie est l’un des éléments-clés de la réussite de votre
 
    27 minutes Spécial Gastronomie
 
+=======
+<<<<<<< HEAD
+   Comment cuisiner les meilleurs plats de langoustines ?
+
+Comment cuisiner les meilleurs plats de langoustines ?
+=======
+>>>>>>> refs/remotes/origin/main
    Quelles dimensions de bac gastro est adaptée pour un restaurant ?
 
 Quelles dimensions de bac gastro est adaptée pour un restaurant ?
@@ -195,9 +203,21 @@ Quelles dimensions de bac gastro est adaptée pour un restaurant ?
 Pourquoi les sacs repas isothermes sont-ils si importants ?
 
    1 jour Spécial Gastronomie
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Pourquoi opter pour un jus de cranberry ?
 
+<<<<<<< HEAD
+   Buvez du cidre, et vous serez en bonne santé !
+
+Buvez du cidre, et vous serez en bonne santé !
+
+   2 semaines Spécial Gastronomie
+
+   Les brûleurs de graisse naturels
+
+Les brûleurs de graisse naturels
+=======
 Pourquoi opter pour un jus de cranberry ?
 
    3 jours Spécial Gastronomie
@@ -211,12 +231,62 @@ Comment cuisiner les meilleurs plats de langoustines ?
    Buvez du cidre, et vous serez en bonne santé !
 
 Buvez du cidre, et vous serez en bonne santé !
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
-   3 semaines Spécial Gastronomie
+   2 semaines Spécial Gastronomie
 
+<<<<<<< HEAD
 Autres recettes
 
    Recette confiture de figues
+=======
+<<<<<<< HEAD
+   Comment choisir sa machine à café à grain ?
+
+Comment choisir sa machine à café à grain ?
+
+   2 semaines Spécial Gastronomie
+
+   Comment réussir des mini-cannelés salés pour l’apéritif ?
+
+Comment réussir des mini-cannelés salés pour l’apéritif ?
+=======
+   Les brûleurs de graisse naturels
+
+Les brûleurs de graisse naturels
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+   2 semaines Spécial Gastronomie
+
+   Comment ouvrir sa franchise dans la restauration en 2023 ?
+
+Comment ouvrir sa franchise dans la restauration en 2023 ?
+
+   2 semaines Spécial Gastronomie
+
+Autres recettes
+
+<<<<<<< HEAD
+   Esquimaux mûre-citron vert
+
+Esquimaux mûre-citron vert
+
+   3 ans Spécial Gastronomie
+
+   Recette avocado toast et œuf au plat
+
+Recette avocado toast et œuf au plat
+
+   1 an Spécial Gastronomie
+
+   Morue grillée à la basque
+
+Morue grillée à la basque
+
+   2 ans Spécial Gastronomie
+=======
+   Quelles recettes et aliments privilégier pour soigner ses cheveux ?
+>>>>>>> refs/remotes/origin/main
 
 Recette confiture de figues
 
@@ -240,6 +310,22 @@ Bagel à la mexicaine
 
    4 ans Spécial Gastronomie
 
+<<<<<<< HEAD
+=======
+   Recette cuisse de canard au four
+
+Recette cuisse de canard au four
+
+   1 an Spécial Gastronomie
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+   Recette pain de poisson aux légumes
+
+Recette pain de poisson aux légumes
+
+   1 an Spécial Gastronomie
+
+>>>>>>> refs/remotes/origin/main
    Chercher une recette
    ____________________ (BUTTON) Chercher
 
@@ -250,15 +336,21 @@ Suivez-nous
 
 Articles récents
 
+<<<<<<< HEAD
      * Pourquoi la gastronomie est l’un des éléments-clés de la réussite
        de votre événement d’entreprise ?
        Pourquoi la gastronomie est l’un des éléments-clés de la réussite
        de votre événement d’entreprise ?
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/main
      * Quelles dimensions de bac gastro est adaptée pour un restaurant ?
        Quelles dimensions de bac gastro est adaptée pour un restaurant ?
      * Pourquoi les sacs repas isothermes sont-ils si importants ?
      * Pourquoi opter pour un jus de cranberry ?
        Pourquoi opter pour un jus de cranberry ?
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Recette du sex on the beach
        Recette du sex on the beach
      * Comment cuisiner les meilleurs plats de langoustines ?
@@ -271,6 +363,7 @@ Articles récents
        Comment choisir sa machine à café à grain ?
      * Comment réussir des mini-cannelés salés pour l’apéritif ?
        Comment réussir des mini-cannelés salés pour l’apéritif ?
+<<<<<<< HEAD
 
 Articles les plus lus
 
@@ -278,6 +371,31 @@ Articles les plus lus
        de votre événement d’entreprise ?
        Pourquoi la gastronomie est l’un des éléments-clés de la réussite
        de votre événement d’entreprise ?
+=======
+     * Comment ouvrir sa franchise dans la restauration en 2023 ?
+       Comment ouvrir sa franchise dans la restauration en 2023 ?
+<<<<<<< HEAD
+     * 6 fromages italiens peu connus que vous devez absolument tester !
+       6 fromages italiens peu connus que vous devez absolument tester !
+     * Pourquoi privatiser un bar ou un restaurant pour un événement ?
+       Pourquoi privatiser un bar ou un restaurant pour un événement ?
+     * Le distributeur automatique de boissons chaudes, un incontournable
+       pour votre entreprise !
+       Le distributeur automatique de boissons chaudes, un incontournable
+       pour votre entreprise !
+
+Articles les plus lus
+
+     * Recette du sex on the beach
+       Recette du sex on the beach
+=======
+
+Articles les plus lus
+
+     * Quelles dimensions de bac gastro est adaptée pour un restaurant ?
+       Quelles dimensions de bac gastro est adaptée pour un restaurant ?
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      * Sublimez Pâques avec un délicieux fondant au chocolat
        Sublimez Pâques avec un délicieux fondant au chocolat
      * Ma recette du jour : la salade pascale

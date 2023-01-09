@@ -18,7 +18,11 @@ Top 13 des meilleures chaînes de fast-food en France
    Afficher plus
    Règles du top Votez pour vos chaînes de fast-food préférées
    99%
+<<<<<<< HEAD
+   Classement fiable Avec 6 567 votes, ce top est considéré comme fiable ✔
+=======
    Classement fiable Avec 6 588 votes, ce top est considéré comme fiable ✔
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
 Classement des chaînes de fast-food en France ↷
 

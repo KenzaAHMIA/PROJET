@@ -173,6 +173,28 @@ Une étude loin d'être exhaustive
 
 Top Articles
 
+<<<<<<< HEAD
+    1. Le chargement de publicité sur votre smartphone peut grignoter
+       jusqu'à 80% de votre forfait data. Le chargement de publicité sur
+       votre smartphone peut grignoter jusqu'à 80% de votre forfait data.
+
+Vous pouvez désormais repérer les numéros de démarchage téléphonique, voici
+comment faire
+    2.
+
+Sécheresse, électricité: pourquoi le prix de l'eau va augmenter en 2023
+    3.
+
+"Je suis trop amoché pour écrire": Jeremy Renner s'exprime pour la première
+fois depuis son accident
+    4.
+
+Les Français boivent moins de vin et inquiètent les vignerons
+    5.
+
+Tisane, compost, décorations... Que faire de son sapin de Noël après les
+fêtes?
+=======
     1. Noël La Graët Noël La Graët
 
 Mbappé, Oudéa-Castéra, la presse espagnole... indignation générale après les
@@ -193,14 +215,25 @@ textos?
 
 "Merci pour ce nouveau départ": Jeremy Renner publie une nouvelle photo et
 remercie ses infirmiers
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
      * BFMTV
      * Société
 
 A la Une
 
+<<<<<<< HEAD
    Blanchiment de fraude fiscale: après leur condamnation, les époux
    Balkany se pourvoient en cassation
+=======
+<<<<<<< HEAD
+   "Une défiance permanente": la macronie craint une explosion sociale qui
+   échapperait aux syndicats
+=======
+   Alcool, interdiction le dimanche, accidents: ce qu'il faut retenir des
+   annonces du gouvernement sur la chasse
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
 
    BFMTV
    première sur l'info

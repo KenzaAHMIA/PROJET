@@ -150,6 +150,10 @@ Les spécialités des bars à purée
        Lire la suite
 
    Le plus grand choix de repas en ligne
+<<<<<<< HEAD
+
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * © 2023 Eat-list
      *
      * Mentions légales

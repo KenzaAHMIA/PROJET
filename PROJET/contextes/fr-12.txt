@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+Un chiffre d'affaires annuel estimé à 19 milliards d’euros
+
+   D'après l'étude de NPD, la branche “fast-food” représente, à elle seule
+   63% de part de marché de la restauration en France.
+   Avec 19 milliards d’euros de chiffre d’affaires annuel enregistré en
+=======
 Les chiffres du marché de la restauration rapide
 
    marché restauration rapide chiffres
@@ -78,11 +85,15 @@ Un ratio de marge brute de 60 %
    En restauration rapide comme, dans les autres branches de la
    restauration en général, le chiffre d’affaires des livraisons a doublé
    en seulement un an, pour atteindre 30% de part de marché.
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 --
 En 1972, le premier restaurant rapide voit le jour en France
 
    Venu tout droit des USA, le premier fast-food de France, un McDonalds,
    ouvre ses portes en région parisienne en 1972.
    Selon Acrelec, la restauration rapide en France a démarré les 20
+<<<<<<< HEAD
+=======
    premières années par une majorité de burgers et de pizzas.
    Depuis quelque temps, nous assistons à l'émergence d’une plus grande
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

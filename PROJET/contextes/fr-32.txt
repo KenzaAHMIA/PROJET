@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
    Se connecter
 
 Le marché de la restauration rapide en France
@@ -19,11 +21,14 @@ Extrait du document
 
    On distingue 7 segments de restauration rapide : les fast-foods, la
    restauration alternative, les spécialités locales, les sandwicheries,
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    les coffee shop, la restauration ethnique et les pizzerias. En 2008,
    les plus grosses parts de marchés se partagaient entre la restauration
    alternative (34%), les spécialités locales (24%) et les fast-food
    (20%).
 
+<<<<<<< HEAD
+=======
 --
 
 
@@ -55,3 +60,4 @@ Extrait du document
    Le secteur de la restauration rapide est en pleine expansion, de
    nombreux points de vente s'ouvrent chaque jour en France. Ils
    s'adaptent à la demande des consommateurs qui veulent manger vite mais
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

@@ -233,7 +233,11 @@ Statistiques intéressantes
    (BUTTON) Offre de restaurants de type rapide
      * Nombre de franchises Domino's Pizza en France 2006-2021
      * Nombre de restaurants McDonald's en France 2011-2020
+<<<<<<< HEAD
+     * Boulangeries et restaurants du groupe français LE DUFF �
+=======
      * Boulangeries et restaurants du groupe français LE DUFF à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
        l'international 2005-2017
      * Nombre de McDonald's par ville de France 2019
      * Nombre de Burger King par ville de France 2019

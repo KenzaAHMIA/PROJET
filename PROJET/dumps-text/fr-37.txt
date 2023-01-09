@@ -151,6 +151,10 @@
                     # Tableaux de bord économiques de l'Ile-de-France
                     # Baromètres « Image PME »
                o Formations & prestations
+<<<<<<< HEAD
+               o Cartographie économique
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
           + Chiffres-clés de l'Ile-de-France
           + Cartographie économique
        ZOOM SUR
@@ -274,6 +278,8 @@
    ______________________________ (BUTTON) Lancer la recherche
    Rechercher les autres contenus
    (Appliquer) Appliquer
+<<<<<<< HEAD
+=======
    [Jacob-Ammentorp-Lund-IStock-GettyImages-1920X510.jpg?itok=GDgqc-OS]
    Ecole
    Soutenez nos écoles en leur versant...
@@ -287,18 +293,42 @@
    Vous êtes une collectivité ? Découvrez les services de votre CCI pour
    dynamiser votre territoire !
    05/01/23
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    [CommerceH2DWilliamW.PotterAdobe%20Stock.jpg?itok=8U8nLz7q]
    Commerce
    Réussir la transformation digitale ...
    Développer vos ventes en ligne, digitalisez la gestion de votre
+<<<<<<< HEAD
+   commerce. Nous vous proposons les formations et ressources adaptées �
+   la transformation de votre commerce.
+   03/01/23
+   [DelphotoStock-AdobeStock-1920X510.jpg?itok=0PM_0HBQ]
+   CCI Paris Ile-de-France
+   Le directeur général de la CCI Pari...
+   Le Président Didier Kling a nommé Stéphane Fratacci directeur général.
+   Il a pris ses fonctions le 2 janvier 2019.
+   03/01/23
+   [H2D-Entreprises-D-Pekic-IStock-GettyImages-1920x510.jpg?itok=KlwDdjrE]
+   Commerce
+   Etre présent et mieux vendre sur In...
+   Le chèque numérique, qui peut s'élever jusqu'à 1 500 euros, a pour
+   objectif d’aider les commerçants à optimiser leur gestion, leur
+   marketing et leur visibilité sur le web.
+   03/01/23
+=======
    commerce. Nous vous proposons les formations et ressources adaptées à
    la transformation de votre commerce.
    03/01/23
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Voir plus
    [FatCamera-IStock-GettyImages-1920x510.jpg?itok=4oNxfWq1]
    Ecole
    Construire l’école de demain : le p...
+<<<<<<< HEAD
+   Avec le projet Ecoles phygitales de la CCI Paris Ile-de-France vise �
+=======
    Avec le projet Ecoles phygitales de la CCI Paris Ile-de-France vise à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    accélérer le développement du numérique éducatif et d’hybridation des
    formations.
    20/12/22

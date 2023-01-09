@@ -10,6 +10,7 @@
    [France_____________]
    (BUTTON) Search
    Le marché du fast food - France
+     * Entreprises
      * Contact
      * [user_circle.svg]
      * [cart.svg] 0
@@ -299,7 +300,11 @@ POSITIONNEMENT DES ACTEURS
      * Groupe Bertrand
      * KAP Developpement
      * KFC France
+<<<<<<< HEAD
+     * Pizza Hut (Groupe Yum)
+=======
      * Yum Brands Group
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Le Duff Groupe
      * Speed Rabbit Pizza
      * Sushi Shop Restauration

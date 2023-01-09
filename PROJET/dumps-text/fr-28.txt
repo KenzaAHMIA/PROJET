@@ -22,6 +22,10 @@
      * Votre avis
 
    La Maison de la Radio et de la Musique
+<<<<<<< HEAD
+
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Un restaurant McDonald
    Un restaurant McDonald ©Getty - SOPA Images Un restaurant McDonald
    ©Getty - SOPA Images

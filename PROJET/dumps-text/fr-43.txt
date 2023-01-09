@@ -16,11 +16,18 @@
           + Climat
           + Coronavirus et pandémie de Covid-19
           + Iran
+<<<<<<< HEAD
+          + Union européenne
+          + Royaume-Uni
+          + Inflation
+          + Mort de Pelé
+=======
           + Royaume-Uni
           + Santé
           + États-Unis
           + Inflation
           + Union européenne
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
           + Toute l’actualité en continu
        Actualités
           + International
@@ -48,6 +55,28 @@
           + Tribunes éco
           + Cities
           + Le Club de l’économie
+<<<<<<< HEAD
+       La Bourse de New York, le 15 novembre 2022. La Bourse de New York,
+       le 15 novembre 2022.
+       Économie
+       Article réservé aux abonnés
+       Tesla et Apple entraînent encore Wall Street dans leur chute
+       A Pékin, le 6 septembre 2020. A Pékin, le 6 septembre 2020.
+       Économie
+       Article réservé aux abonnés
+       Tencent, le discret numéro un chinois du numérique, obligé de se
+       réinventer
+       Chronique
+       Article réservé aux abonnés
+       H2O : « Les temps changent et marquent aujourd’hui le crépuscule
+       des acrobates de la finance »
+       Philippe Escande
+       Tribune
+       Article réservé aux abonnés
+       « Le président de la République ne peut pas se prévaloir du vote
+       des électeurs en avril pour imposer sa réforme des retraites »
+       Collectif
+=======
        L’influenceuse française Léa Elui présente une création pour
        L'Oréal à la Fashion Week de Paris, le 2 octobre 2022.
        L’influenceuse française Léa Elui présente une création pour
@@ -73,12 +102,15 @@
        paiement »
        Craig Cogut
        PDG de Pegasus Capital Advisors
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Vidéos
           + Vidéos
           + L’actualité
           + Les explications
           + Enquêtes vidéo
           + Les mini-séries
+<<<<<<< HEAD
+=======
        Enquête
        Comment des appareils de surveillance de Frontex sont utilisés par
        les garde-côtes libyens pour intercepter des migrants
@@ -91,11 +123,31 @@
        International
        Pourquoi la livraison de chars légers par la France à
        l’Ukraine peut changer la donne
+<<<<<<< HEAD
+=======
+       International
+       Révolte en Iran : sept minutes pour comprendre les causes profondes
+       de la colère
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
        L’année 2022 a été marqué par de nombreux évènements : guerre en
        Ukraine, élection présidentielle, Coupe du monde au Qatar...
        L’année 2022 a été marqué par de nombreux évènements : guerre en
        Ukraine, élection présidentielle, Coupe du monde au Qatar... Vidéos
        Le résumé vidéo de 2022 en sept minutes
+<<<<<<< HEAD
+       Disparitions
+       Mort de Pelé : les secrets d’un surnom de légende
+       Le pape François a rendu hommage à son prédécesseur, le pape Benoît
+       XVI, mort le 31 décembre 2022. Le pape François a rendu hommage �
+       son prédécesseur, le pape Benoît XVI, mort le 31 décembre 2022.
+       Société
+       Mort de Benoît XVI : le pape François rend hommage à son « noble »
+       prédécesseur
+       Économie
+       Pourquoi le champagne est-il cher ?
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Débats
           + Débats
           + Editoriaux
@@ -109,6 +161,30 @@
        Brasilia, le 8 janvier 2023. Des policiers font face aux partisans
        de Jair Bolsonrao, à Brasilia, le 8 janvier 2023.
        Éditorial
+<<<<<<< HEAD
+       Réforme des retraites : une nécessaire souplesse
+       Chronique
+       Article réservé aux abonnés
+       La maîtrise de la chaîne logistique est devenue une préoccupation
+       majeure jusque dans les petites entreprises
+       Anne Rodier
+       Le président chinois, Xi Jinping, et le prince héritier saoudien,
+       Mohammed ben Salman, à Riyad, le 8 décembre 2022. Le président
+       chinois, Xi Jinping, et le prince héritier saoudien, Mohammed ben
+       Salman, à Riyad, le 8 décembre 2022.
+       Chronique
+       Article réservé aux abonnés
+       « La guerre en Ukraine offre des occasions inespérées à une série
+       de profiteurs, tels que Maduro, Erdogan ou Ben Salman »
+       Gilles Paris
+       Editorialiste
+       Tribune
+       Article réservé aux abonnés
+       Santé : « La France est-elle atteinte de la maladie de
+       Parkinson ? »
+       Amandine Lagarde
+       directrice générale de l’association France Parkinson
+=======
        Menaces sur la démocratie brésilienne
        Entretien
        Article réservé aux abonnés
@@ -130,10 +206,19 @@
        Tigré, le 8 mai 2021.
        Tribune
        Article réservé aux abonnés
+<<<<<<< HEAD
        Afrique de l’Est : « La région est de nouveau au bord de la
        catastrophe humanitaire »
        David Miliband
        Humanitaire
+=======
+       Crise climatique : « A présent qu’un accord a été trouvé sur la
+       création d’un fonds à la COP27, il faut définir les modalités de
+       paiement »
+       Craig Cogut
+       PDG de Pegasus Capital Advisors
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      * Culture
           + Culture
           + Cinéma
@@ -142,6 +227,27 @@
           + Musiques
           + Arts
           + Scènes
+<<<<<<< HEAD
+       « Nazar » (1990), de Mani Kaul. « Nazar » (1990), de Mani Kaul.
+       Culture
+       Article réservé aux abonnés
+       D’« Uski Roti » à « Nazar » : Mani Kaul, l’inventeur de formes de
+       la nouvelle vague indienne
+       L’écrivain Daniel Pennac, à Paris, en 2020. L’écrivain Daniel
+       Pennac, à Paris, en 2020.
+       Livres
+       Article réservé aux abonnés
+       « Terminus Malaussène » : Daniel Pennac libère son bouc émissaire
+       Culture
+       « Stalingrad : les voix de la mémoire », sur Arte : plongée au cœur
+       de l’enfer d’une ville martyre
+       Céline Dion en concert à Québec, lors de sa tournée mondiale
+       « Courage », le 18 septembre 2019. Céline Dion en concert à Québec,
+       lors de sa tournée mondiale « Courage », le 18 septembre 2019.
+       Culture
+       Quand « Rolling Stone » oublie Céline Dion de son palmarès, ses
+       fans et le Québec s’indignent
+=======
        James Cameron et son épouse, à Londres (Royaume-Uni), le 6 décembre
        2022. James Cameron et son épouse, à Londres (Royaume-Uni), le 6
        décembre 2022.
@@ -161,8 +267,14 @@
        Philippe Bélaval, à Paris, le 10 mai 2021. Philippe Bélaval, à
        Paris, le 10 mai 2021. Culture
        Article réservé aux abonnés
+<<<<<<< HEAD
        « Emmanuel et Brigitte Macron l’adorent ! » : Philippe Bélaval
        nommé conseiller culture de l’Elysée
+=======
+       Les Abattoirs de Toulouse brossent un portrait de Niki de Saint
+       Phalle en guerrière indignée
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      * Le Goût du monde
           + Le Goût du monde
           + Le Monde passe à table
@@ -173,6 +285,17 @@
           + Horlogerie & Joaillerie
           + M le mag
           + L’époque
+<<<<<<< HEAD
+       Le Monde passe à table
+       « Ulva lactuca », la laitue nouvelle vague
+       Le Goût du Monde
+       Des rebuts de bois aux meubles, le beau labeur de Léa Laborie
+       Le Monde passe à table
+       Les chefs pâtissiers, rois de la galette originale
+       L'époque
+       Newsletter « Le Fil Good » : une sélection par la rédaction de
+       nouvelles réconfortantes
+=======
        Le Goût du Monde
        Article réservé aux abonnés
        Le mois de la détox : après le foie gras de décembre, l’artichaut
@@ -191,6 +314,7 @@
        France pour guérir des addictions.
        Podcasts
        Addictions : l’essor des groupes de parole anonymes
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Services
        Services Le Monde
           + Les ateliers du Monde
@@ -220,6 +344,13 @@
        Suppléments partenaires
           + La liberté de créer
           + Dubaï, une ville aux multiples visages
+<<<<<<< HEAD
+          + Nicolas Feuillatte : une nouvelle approche de la dégustation
+          + Découvrir Québec
+          + Une alarme pour que noël reste une fête
+          + Un whisky écossais, façonné par la mer
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
           + Boutiques-hôtels MGallery
           + Gestion des cookies
      * Recherche
@@ -232,7 +363,11 @@ La petite histoire du fast-food en France
 
    Par Laurent Telo
 
+<<<<<<< HEAD
+   Publié le 30 septembre 2015 à 13h46, mis à jour le 01 octobre 2015 �
+=======
    Publié le 30 septembre 2015 à 13h46, mis à jour le 01 octobre 2015 à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    06h52
 
    Temps de Lecture 1 min.

@@ -4,7 +4,15 @@
 
    Eighties
 
+<<<<<<< HEAD
    Eighties.fr, le site qui baguenaude dans les paturages !
+=======
+<<<<<<< HEAD
+   Eighties.fr, le site qui fait encore développer ses photos
+=======
+   Eighties.fr, le site qui mange du Tang. Sans eau.
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
 
      * ACCUEIL
      * Qui sommes nous
@@ -477,6 +485,39 @@ Prosper, le Roi du pain d’épices des 80’s ! (Ours Vandamme)
 
    […]
 
+<<<<<<< HEAD
+   Annees 80, 80's, eighties, Bonbons des annees 80, Smarties, Nestlé,
+   Collection, images du cirque, tubes, boites, bus smarties, nostalgie,
+   souvenirs,
+   Pubs et Produits quotidiens
+
+Les bonbons Smarties des Années 80 !
+
+   17 octobre 2012 Max 0
+
+   Aujourd’hui, place à la gourmandise ! Embarquez tous au pays des
+   Smarties, et plus particulièrement au sein de l’année 1985… Période où
+   ces délicieuses petites dragées remplies de chocolat nous ont offert
+   une très belle série de petites images de cirque à collectionner !
+
+
+   […]
+
+   Belle des champs fromage des annees 80 1
+   Pubs et Produits quotidiens
+
+Le Fromage Belle des champs !
+
+   11 septembre 2009 Tommy 1
+
+   Entre fromage et dessert, ici, on a choisi !! ! Venez donc baguenauder
+   dans les pâturages, venez donc vous promener avec la Belle des Champs !
+   Qu’il est blanc, qu’il est crémeux cet article !
+
+   […]
+
+=======
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 14 Commentaires
 
     1.

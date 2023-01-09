@@ -10,6 +10,8 @@ les grandes villes françaises?
    l'endroit où on en trouve le plus, proportionnellement à son nombre
    d'habitants.
 --
+<<<<<<< HEAD
+=======
    déclarait:
 
      "La particularité des aliments servis en restauration rapide est
@@ -17,6 +19,7 @@ les grandes villes françaises?
      et les vitamines, mais riche en gras, en sel, en sucre et autres
 --
    Si on rapporte le nombre de fast-foods à la population locale, Bordeaux
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    se démarque négativement du reste de la France. Avec 21 établissements
    de restauration rapide pour 100.000 habitants, la préfecture de Gironde
    figure devant Limoges (19 fast-food pour 100.000 hab.), Metz (18),
@@ -25,8 +28,11 @@ les grandes villes françaises?
    En queue de peloton, on trouve Le Havre (4 fast-food pour 100.000 hab.)
    et Saint-Denis (La Réunion, 4 établissements pour 100.000 hab.)
 
+<<<<<<< HEAD
+=======
 Comparez le nombre de fast-foods par ville
 
    Pour comparer le nombre de chaînes de restauration rapide entre les
    villes, consultez les tableaux ci-dessous, divisés en trois catégories:
    burgers, boulangeries et cafés, sandwicheries et pizzerias. Cliquez sur
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

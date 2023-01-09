@@ -1,14 +1,21 @@
+<<<<<<< HEAD
+=======
 
      * Traiteurs
      * Fast-food
      * Restauration
      * Hôtellerie
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      __________________________________________________________________
 
    Le fast-food ou la restauration rapide commence à se répandre de plus
    en plus à Paris. Pour trouver l’adresse qui répond au mieux à vos
+<<<<<<< HEAD
+   attentes, retrouvez ci-dessus le top 5 des meilleurs fast-foods �
+=======
    attentes, retrouvez ci-dessus le top 5 des meilleurs fast-foods à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 --
 
    Kraft Hot Dog se situe au 15 Rue des Archives, Paris 75004. Le
@@ -21,8 +28,12 @@ Maoz Vegetarian
    Maoz Vegetarian est un fast-food qui, comme son nom l’indique, propose
    des plats végétariens, mais vous pouvez aussi y retrouver des
    spécialités végétaliennes. L’établissement est spécialisé dans la
+<<<<<<< HEAD
+--
+=======
    restauration rapide de plats méditerranéens et du Moyen-Orient.
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Maoz Vegetarian sert généralement des déjeuners et des dîners. Il peut
    ouvrir très tard si vous souhaitez passer une soirée entre amis ou en
    groupe. Le fast-food se situe au 8 Rue Xavier Privas, 75005 Paris.
@@ -50,9 +61,12 @@ Hamler’s Burgery
    Fast-food Fast-food à Paris Top des fast-food à Paris
 
 Navigation de l’article
+<<<<<<< HEAD
+=======
 --
 
      * Cuisine
      * Fast-food
      * Hôtellerie
      * Non classé
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

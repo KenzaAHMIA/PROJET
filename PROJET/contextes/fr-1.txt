@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
    campagnes, les usines et les chantiers, l'essor de la restauration
    rapide apparaît à la suite de l'accroissement du secteur tertiaire^[5].
    La restauration rapide a commencé en Amérique, au Kansas en
@@ -30,6 +32,7 @@ Controverses[modifier | modifier le code]
        États-Unis.
      * Le Fondateur (The Founder), film biographique américain réalisé par
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
     9. ↑ ^a et b Benjamin Neumann, « Un McDo effacé de l'histoire »,
        L'Expansion, 1^er mars 2010 (consulté le 19 décembre 2017)
    10. ↑ Laurent Telo, « La petite histoire du fast-food en France », Le
@@ -45,6 +48,8 @@ Controverses[modifier | modifier le code]
    20. ↑ ^a et b Tri des déchets : les fast-food français doivent revoir
        leur copie rapidement - Sciences et Avenir/AFP, 31 janvier 2018.
 
+<<<<<<< HEAD
+=======
 --
      * Cuisine de rue
      * Malbouffe
@@ -57,3 +62,4 @@ Controverses[modifier | modifier le code]
      * Critique de la restauration rapide (en)
      * Liste de chaînes de restaurants
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

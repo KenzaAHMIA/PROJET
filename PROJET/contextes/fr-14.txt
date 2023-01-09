@@ -4,6 +4,8 @@ Les chiffres de la croissance phénoménale du fast-food en France
 
      *
 --
+<<<<<<< HEAD
+=======
    Elisabeth Assayag, édité par Grégoire Duhourcau 14h50, le 28 août 2018,
    modifié à 15h45, le 28 août 2018
    La restauration rapide a pris le pas sur la restauration à table en
@@ -11,11 +13,14 @@ Les chiffres de la croissance phénoménale du fast-food en France
    et le développement d'entreprises de livraison 2.0.
    LA FRANCE BOUGE
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Un chiffre d'affaires de 54 milliards d'euros. La restauration rapide a
    le vent en poupe en France. D'après une étude menée par le cabinet Gira
    Conseil, le fast-food en France représente un chiffre d'affaires de 54
    milliards d'euros, soit plus de la moitié du chiffre d'affaires total
    de la restauration qui est de 88 milliards d'euros. La restauration
+<<<<<<< HEAD
+=======
 --
    le révèle une étude d'Edenred (Ticket Restaurant), les Français
    consacrent en moyenne 31 minutes à leur pause déjeuner, ce qui permet à
@@ -36,3 +41,4 @@ Les chiffres de la croissance phénoménale du fast-food en France
    La restauration rapide haut de gamme va continuer à s'implanter. Les
    gros acteurs du marché se penchent d'ailleurs sur la question.
    McDonald's par exemple, a lancé des bars à salades ou encore des
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

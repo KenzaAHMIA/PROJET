@@ -3,6 +3,8 @@
 Top 5 des enseignes de fast-food les plus puissantes
 
    Author avatar Tomas
+<<<<<<< HEAD
+=======
 --
      * Tweet
 
@@ -29,3 +31,4 @@ Cela pourrait vous intéresser
      * Classement des enseignes de restauration rapide - LE BAROMÈTRE
        PROMISE CONSULTING INC Classement des enseignes de restauration
        rapide par Tomas
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

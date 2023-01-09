@@ -1,15 +1,20 @@
+<<<<<<< HEAD
+=======
    Publié par Statista Research Department, 13 déc. 2021
    Hamburgers, sandwichs, pâtes à emporter ou sushis : l'offre de
    restauration rapide semble de nos jours inépuisable. Selon l'Insee, la
    restauration de type rapide comprend bien évidemment les restaurants de
    restauration rapide, mais aussi les restaurants proposant
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Français déclaraient se rendre au moins deux à dix fois par an au
    restaurant, près de 20 % des Français déclaraient aimer manger
    régulièrement au fast-food. Ce type d'alimentation séduit davantage les
    jeunes puisque une écrasante majorité des 18-24 ans fréquentaient les
    établissements de la restauration rapide, contre 50 % des plus de 50
 --
+<<<<<<< HEAD
+=======
    Avec plus de quatre milliards de burgers, sandwiches et pizzas vendus
    et un chiffre d'affaires approchant les 19 milliards d'euros en 2016,
    on peut dire que le secteur de la restauration rapide en France se
@@ -24,11 +29,14 @@
    4,5 Mio EUR
    Revenus des ventes du groupe français LE DUFF dans le monde 2017
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    (BUTTON) Habitudes alimentaires
      * Avis des Français sur la restauration à service rapide 2015
      * Fréquence à laquelle les Français mangent au fast-food 2015
      * Enseignes de restauration rapide préférées des Français 2013
      * Lieux les plus fréquentés par les Français pour consommer une pizza
+<<<<<<< HEAD
+=======
        2017
 --
      * Avis des Français sur la nécessité de prix bas dans la restauration
@@ -102,3 +110,4 @@ Infographies sur ce thème
    Lien vers La restauration rapide en France Infographie - Les fast-foods
    (encore) moins sains qu'il y a 30 ans ? Infographie
    evolution du nombre de calories et de la taille des portions US
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

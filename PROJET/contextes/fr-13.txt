@@ -1,9 +1,16 @@
+<<<<<<< HEAD
+   [9k=] étude de marché du fast food
+=======
    étude de marché du fast food étude de marché du fast food
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Ouvrir fast-food
 
    Marché
 --
+<<<<<<< HEAD
+   [9k=]
+=======
    Alors qu’elle avait été sévèrement touchée par la crise sanitaire en
    2020 (son chiffre d’affaires en valeur avait reculé de 21,5%), la
    restauration rapide a retrouvé son niveau d’avant-crise en 2021.
@@ -19,18 +26,29 @@
    22 Septembre 2022
    (BUTTON)
    Les points de vigilance des fast-food
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Les points de vigilance des fast-food
    Restauration / Bar
    27 Décembre 2022
+<<<<<<< HEAD
+--
+   [9k=]
+=======
    (BUTTON)
    L'activité des fast-food
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    L'activité des fast-food
    Restauration / Bar
    27 Décembre 2022
+<<<<<<< HEAD
+--
+   [9k=]
+=======
    (BUTTON)
    La réglementation des fast-food
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    La réglementation des fast-food
    Restauration / Bar

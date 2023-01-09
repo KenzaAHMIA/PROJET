@@ -166,6 +166,7 @@ Burger King
 
    Le contenu chaud, tout juste sorti de notre rédaction
 
+<<<<<<< HEAD
 10 prochaines déclarations de Le Graet
 
 10 héros sexy de notre enfance
@@ -174,6 +175,29 @@ Burger King
 
 +20 objets pour arrêter de fumer
 
+=======
+<<<<<<< HEAD
+8 erreurs à ne pas faire avec ses chaussures
+
+10 théories cheloues sur les films Disney
+
+15 des gens qui se sont plantés de tatouage
+
+15 super illustrations sur la parentalité par Helene the illustrator
+
+15 trucs étranges confisqués par des profs
+
+21 memes drôles sur les Pokémon
+
+8 supermarchés de droite
+
+12 illustrations sympa de Jun Han Chin
+
+18 meilleurs films basés sur une énigme
+
+8 histoires de cannibalisme au Moyen Age
+=======
+>>>>>>> refs/remotes/origin/main
 11 films si les héros avait dit non
 
 9 façons de voir le monde par les Américains
@@ -186,6 +210,19 @@ Un support de papier toilette en forme de mouton, bêêê
 
 10 champions de la semaine #412
 
+<<<<<<< HEAD
+=======
+Une bouillotte pénis qui sourit, chaleur et raffinement
+
+10 trucs flippants de l'évolution
+
+10 personnes qui ont fait des découvertes de ouf en prison
+
+Une ceinture pour attacher ton repas en voiture, pour éviter d'en foutre
+partout
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+>>>>>>> refs/remotes/origin/main
   Les articles les plus lus
 
    Ceux qu'il ne faut surtout pas rater
@@ -195,12 +232,21 @@ Un support de papier toilette en forme de mouton, bêêê
 14 tweets drôles signés Julien Doré
 
 15 règles officielles du Uno
+<<<<<<< HEAD
+
+Un coussin pour les fans de saucisson, ta passion jusque dans ton salon
+
+10 cartes insolites sur la prononciation du Français en fonction des régions
+épisode 2
+
+=======
 
 10 cartes insolites sur la prononciation du Français en fonction des régions
 épisode 2
 
 Un coussin pour les fans de saucisson, ta passion jusque dans ton salon
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * Un énoooooorme poisson peluche
      * Le récap de Mariés au premier regard, s06e03
 

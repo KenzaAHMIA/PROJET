@@ -6,6 +6,22 @@
 
    Skip to content
 
+<<<<<<< HEAD
+   access_time2023-01-04
+   Latest:
+     * « Laïcité » : comprendre la loi sur la séparation des Eglises et de
+       l’Etat
+     * « Ginny & Georgia » saison 2 arrive enfin sur Netflix
+     * « A l’aube de notre histoire » : la désinformation selon Netflix
+     * « Pasión de Buena Vista » débarque au Casino de Paris en mars 2023
+     * Le carnaval de Guyane : fête, culture et tradition
+     * « Avatar 3 » : que sait-on déjà sur le film ?
+     * Prime Video : voici le programme de janvier 2023
+     * Disneyland Paris : découvrez les secrets du château
+     * « Kaleidoscope » saison 2 : est-ce déjà prévu ?
+     * « Kaleidoscope » : la série Netflix a regarder dans n’importe quel
+       ordre
+=======
    access_time2023-01-09
    Latest:
      * Molière : retour sur la vie mouvementée du dramaturge !
@@ -22,6 +38,7 @@
      * « Laïcité » : comprendre la loi sur la séparation des Eglises et de
        l’Etat
      * « Ginny & Georgia » saison 2 arrive enfin sur Netflix
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Cultea
 

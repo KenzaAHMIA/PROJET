@@ -10,12 +10,15 @@ Les fast-food en France
 
    Le contexte Historique, économique et social en France
 --
+<<<<<<< HEAD
+=======
 
    Jacques Borel, industriel français, inventeur de la première chaîne de
    restauration rapide en France en 1961, propose des hamburgers,
    milk-shake… Il pense que le changement du rythme de vie des Français
    laisse une place à une autre forme de restauration (plus rapide, à
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    C’est en 1972 que le McDonald’s s’implante en France, à Créteil, dans
    le Val-de-Marne, grâce à Raymond Dayan qui a obtenu un contrat de
    franchise. C’est le premier fast-food implanté en France, la première
@@ -26,7 +29,11 @@ Les fast-food en France
    », « le plus souvent debout », « à côté, les snack-bars et autres
    self-services font figure de Maxim’s ou de Tour d’argent. Un restaurant
    fast-food (…) n’offre qu’un choix très limité, toujours le même :
+<<<<<<< HEAD
+   hamburger ou poulet rôti, pommes frites, un gâteau industriel, et �
+=======
    hamburger ou poulet rôti, pommes frites, un gâteau industriel, et à
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    boire ». Puis en 1973 c’est le premier choc pétrolier qui plonge la
 --
    2008, devant les Etats-Unis.
@@ -67,7 +74,10 @@ Les fast-food en France
    fast-food contre 13,50 pour les restaurants traditionnels. De plus, la
    restauration rapide rime avec rapidité, immédiateté. Aujourd’hui ces
    critères sont importants pour les clients en effet, ils exigent une «
+<<<<<<< HEAD
+=======
    émotion gustative rapide » car ils ne peuvent perdre leur temps lors
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 --
 Posts récents
 

@@ -176,14 +176,36 @@ Mon actualité personnalisable
    [placeholder.jpg]
 
    Sélectionné pour vous
+<<<<<<< HEAD
 
 Retrouvez les tribunes d'experts de l'année 2022
+=======
+<<<<<<< HEAD
+   Des magasins prêts au nouveau label national anti-gaspi, sous expertise
+   de Phenix
+
+Des magasins prêts au nouveau label national anti-gaspi, sous expertise de
+Phenix
+
+Cora et E. Leclerc arrêtent la diffusion de prospectus
+
+En Belgique, Mestdagh passe sous pavillon Intermarché ce 3 janvier 2022
+=======
+   [Experts 2023] Yves Marin : 2023, une année exigeante
+>>>>>>> refs/remotes/origin/main
 
 [Experts 2023] Yves Marin : 2023, une année exigeante
 
 Alexandre Guérin (Ipsos) : "Chaque marque a une stratégie à adopter face à
 l'inflation"
 
+<<<<<<< HEAD
+=======
+Pertes et gaspillage : l’opportunité de développer une économie souhaitable
+pour l’agroalimentaire [Tribune]
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+
+>>>>>>> refs/remotes/origin/main
    Partager
      *
      *
@@ -370,11 +392,19 @@ l'inflation"
    Proposé par LSA
 
    Détectez vos opportunités d'affaires
+<<<<<<< HEAD
+   972 - STE LUCE
+
+   Accord-cadre à bons de commande multi-attributaire pour la fourniture
+   de denrées alimentaires pour les besoins de la SOGES.
+   DATE DE REPONSE 03/02/2023
+=======
    19 - USSEL
 
    Fourniture de denrées alimentaires - Relance des lots 5 : Volailles et
    11 : Fruits et légumes après déclaration sans suite.
    DATE DE REPONSE 07/02/2023
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    + de 10.000 avis par jour
    Tout voir
@@ -404,6 +434,16 @@ l'inflation"
 ARTICLES LES PLUS LUS
 
      * Jardin : OOGarden placée en redressement judiciaire
+<<<<<<< HEAD
+     * Place du Marché (ex-Toupargel) risque d’être placée en liquidation
+       judiciaire
+     * Patrick Puy au chevet de Go Sport
+     * Pour Carrefour, "la livraison à domicile n’est plus un marché de
+       niche"
+     * La centrale d'achat européenne Eurelec (Leclerc et Rewe) gagne
+       contre Bercy
+     * Lidl : Michel Biero reprend ses fonctions en France
+=======
      * Faute de repreneur, Place du Marché (ex-Toupargel) risque la
        liquidation judiciaire
      * Michel-Edouard Leclerc dénonce (encore) les hausses de prix des
@@ -412,6 +452,7 @@ ARTICLES LES PLUS LUS
      * Lidl : Michel Biero reprend ses fonctions en France
      * Pourquoi le groupe Casino rassemble ses activités sous un seul
        holding
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Suivez LSA
    Twitter Facebook Linked In Rss

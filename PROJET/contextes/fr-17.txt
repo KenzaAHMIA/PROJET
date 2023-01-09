@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
    partout - ou peut-être que si ? Afin d'étudier ce phénomène de plus
    près, HelloFresh s'est penché en février 2022 sur la part des
    restaurants et chaînes de restauration rapide dans 25 des plus grandes
@@ -17,6 +19,7 @@
 --
    [placeholder.jpg]
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Part de la restauration rapide dans l'ensemble des restaurants
 
    "Si nous considérons le pourcentage de restaurants fast-food par
@@ -26,17 +29,22 @@
    souhaitent trouver ce genre de restauration ont beaucoup plus de
    chances à Cergy-Pontoise, avec un pourcentage de 18 %. Presque un
 --
+<<<<<<< HEAD
+=======
    [placeholder.jpg]
 
    Chaînes de restauration rapide - quelle est leur part?
 
    S’il n’est plus nécessaire de les citer, les célèbres chaînes de
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    appartiennent aux grandes chaînes. À Amiens également, environ un
    restaurant fast food sur trois fait partie d'une grande chaîne. À
    Saint-Quentin-en-Yvelines et au Mans, près d'un fast-food sur deux
    appartient à une grande chaîne. "À Paris, Aix-en-Provence et Grenoble,
    les fast-foods individuels semblent être nettement plus populaires".
+<<<<<<< HEAD
+=======
 --
    [placeholder.jpg]
 
@@ -47,3 +55,4 @@
    restauration rapide appartenant à des chaînes implantées dans chaque
    ville. Là encore, il n'est pas surprenant que les plus grandes villes
    du pays soient en tête du classement", explique HelloFresh. Paris
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f

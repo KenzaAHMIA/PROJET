@@ -83,11 +83,26 @@
           + Médias mutants
           + L'actualité de L'ADN
        L'ADN
+<<<<<<< HEAD
        Damp January : le lobby de l'alcool chercherait-il à détourner un
        message de santé publique ?
        L'ADN
        Trois technologies qui promettent de nous garder jeunes plus
        longtemps
+=======
+<<<<<<< HEAD
+       Retired ghetto girls, mamans cheloues : ces absurdités que l'on est
+       contents de laisser en 2022
+       L'ADN
+       Les tendances qui ont fait 2022 et qui seront encore là en 2023
+=======
+       Trois technologies qui promettent de nous garder jeunes plus
+       longtemps
+       L'ADN
+       Sur Twitter des références au manga One Piece dissimulent des
+       insultes antisémites
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      * Par Secteur
           + 20 secteurs décryptés
           + Partenaires

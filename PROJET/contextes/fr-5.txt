@@ -16,12 +16,15 @@
    burgers, mais des hamburgés préparés avec des fromages typiquement
    français (tomme de Savoie, raclette, morbier, etc.). On peut même
 --
+<<<<<<< HEAD
+=======
    Prix : €
 
    O Tacos est une chaîne de restauration rapide française qui propose des
    tacos à composer soi-même. On choisit d’abord la taille (une, deux ou
    trois viandes), puis le type de viande parmi 7 options, une sauce et
 --
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
    Malgré un nom à consonance italienne, Mezzo Di Pasta est également une
    création française. Ce fast-food propose des pâtes fraîches. On peut

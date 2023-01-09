@@ -35,7 +35,7 @@ img{
 
 /* -----Menu---- */
 nav.menu{
-	width: 900px;
+	width: 860px;
 	margin: 0 auto 0 auto;
 	text-align: center;
 	padding-top: 40px;
@@ -74,6 +74,12 @@ nav.menu ul li a {
 }
 .analyse{
 	background: url(./images/analyse.jpg);
+	padding: 30px;
+	background-size: 150px;
+	font-size: 30px;
+}
+.git{
+	background: url(./images/git.jpg);
 	padding: 30px;
 	background-size: 150px;
 	font-size: 30px;

@@ -339,7 +339,21 @@ Trouver une franchise
 
 Les franchises qui recrutent dans le même secteur
 
+<<<<<<< HEAD
 GROUPE CHEVALLIER
+=======
+<<<<<<< HEAD
+MY LITTLE WARUNG
+
+   Les restaurants beach food de l’Asie du sud-est
+   My Little Warung propose 7 jours sur 7 les meilleures recettes de
+   l’Asie du sud-est, préparées au wok ou mijotées, une cuisine fraîche et
+   saine adaptée à tous les régimes, un accueil chaleureux, une ambiance
+   décontractée et un décor de cabane [...]
+   20
+=======
+SANTOSHA
+>>>>>>> refs/remotes/origin/main
 
    Un savoir-faire artisanal
    Boulangerie, pâtisserie, traiteur
@@ -400,6 +414,58 @@ NBK NAANERIE
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+<<<<<<< HEAD
+=======
+CLASS'CROUTE
+
+   Restauration rapide, livraison aux salariés et aux entreprises.
+   Class’croute associe restauration rapide sur place/à emporter et la
+   livraison en entreprise de plateaux-repas, de cocktails et de buffets.
+   150
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+   Implantations
+   100 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+FOUD
+
+   Foud, cuisine de bistrot fait maison, à déguster sur place, en
+   livraison ou à emporter. Restauration rapide - Restaurant d’entreprise
+   - Livraison repas - Pause déjeuner - Plateaux repas - restauration
+   digitale
+   FOUD propose de vrais repas avec des recettes françaises, y compris
+   végétariennes, à la fois gourmandes et conviviales, saines et
+   équilibrées. Une cuisine de bistrot, « faite maison », à découvrir et à
+   réchauffer le midi et le soir, pour [...]
+   5
+   Implantations
+   145 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+OLLA | POKEBOWLS
+
+   La franchise de Pokébowls gourmands et gourmets!
+   Une Oasis Urbaine alliant lieu de vie tendance, des bons et beaux
+   produits et un accueil chaleureux.
+   1
+   Implantation
+   60 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+LA MIE DE PAIN
+
+   Une passion gourmande
+   Boulangerie pâtisserie artisanale, sandwicherie, restauration rapide
+   40
+   Implantations
+   150 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+>>>>>>> refs/remotes/origin/main
 COTE SUSHI
 
    Nikkei from Peru
@@ -447,13 +513,122 @@ GRUBERS BURGERS
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+<<<<<<< HEAD
 TUTTI PIZZA
+=======
+<<<<<<< HEAD
+BELGA QUEEN
+
+   La Véritable Gaufre Belge
+   « Fast Good » concept spécialisé dans les gaufres sucrées et salées
+   1
+   Implantation
+   10 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+CHICKEN TIME
+
+   Passionné de Street food et snacking, ouvrez votre fast food et devenez
+   la référence du poulet frit
+   Ouvrez votre fastfood Chicken Time et lancez-vous dans le snacking avec
+   un concept à l'univers Street Art, dédié au poulet frit sous toutes ses
+   formes.
+   4
+   Implantations
+   60 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+CLASS'CROUTE
+
+   Restauration rapide, livraison aux salariés et aux entreprises.
+   Class’croute associe restauration rapide sur place/à emporter et la
+   livraison en entreprise de plateaux-repas, de cocktails et de buffets.
+   150
+   Implantations
+   100 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+PANNUS
+
+   Investir dans un concept de franchise chaleureux et contemporain
+   alliant la boulangerie artisanale de qualité et le principe de coffee
+   shop
+   Pains multiples, viennoiseries, pâtisseries, offres salées, café et
+   boissons, le tout conçu sur place à des prix compétitifs et présentés
+   dans un esprit de comptoir
+   50
+   Implantations
+   60 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+L'ATELIER PAPILLES
+
+   Plus qu’une franchise de boulangerie, un réseau à l’écoute et proche de
+   ses franchisés, avec près de 30 magasins implantes dans toute la
+   France.
+   Chaque jour, nous proposons à nos clients du pain de qualité et des
+   recettes savoureuses, exclusives et innovantes dans un cadre
+   chaleureux, convivial et confortable .
+   30
+   Implantations
+   120 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+O'TACOS
+=======
+COMPOSE - CANTINE SUR MESURE
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
 
    30 ans d’expérience
    Un partenariat de choix !
    75
    Implantations
+<<<<<<< HEAD
    40 000 €
+=======
+   80 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+<<<<<<< HEAD
+L'ALSACIEN
+
+   L’ALSACIEN, Bar à Flammekueche ; terroir, bières et vin au service
+   d’une vraie alternative à la Pizza.
+   L’Alsacien est un Bar à FLammekueche. Restaurant d’un nouveau genre qui
+   mêle produits du terroir, partage et convivialité grâce à ses Bipers
+   d’appel aux clients, ses tireuses à bière en libre-service et sa
+   cuisine semi-ouverte.
+   7
+   Implantations
+   70 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+BILL'S BURGER
+
+   Le vrai goût de l'Amérique
+   Premier réseau en France spécialisé dans le smash burger en format XXL
+   avec des recettes qui reposent sur un concept à l'américaine
+   4
+   Implantations
+   65 000 €
+=======
+BOULANGERIE SOPHIE LEBREUILLY
+
+   La Gourmandise, recette de notre développement !
+   Boulangerie, Pâtisserie, Restauration Rapide et Café Gourmand
+   35
+   Implantations
+   120 000 €
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 

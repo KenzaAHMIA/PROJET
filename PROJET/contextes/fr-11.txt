@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
      Actualités
 
      Bilan du marché de la restauration rapide en France
@@ -48,11 +50,14 @@ La restauration rapide en chiffres et les nouvelles tendances
    restauration rapide dans le contexte des chiffres de la restauration en
    2019 si possible ou de la dernière année connue à défaut.
 
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
    Ainsi en 2018, plus de 30 % des Français déclaraient manger au
    restaurant entre 2 et 10 fois par an et environ 20 % d’entre eux
    affirmaient aller régulièrement au fast-food.
    Ce type d'alimentation séduit davantage la jeunesse et les
    établissements de restauration rapide sont majoritairement fréquentés
+<<<<<<< HEAD
+=======
    par les 18-24 ans alors que parmi les plus de 50 ans, il n’y a que 50 %
    d’entre eux qui s'y rendent régulièrement.
 --
@@ -82,3 +87,4 @@ Quelles sont les raisons du succès de la restauration rapide ?
    restauration rapide doivent savoir les relever et évoluer en fonction
    des tendances et des demandes.
    La fidélisation de la clientèle est l’un d’entre eux et les entreprises
+>>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
