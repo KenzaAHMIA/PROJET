@@ -91,14 +91,9 @@ while read -r URL; do
 	# ou prétraiter les dossier avant
 	
 	# extraction des contextes
-	contexte=$(grep -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
+	contexte_temp=$(grep -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
+	context=(./seg_chin.py $contexte_temp)
 	echo "$contexte"
-	
-	# segmentation de contexte?
-	
-	## iTrameur 
-	
-	
 	
 
 	echo "<tr><td>$lineno</td>

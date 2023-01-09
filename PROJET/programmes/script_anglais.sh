@@ -27,14 +27,14 @@ echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table aligne=\"center\"border=\"1px\"bordercolor=#ff964f>" >> $fichier_tableau
 echo "<tr><th>ligne</th>
-	<th>code</th>
-	<th>encodage</th>
+	<th>Code</th>
+	<th>Encodage</th>
 	<th>URL</th>
 	<th>Dumps</th>
 	<th>Aspirations</th>
-	<th>occurences</th>
+	<th>Occurences</th>
 	<th>Contexte</th>
-	<th>concordances</th></tr>" >> $fichier_tableau
+	<th>Concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do

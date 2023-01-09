@@ -86,13 +86,13 @@
           + baleine
           + plouguerneau
           + dauphin
-          + Concarneau
           + obseques
-          + crozon
+          + Concarneau
           + naissances
+          + crozon
           + Hahahard
-          + Théâtre du croisty
           + accident
+          + Théâtre du croisty
      *
           + Toute l'actualité
           + Le T+

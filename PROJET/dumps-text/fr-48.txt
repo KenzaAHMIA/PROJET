@@ -4,7 +4,6 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
 
    Retour à l’accueil
-     * Journal
      *
      *
      *
