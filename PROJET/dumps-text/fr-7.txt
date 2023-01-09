@@ -6,20 +6,22 @@
 
    Skip to content
 
-   access_time2022-11-23
+   access_time2023-01-09
    Latest:
-     * « Le Menu » : simple amuse-gueule ou grande bouffe des plus
-       mortelles ? [critique]
-     * La série « The Walking Dead » s’est terminée sans sa gloire passée…
-     * « Mario Kart 8 Deluxe » présente son nouveau DLC à paraître !
-     * Pauline Kael : critique oubliée du cinéma américain
-     * « L’Innocent » de Louis Garrel est un film irrésistible [critique]
-     * Est-il vraiment « trop tard » pour boycotter la coupe du monde au
-       Qatar ?
-     * La folle épopée de l’équipe de France à la Coupe du monde 2018 !
-     * La rédaction de Gamekult annonce son départ !
-     * 3 raisons de (re)voir « Downton Abbey II », sorti en DVD et Blu-ray
-     * Pédopornographie : 48 hommes arrêtés partout en France
+     * Molière : retour sur la vie mouvementée du dramaturge !
+     * L’expérience du cerf-volant de Benjamin Franklin a-t-elle vraiment
+       existé ?
+     * « Ginny & Georgia » saison 3 : est-ce prévu par Netflix ?
+     * Auren et Jeanne Cherhal chantent le désir des femmes avec
+       « Vivante »
+     * Edward Norton découvre qu’il serait un descendant de Pocahontas !
+     * « Qui aurait pu prédire la crise climatique ? » : beaucoup de gens,
+       et depuis des siècles
+     * « Hunger Games 5 » : que sait-on actuellement sur le film ?
+     * 3 raisons de (re)découvrir « Hunger Games »
+     * « Laïcité » : comprendre la loi sur la séparation des Eglises et de
+       l’Etat
+     * « Ginny & Georgia » saison 2 arrive enfin sur Netflix
 
    Cultea
 
@@ -36,11 +38,9 @@
           + Histoire
           + Géographie
           + Sciences
-          + Géographie
-          + Sociologie
-          + Français Facile
+          + Personnalité Historique
           + Photos d’Histoire
-          + Personnalité historique
+          + Sociologie
           + Français Facile
      * Société
           + France
@@ -84,11 +84,9 @@
           + Histoire
           + Géographie
           + Sciences
-          + Géographie
-          + Sociologie
-          + Français Facile
+          + Personnalité Historique
           + Photos d’Histoire
-          + Personnalité historique
+          + Sociologie
           + Français Facile
      * Société (BUTTON) Show sub menu
           + France
@@ -165,7 +163,7 @@ Les débuts compliqués du fast food en France
    en bataille juridique avec l’homme d’affaires français, car il ne lui
    verse pas assez de bénéfices. En 1981, la franchise accordée à Dayan
    prend alors fin, et il renomme ses restaurants OKitch, que Quick
-   rachètera plus tard. Avant cela, un McDonald’s ouvre ses portes �
+   rachètera plus tard. Avant cela, un McDonald’s ouvre ses portes à
    Strasbourg, le 17 septembre 1979.
    Quick - Cultea Logo de Quick.
 
@@ -257,7 +255,7 @@ Laisser un commentaire Annuler la réponse
    _____________________________________________
    _____________________________________________
 
-   © 2022 Cultea Politique de confidentialité
+   © 2023 Cultea Politique de confidentialité
 
    Nous utilisons des cookies sur notre site web. Vous pouvez "Accepter
    tout", ou bien contrôler vos préférences dans "Paramètres des cookies".

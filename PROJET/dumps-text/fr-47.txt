@@ -1,6 +1,6 @@
    #fastfoodfr - RSS
 
-
+   top of page
    Ce site a été conçu sur la plateforme de création de sites internet
    .com
    . Créez votre site aujourd'hui.Commencez
@@ -10,15 +10,11 @@ Les fast-food en France
      * Concept
      * Accueil
      * À propos
-
-     * Notre interview
-     * Conclusion
-     * Recette d'un burger français
-     * Bibliographie
-
-
-
-   More
+          + Notre interview
+          + Conclusion
+          + Recette d'un burger français
+          + Bibliographie
+     * More
 
    Use tab to navigate through the menu items.
 
@@ -45,7 +41,7 @@ Les fast-food en France
 
    Le budget des ménages avant consacré aux besoins de première nécessité
    (alimentation, hygiène, vêtement) sert maintenant aussi à acheter des
-   biens de consommation durables (réfrigérateur, télévision, machine �
+   biens de consommation durables (réfrigérateur, télévision, machine à
    laver, voiture …), et secondaires comme les loisirs. En 1973 le secteur
    tertiaire représente 50% de la population active et 50% du PIB. La
    femme se libère, notamment grâce à l’arrivée de l’électroménager, elle
@@ -57,7 +53,7 @@ Les fast-food en France
 
    On mange de plus en plus vite, et plus souvent à l’extérieur, en effet
    le taux de repas pris à l'extérieur a augmenté en 50 ans. Les ménages
-   ont augmenté leurs dépenses dans la restauration commerciale, c’est �
+   ont augmenté leurs dépenses dans la restauration commerciale, c’est à
    dire dans les restaurants traditionnels et les restaurants rapides, en
    effet la part de la restauration commerciale dans la consommation de la
    restauration hors domicile est passé de 40,3% à 67,0% de 1960 à 2012.
@@ -72,7 +68,7 @@ Les fast-food en France
    Jacques Borel, industriel français, inventeur de la première chaîne de
    restauration rapide en France en 1961, propose des hamburgers,
    milk-shake… Il pense que le changement du rythme de vie des Français
-   laisse une place à une autre forme de restauration (plus rapide, �
+   laisse une place à une autre forme de restauration (plus rapide, à
    toute heure, moins cher). Il créer aussi le premier restoroute en 1968,
    mais il incarne alors la « malbouffe », la mauvaise restauration
    rapide. Bien qu’il puisse servir jusqu’à 6 000 couverts par jour il est
@@ -100,7 +96,7 @@ Les fast-food en France
    », « le plus souvent debout », « à côté, les snack-bars et autres
    self-services font figure de Maxim’s ou de Tour d’argent. Un restaurant
    fast-food (…) n’offre qu’un choix très limité, toujours le même :
-   hamburger ou poulet rôti, pommes frites, un gâteau industriel, et �
+   hamburger ou poulet rôti, pommes frites, un gâteau industriel, et à
    boire ». Puis en 1973 c’est le premier choc pétrolier qui plonge la
    France en période de récession, ou plus exactement de croissance
    ralentie. C’est la fin des certitudes économiques, et le doute
@@ -122,7 +118,7 @@ Les fast-food en France
    McDonald’s en France est alors en 1979 à Strasbourg, où il y a même une
    plaque commémorative installée.
 
-   Photographie de la plaque commémorative de l'ouverture de McDonald's �
+   Photographie de la plaque commémorative de l'ouverture de McDonald's à
    Strasbourg en 1979
 
    Elle fait ensuite son entrée dans la capitale française en 1984, le
@@ -134,7 +130,7 @@ Les fast-food en France
 
    La France est le neuvième pays où elle s’implante, avant les pays
    d’Amérique du Sud et d’Asie, et elle bien fait, depuis son installation
-   les chiffres d’affaires français ne cessent d’augmenter, cela est dû �
+   les chiffres d’affaires français ne cessent d’augmenter, cela est dû à
    la présence de nouveaux restaurant dans l’hexagone : en 1995 c’est
    l’ouverture du 500ème restaurant, et en un peu plus de 25ans, leur
    nombre a été multiplié par 6.
@@ -255,3 +251,5 @@ Posts récents
    6. La restauration française qui s’inspire des principes du fast-food
    type hamburger pour enrichir s
    Retour à l'accueil
+
+   bottom of page

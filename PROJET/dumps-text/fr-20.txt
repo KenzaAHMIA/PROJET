@@ -1,5 +1,5 @@
     (BUTTON) Menu BFM Business
-   Direct tv Direct radio
+   Direct Radio Radio Direct tv DirectTV
 
      * Émissions
      * Économie et Social
@@ -15,48 +15,61 @@
      * Auto
      * Espace Pro
 
-     * BFMTV
-     * BFM Business
-     * RMC
-     * RMC Sport
-     * RMC Découverte
-     * RMC Story
-     * RMC Crime
-     * BFM Régions
-     * BFM Bourse
-     * Tech&Co
+   Regarder le direct
+   Regarder le direct
+   Écouter la radio
+   Écouter la radio
+   Replay BFM Business
+   Replay BFM Business
+     * Vidéos
+     * Émissions
+     * Podcasts
+     * Newsletters
+     * Événements
+     * Canaux TV
+     * Services
+       Voir plus
+          + Vérif
+          + Tout savoir sur la loi Pinel
+          + Faire réussir la France
+          + Chine Eco
+          + Espace Pro
+          + Devenir annonceur
+          + Grille TV
+          + Jeux concours
 
-   BUSINESS
-     * Économie et Social
+   Rubriques
+     * Economie & social
      * International
      * Entreprises
      * Conso
      * Patrimoine
      * Emploi
+     * RSE
      * Immo
      * Bourse
      * Crypto
      * Tech
      * Auto
-     * Espace Pro
-     * Verif
-     * Tout savoir sur la loi Pinel
-     * Faire réussir la France
-     * Chine Éco
-     * Devenez annonceur
 
-     * Direct TV
-     * Direct Radio
-     * Vidéos
-     * Émissions
-     * Replay
-     * Podcasts
-     * Évènements
-     * Canaux
-     * Grille TV Radio
-
-   Newsletters Business Inscrivez-vous gratuitement !
    Suivez-nous sur
+   Instagram Newsletters IOS Android
+   Les sites du groupe
+   (BUTTON) Précédent
+     * Tech&Co
+     * BFM Immo
+     * BFM Patrimoine BFM Patrimoine
+     * BFM Crypto BFM Crypto
+     * BFM Bourse
+     * BFMTV
+     * BFM Régions
+     * RMC
+     * RMC Sport
+     * RMC Crime RMC Crime
+     * RMC Découverte
+     * RMC Story
+
+   (BUTTON) Suivant
 
    Economie
 
@@ -167,40 +180,40 @@ La pizza et le taco eux aussi francisés
 
 Top Articles
 
-    1. L'équipe de France face à l'Australie, au Qatar le 22 novembre 2022
-       L'équipe de France face à l'Australie, au Qatar le 22 novembre 2022
+    1. Noël La Graët Noël La Graët
 
-France-Australie: la Coupe du monde débute très bien pour les Bleus, emmenés
-par un Giroud record
+Mbappé, Oudéa-Castéra, la presse espagnole... indignation générale après les
+propos de Le Graët sur Zidane
     2.
 
-Coupe du monde: Macron peut-il espérer gagner en popularité en cas de
-victoire de la France?
+Populisme, accusations de fraude, insurrections... Du Capitole à Brasilia,
+Bolsonaro dans les pas de Trump
     3.
 
-Kadyrov, Prigojine, Sobianine, Patrouchev, Bortnikov: qui pourrait prendre la
-place de Poutine?
+Mort de Diana, relations avec son père.... Les révélations du prince Harry
+dans son livre, "Le Suppléant"
     4.
 
-Compléments alimentaires, huiles essentielles... Ces faux remèdes pour ne pas
-tomber malade en hiver
+La chute des envois de SMS au Nouvel An signe-t-elle la mort programmée des
+textos?
     5.
 
-Marseille: il va chez son ophtalmologue pour faire vérifier ses lunettes, il
-ressort aveugle
+"Merci pour ce nouveau départ": Jeremy Renner publie une nouvelle photo et
+remercie ses infirmiers
 
      * BFMTV
      * Economie
 
 A la Une
 
-   Les petits arrangements de l’Etat pour la renationalisation d’EDF
+   Tableau de bord de l'énergie: EDF se donne de l'air dans la production
+   nucléaire et hydroélectrique
 
    (BUTTON)
    (BUTTON)
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
-   [France-Australie-1525874.jpg]
+   [Noel-La-Graet-1541504.jpg]
 
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
@@ -241,7 +254,6 @@ A la Une
      * Comparateur assurance
      * Shopping
      * Immobilier neuf
-     * Offres d'emploi
      * Portage Salarial
      * Règlements
 

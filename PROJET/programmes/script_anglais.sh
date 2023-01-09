@@ -25,7 +25,7 @@ basename=$(basename -s .txt $fichier_urls)
 echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
-echo "<table>" >> $fichier_tableau
+echo "<table aligne=\"center\"border=\"1px\"bordercolor=#ff964f>" >> $fichier_tableau
 echo "<tr><th>ligne</th>
 	<th>code</th>
 	<th>encodage</th>

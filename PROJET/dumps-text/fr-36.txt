@@ -37,7 +37,7 @@ le marché du fast food | France
 
    INFORMATIONS SUR L'ÉTUDE
      * [pricing_tag.svg] Prix: 89€ HT
-     * [refresh.svg] Dernière mise à jour: 05/04/2021
+     * [refresh.svg] Mise à jour complète: 05/04/2021
      * [globe.svg] Langue: Français
      * [layers.svg] Catégorie: Hôtellerie, Restauration
      * Une question ?
@@ -48,7 +48,8 @@ le marché du fast food | France
      * Avis clients
      * Études similaires
 
-[businesscoot_circle_black.svg] Contenu de l'étude
+[businesscoot_circle_black.svg] Contenu de l'étude:
+Le marché du fast food - France
 
    Langues disponibles
 
@@ -185,7 +186,7 @@ STRUCTURE DU MARCHÉ
 
    Selon ACOSS, le nombre d'entreprises du secteur français de la
    restauration rapide est passé de ** *** en **** à ** *** en ****, soit
-   une augmentation de ** % sur la période. Il faut néanmoins garder �
+   une augmentation de ** % sur la période. Il faut néanmoins garder à
    l'esprit que plusieurs établissements peuvent appartenir à une même ...
 
 3.3 Typologie des forces en présence
@@ -277,7 +278,7 @@ RÈGLEMENTATION
    le site de bpifrance.
 
    La réglementation en vigueur pour les normes d'hygiène et de securité
-   des établissements de restauration rapide commerciale sont similaires �
+   des établissements de restauration rapide commerciale sont similaires à
    ceux de la ...
 
 5.2 La problématique du tri des déchets pour les établissements de
@@ -294,22 +295,21 @@ POSITIONNEMENT DES ACTEURS
 6.1 Segmentation
 
      * McDonald's
-     * Subway (Performance Food group)
+     * Subway France (Performance Food group)
      * Groupe Bertrand
      * KAP Developpement
-     * KFC
-     * Pizza Hut (Groupe Yum)
-     * Groupe Le Duff
-     * Domino’s Pizza
+     * KFC France
+     * Yum Brands Group
+     * Le Duff Groupe
      * Speed Rabbit Pizza
      * Sushi Shop Restauration
      * Exki
 
    Pour lire la suite, acheter l'étude complète
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché du fast food
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché du fast food - France
 
@@ -449,97 +449,97 @@ Avis (4)
 
 ÉTUDES DU MÊME SECTEUR
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché de l'agencement d'hôtel
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché de l'agencement d'hôtel - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché des salons de thé
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché des salons de thé - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché de la restauration rapide
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché de la restauration rapide - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché des pizzerias
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché des pizzerias - Espagne
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché de la restauration collective
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché de la restauration collective - Espagne
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché de la restauration collective
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché de la restauration collective - France
 
 ÉTUDES DES MARCHÉS PROCHES
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché de la vaisselle jetable
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché de la vaisselle jetable - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché des plateaux-repas
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché des plateaux-repas - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché du food-truck
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché du food-truck - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché des chips
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché des chips - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché des chips
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché des chips - Italie
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché de la restauration
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché de la restauration - France
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché du fast good
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché du fast good - France
 
 CE MARCHÉ DANS D'AUTRES PAYS
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché du fast food
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché du fast food - Etats-Unis
 
-   [businesscoot_logo_horizontal.svg]
+   Businesscoot logo horizontal
    le marché du fast food
-   [businesscoot_vertical_white.svg]
+   Businesscoot logo vertical
 
    le marché du fast food - Royaume-Uni
 
@@ -555,7 +555,7 @@ CE MARCHÉ DANS D'AUTRES PAYS
 
    Businesscoot SAS - 201 rue Championnet - 75018 Paris, France
 
-   Copyright © 2022.
+   Copyright © 2023.
 
    Businesscoot
 

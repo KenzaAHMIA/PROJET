@@ -1,5 +1,5 @@
     (BUTTON) Menu BFMTV
-   TV Radio Replay
+   Replay Direct Radio Radio Direct tv DirectTV
 
      * Vidéos
      * Politique
@@ -15,18 +15,45 @@
      * Régions
      * Météo
 
-     * BFMTV
-     * BFM Business
-     * RMC
-     * RMC Sport
-     * RMC Découverte
-     * RMC Story
-     * RMC Crime
-     * BFM Régions
-     * BFM Bourse
-     * Tech&Co
+   Regarder le direct
+   Regarder le direct
+   Écouter la radio
+   Écouter la radio
+   Replay BFMTV
+   Replay BFMTV
+     * Vidéos
+     * Émissions
+     * Podcasts
+     * Longs Formats
+     * Newsletters
+     * Météo
+     * Trafic
+     * Canaux TV
+     * Services
+       Voir plus
+          + Jeux concours
+          + Grille TV
+          + BFMTV et vous
+          + Témoins BFMTV
+          + BFM Pratique
+          + Comparateur
+          + Devenir Annonceur
 
-   Actualité
+   BFM Régions
+   (BUTTON) Précédent
+     * BFM Paris IDF
+     * BFM Marseille
+     * BFM Lyon
+     * BFM Lille
+     * BFM Littoral
+     * BFM DICI
+     * BFM Var
+     * BFM Côte d'Azur
+     * BFM Alsace
+     * BFM Normandie
+
+   (BUTTON) Suivant
+   Rubriques
      * News 24/7
      * Politique
      * Police-justice
@@ -45,25 +72,22 @@
      * Voyages
      * Food
      * Animaux
-     * Météo
-     * Trafic
-     * BFM Pratique
-     * Comparateur
-     * Devenez annonceur
 
-     * Direct TV
-     * Vidéos
-     * Émissions
-     * Replay
-     * Podcasts
-     * Longs Formats
-     * Radio
-     * BFMTV et vous
-     * Témoins BFMTV
-     * Grille TV Grille TV
-
-   Newsletters Actualité Inscrivez-vous gratuitement !
    Suivez-nous sur
+   Instagram Newsletters IOS Android
+   Les sites du groupe
+   (BUTTON) Précédent
+     * BFM Business
+     * BFM Régions
+     * BFM Bourse
+     * Tech&Co
+     * RMC
+     * RMC Sport
+     * RMC Crime RMC Crime
+     * RMC Découverte
+     * RMC Story
+
+   (BUTTON) Suivant
 
    Santé
 
@@ -155,35 +179,34 @@ La restauration rapide pas seule fautive
 
 Top Articles
 
-    1. L'équipe de France face à l'Australie, au Qatar le 22 novembre 2022
-       L'équipe de France face à l'Australie, au Qatar le 22 novembre 2022
+    1. Noël La Graët Noël La Graët
 
-France-Australie: la Coupe du monde débute très bien pour les Bleus, emmenés
-par un Giroud record
+Mbappé, Oudéa-Castéra, la presse espagnole... indignation générale après les
+propos de Le Graët sur Zidane
     2.
 
-Coupe du monde: Macron peut-il espérer gagner en popularité en cas de
-victoire de la France?
+Populisme, accusations de fraude, insurrections... Du Capitole à Brasilia,
+Bolsonaro dans les pas de Trump
     3.
 
-Kadyrov, Prigojine, Sobianine, Patrouchev, Bortnikov: qui pourrait prendre la
-place de Poutine?
+Mort de Diana, relations avec son père.... Les révélations du prince Harry
+dans son livre, "Le Suppléant"
     4.
 
-Compléments alimentaires, huiles essentielles... Ces faux remèdes pour ne pas
-tomber malade en hiver
+La chute des envois de SMS au Nouvel An signe-t-elle la mort programmée des
+textos?
     5.
 
-Marseille: il va chez son ophtalmologue pour faire vérifier ses lunettes, il
-ressort aveugle
+"Merci pour ce nouveau départ": Jeremy Renner publie une nouvelle photo et
+remercie ses infirmiers
 
      * BFMTV
      * Santé
 
 A la Une
 
-   EN DIRECT - Maternité attaquée en Ukraine: Zelensky accuse la Russie de
-   "terreur et meurtre"
+   Alcool, interdiction le dimanche, accidents: ce qu'il faut retenir des
+   annonces du gouvernement sur la chasse
 
    BFMTV
    première sur l'info
@@ -217,7 +240,6 @@ A la Une
      * Comparateur assurance
      * Shopping
      * Immobilier neuf
-     * Offres d'emploi
      * Portage Salarial
      * Règlements
 

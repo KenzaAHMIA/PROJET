@@ -27,7 +27,7 @@
           + Transport et logistique
        Statistiques populaires
        Statistiques récentes Statistiques populaires
-          + Nombre d'infections dues au coronavirus par pays du monde 9
+          + Nombre d'infections dues au coronavirus par pays du monde 28
             novembre 2022
           + Coronavirus : impact sur le cours de l'indice CAC 40 en France
             2020-2022
@@ -139,6 +139,7 @@
      * Création de contenu & design
      * Projets de recherche
      * Ask Statista
+     * eCommerceDB.com
      * Global Consumer Survey
 
      * EN
@@ -153,9 +154,10 @@
 Les fast-foods en France - Faits et chiffres
 
      * Vue d’ensemble
-     * Sélection de la rédaction
+     * Indicateurs
      * Statistiques
 
+   Publié par Statista Research Department, 13 déc. 2021
    Hamburgers, sandwichs, pâtes à emporter ou sushis : l'offre de
    restauration rapide semble de nos jours inépuisable. Selon l'Insee, la
    restauration de type rapide comprend bien évidemment les restaurants de
@@ -195,392 +197,86 @@ Les fast-foods en France - Faits et chiffres
    que les informations soient complètes ou exactes. En raison de cycles
    de mise à jour variables, les statistiques peuvent afficher des données
    plus récentes que celles référencées dans le texte.
-   (BUTTON) Afficher plus
-   Publié par Statista Research Department, 13 déc. 2021
+   (BUTTON) En savoir plus
 
-Key insights
+Statistiques intéressantes
 
-   Chiffre d'affaires du secteur de la restauration rapide en France 2016
-          18,7 Mio EUR
-
-   Chiffre d'affaires du secteur de la restauration de type rapide en
-   France entre 2011 et 2016 (en millions d'euros)
-
-   Statistique détaillée
-
-   Chiffre d'affaires de la restauration de type rapide en France
-   2011-2016
-
-   Frais personnel du secteur de la restauration rapide en France 2016
-          4,5 Mio EUR
-
-   Frais de personnel du secteur de la restauration de type rapide en
-   France entre 2011 et 2016 (en millions d'euros)
-
-   Statistique détaillée
-
-   Frais de personnel dans la restauration de type rapide en France
-   2011-2016
-
-   Revenus des ventes du groupe français LE DUFF dans le monde 2017
-          2,05 Mio EUR
-
-   Revenus des ventes du groupe français LE DUFF dans le monde entre 2005
-   et 2017 (en millions d'euros)
-
-   Statistique détaillée
-
-   Revenus des ventes du groupe LE DUFF à l'international 2005-2017
-   Obtenez plus d’informations
-
-   Table des matières
-   (BUTTON)
-     * Sélection de la rédaction
+   Dans les 4 chapitres suivants, vous trouverez rapidement les 31
+   statistiques les plus importantes sur le thème "La restauration rapide
+   en France".
+   Statistiques sur le thème
      * Chiffres clés de la restauration rapide
      * Offre de restaurants de type rapide
      * Emplois dans la restauration rapide
      * Habitudes alimentaires
 
-   (BUTTON)
-
-Sélection de la rédaction Statistiques actuelles sur le sujet
-
-Statistiques actuelles sur le sujet
-
-   Chiffre d'affaires annuel des industries de l'hébergement et de la
-   restauration en France de 2008 à 2016 (en millions d'euros)
-
-   Hébergement
-
-   Chiffre d'affaires de l'hébergement touristique et la restauration
-   France 2008-2016
-   Indice des prix à la consommation (IPC) des services de restauration en
-   France entre 2018 et 2022
-
-   Prix
-
-   Indice des prix à la consommation des services de restauration en
-   France 2018-2022
-   Répartition des achats de McDonald's France en 2017, par catégorie
-
-   Chaînes de restaurants
-
-   Distribution des achats de McDonald's par catégorie en France 2017
-
-Sujets apparentés
-
-Recommandations
-
-   2
-     * L'industrie du vin en France
-     * Inflation et indice des prix en France
-
-Statistiques recommandées
-
-Chiffres clés de la restauration rapide
-
-   6
-     * Basic Statistique Nombre d'entreprises de la restauration de type
-       rapide en France 2011-2016
-     * Basic Statistique Nombre d'employés de la restauration de type
-       rapide en France 2011-2016
-     * Basic Statistique Chiffre d'affaires de la restauration de type
-       rapide en France 2011-2016
-     * Basic Statistique Frais de personnel dans la restauration de type
-       rapide en France 2011-2016
-     * Premium Statistique Ventes totales hors taxes sous enseigne de
-       McDonald's en France 2013-2019
-     * Premium Statistique Revenus des ventes du groupe LE DUFF �
-       l'international 2005-2017
-
-Chiffres clés de la restauration rapide
-
-     * Basic Statistique Nombre d'entreprises de la restauration de type
-       rapide en France 2011-2016
-       Nombre d'entreprises dans le secteur de la restauration de type
-       rapide en France entre 2011 et 2016 (en milliers)
-       Nombre d'entreprises de la restauration de type rapide en France
+   Chiffre d'affaires du secteur de la restauration rapide en France 2016
+   18,7 Mio EUR
+   Frais personnel du secteur de la restauration rapide en France 2016
+   4,5 Mio EUR
+   Revenus des ventes du groupe français LE DUFF dans le monde 2017
+   2,05 Mio EUR
+   (BUTTON) Chiffres clés de la restauration rapide
+     * Nombre d'entreprises de la restauration de type rapide en France
        2011-2016
-       Nombre d'entreprises dans le secteur de la restauration de type
-       rapide en France entre 2011 et 2016 (en milliers)
-     * Basic Statistique Nombre d'employés de la restauration de type
-       rapide en France 2011-2016
-       Nombre d'employés dans le secteur de la restauration de type rapide
-       en France entre 2011 et 2016 (en milliers)
-       Nombre d'employés de la restauration de type rapide en France
+     * Nombre d'employés de la restauration de type rapide en France
        2011-2016
-       Nombre d'employés dans le secteur de la restauration de type rapide
-       en France entre 2011 et 2016 (en milliers)
-     * Basic Statistique Chiffre d'affaires de la restauration de type
-       rapide en France 2011-2016
-       Chiffre d'affaires du secteur de la restauration de type rapide en
-       France entre 2011 et 2016 (en millions d'euros)
-       Chiffre d'affaires de la restauration de type rapide en France
+     * Chiffre d'affaires de la restauration de type rapide en France
        2011-2016
-       Chiffre d'affaires du secteur de la restauration de type rapide en
-       France entre 2011 et 2016 (en millions d'euros)
-     * Basic Statistique Frais de personnel dans la restauration de type
-       rapide en France 2011-2016
-       Frais de personnel du secteur de la restauration de type rapide en
-       France entre 2011 et 2016 (en millions d'euros)
-       Frais de personnel dans la restauration de type rapide en France
+     * Frais de personnel dans la restauration de type rapide en France
        2011-2016
-       Frais de personnel du secteur de la restauration de type rapide en
-       France entre 2011 et 2016 (en millions d'euros)
-     * Premium Statistique Ventes totales hors taxes sous enseigne de
-       McDonald's en France 2013-2019
-       Montant des ventes totales hors taxes sous enseigne de McDonald's
-       en France en 2013 et 2019 (en milliards d'euros)
-       Ventes totales hors taxes sous enseigne de McDonald's en France
+     * Ventes totales hors taxes sous enseigne de McDonald's en France
        2013-2019
-       Montant des ventes totales hors taxes sous enseigne de McDonald's
-       en France en 2013 et 2019 (en milliards d'euros)
-     * Premium Statistique Revenus des ventes du groupe LE DUFF �
+     * Revenus des ventes du groupe LE DUFF à l'international 2005-2017
+
+   (BUTTON) Afficher toutes les statistiques (6)
+   (BUTTON) Offre de restaurants de type rapide
+     * Nombre de franchises Domino's Pizza en France 2006-2021
+     * Nombre de restaurants McDonald's en France 2011-2020
+     * Boulangeries et restaurants du groupe français LE DUFF à
        l'international 2005-2017
-       Revenus des ventes du groupe français LE DUFF dans le monde entre
-       2005 et 2017 (en millions d'euros)
-       Revenus des ventes du groupe LE DUFF à l'international 2005-2017
-       Revenus des ventes du groupe français LE DUFF dans le monde entre
-       2005 et 2017 (en millions d'euros)
-
-Offre de restaurants de type rapide
-
-   11
-     * Basic Statistique Nombre de franchises Domino's Pizza en France
-       2006-2021
-     * Basic Statistique Nombre de restaurants McDonald's en France
-       2011-2020
-     * Basic Statistique Boulangeries et restaurants du groupe français LE
-       DUFF à l'international 2005-2017
-     * Premium Statistique Nombre de McDonald's par ville de France 2019
-     * Premium Statistique Nombre de Burger King par ville de France 2019
-     * Premium Statistique Nombre de Domino's Pizza par ville de France
-       2018
-     * Premium Statistique Nombre de Starbucks par ville de France 2018
-     * Premium Statistique Nombre de Pizza Hut par ville de France 2018
-     * Premium Statistique Nombre de Subway par ville de France 2018
-     * Basic Statistique Classement des villes françaises où se situent le
-       plus de fast-foods 2019
-     * Premium Statistique Classement des villes françaises où se situent
-       de kiosque à Kebab 2017
-
-Offre de restaurants de type rapide
-
-     * Basic Statistique Nombre de franchises Domino's Pizza en France
-       2006-2021
-       Nombre de restaurants Domino's Pizza en France de 2006 à 2021
-       Nombre de franchises Domino's Pizza en France 2006-2021
-       Nombre de restaurants Domino's Pizza en France de 2006 à 2021
-     * Basic Statistique Nombre de restaurants McDonald's en France
-       2011-2020
-       Nombre de restaurants McDonald's en France de 2011 à 2020
-       Nombre de restaurants McDonald's en France 2011-2020
-       Nombre de restaurants McDonald's en France de 2011 à 2020
-     * Basic Statistique Boulangeries et restaurants du groupe français LE
-       DUFF à l'international 2005-2017
-       Nombre de boulangeries et restaurants du groupe français LE DUFF
-       dans le monde entre 2005 et 2017
-       Boulangeries et restaurants du groupe français LE DUFF �
-       l'international 2005-2017
-       Nombre de boulangeries et restaurants du groupe français LE DUFF
-       dans le monde entre 2005 et 2017
-     * Premium Statistique Nombre de McDonald's par ville de France 2019
-       Nombre de restaurants McDonald's en France en 2019, par ville
-       Nombre de McDonald's par ville de France 2019
-       Nombre de restaurants McDonald's en France en 2019, par ville
-     * Premium Statistique Nombre de Burger King par ville de France 2019
-       Nombre de restaurants Burger King en France en 2019, par ville
-       Nombre de Burger King par ville de France 2019
-       Nombre de restaurants Burger King en France en 2019, par ville
-     * Premium Statistique Nombre de Domino's Pizza par ville de France
-       2018
-       Nombre de restaurants Domino's Pizza en France en 2018, par ville
-       Nombre de Domino's Pizza par ville de France 2018
-       Nombre de restaurants Domino's Pizza en France en 2018, par ville
-     * Premium Statistique Nombre de Starbucks par ville de France 2018
-       Nombre de restaurants Starbucks en France en 2018, par ville Nombre
-       de Starbucks par ville de France 2018
-       Nombre de restaurants Starbucks en France en 2018, par ville
-     * Premium Statistique Nombre de Pizza Hut par ville de France 2018
-       Nombre de restaurants Pizza Hut en France en 2018, par ville Nombre
-       de Pizza Hut par ville de France 2018
-       Nombre de restaurants Pizza Hut en France en 2018, par ville
-     * Premium Statistique Nombre de Subway par ville de France 2018
-       Nombre de restaurants Subway en France en 2018, par ville Nombre de
-       Subway par ville de France 2018
-       Nombre de restaurants Subway en France en 2018, par ville
-     * Basic Statistique Classement des villes françaises où se situent le
-       plus de fast-foods 2019
-       Classement des villes avec la plus forte présence de restauration
-       rapide en France en 2019
-       Classement des villes françaises où se situent le plus de
+     * Nombre de McDonald's par ville de France 2019
+     * Nombre de Burger King par ville de France 2019
+     * Nombre de Domino's Pizza par ville de France 2018
+     * Nombre de Starbucks par ville de France 2018
+     * Nombre de Pizza Hut par ville de France 2018
+     * Nombre de Subway par ville de France 2018
+     * Classement des villes françaises où se situent le plus de
        fast-foods 2019
-       Classement des villes avec la plus forte présence de restauration
-       rapide en France en 2019
-     * Premium Statistique Classement des villes françaises où se situent
-       de kiosque à Kebab 2017
-       Classement des villes avec la plus forte présence de kiosque �
-       Kebab en France en 2017
-       Classement des villes françaises où se situent de kiosque à Kebab
+     * Classement des villes françaises où se situent de kiosque à Kebab
        2017
-       Classement des villes avec la plus forte présence de kiosque �
-       Kebab en France en 2017
 
-Emplois dans la restauration rapide
-
-   6
-     * Premium Statistique Répartition par âge des salariés de McDonald's
-       en France 2017
-     * Basic Statistique Répartition par ancienneté des salariés de
-       McDonald's en France 2016
-     * Premium Statistique Répartition par sexe des salariés de McDonald's
-       en France 2013-2017
-     * Basic Statistique Répartition par catégorie des salariés de
-       McDonald's en France 2013-2017
-     * Premium Statistique Employés du groupe français LE DUFF �
-       l'international 2005-2017
-     * Premium Statistique Effectifs dans les secteurs d'activité de la
-       restauration à Paris 2016
-
-Emplois dans la restauration rapide
-
-     * Premium Statistique Répartition par âge des salariés de McDonald's
-       en France 2017
-       Répartition des salariés des filiales de McDonald's en France en
-       2017, par âge
-       Répartition par âge des salariés de McDonald's en France 2017
-       Répartition des salariés des filiales de McDonald's en France en
-       2017, par âge
-     * Basic Statistique Répartition par ancienneté des salariés de
-       McDonald's en France 2016
-       Répartition des salariés des filiales de McDonald's en France en
-       2016, par années d'ancienneté
-       Répartition par ancienneté des salariés de McDonald's en France
+   (BUTTON) Afficher toutes les statistiques (11)
+   (BUTTON) Emplois dans la restauration rapide
+     * Répartition par âge des salariés de McDonald's en France 2017
+     * Répartition par ancienneté des salariés de McDonald's en France
        2016
-       Répartition des salariés des filiales de McDonald's en France en
-       2016, par années d'ancienneté
-     * Premium Statistique Répartition par sexe des salariés de McDonald's
-       en France 2013-2017
-       Répartition des salariés des filiales de McDonald's en France entre
-       2013 et 2017, par sexe
-       Répartition par sexe des salariés de McDonald's en France 2013-2017
-       Répartition des salariés des filiales de McDonald's en France entre
-       2013 et 2017, par sexe
-     * Basic Statistique Répartition par catégorie des salariés de
-       McDonald's en France 2013-2017
-       Répartition des salariés des filiales de McDonald's en France en
-       2013 et 2017, par position hiérarchique
-       Répartition par catégorie des salariés de McDonald's en France
+     * Répartition par sexe des salariés de McDonald's en France 2013-2017
+     * Répartition par catégorie des salariés de McDonald's en France
        2013-2017
-       Répartition des salariés des filiales de McDonald's en France en
-       2013 et 2017, par position hiérarchique
-     * Premium Statistique Employés du groupe français LE DUFF �
-       l'international 2005-2017
-       Nombre d'employés du groupe français LE DUFF dans le monde entre
-       2005 et 2017
-       Employés du groupe français LE DUFF à l'international 2005-2017
-       Nombre d'employés du groupe français LE DUFF dans le monde entre
-       2005 et 2017
-     * Premium Statistique Effectifs dans les secteurs d'activité de la
-       restauration à Paris 2016
-       Nombre d'emplois dans les établissements de restauration à Paris en
-       2016, par catégorie
-       Effectifs dans les secteurs d'activité de la restauration à Paris
+     * Employés du groupe français LE DUFF à l'international 2005-2017
+     * Effectifs dans les secteurs d'activité de la restauration à Paris
        2016
-       Nombre d'emplois dans les établissements de restauration à Paris en
-       2016, par catégorie
 
-Habitudes alimentaires
-
-   8
-     * Premium Statistique Avis des Français sur la restauration à service
-       rapide 2015
-     * Basic Statistique Fréquence à laquelle les Français mangent au
-       fast-food 2015
-     * Premium Statistique Enseignes de restauration rapide préférées des
-       Français 2013
-     * Premium Statistique Lieux les plus fréquentés par les Français pour
-       consommer une pizza 2017
-     * Premium Statistique Lieux les plus fréquentés par les Français pour
-       consommer une pizza par âge 2017
-     * Premium Statistique Principaux produits de snacking achetés en
-       grande distribution en France 2015
-     * Premium Statistique Avis des Français sur la nécessité de prix bas
-       dans la restauration rapide 2015
-     * Premium Statistique Restauration rapide : importance de la quantité
-       de nourriture selon les Français 2015
-
-Habitudes alimentaires
-
-     * Premium Statistique Avis des Français sur la restauration à service
-       rapide 2015
-       De manière générale, quel avis portez-vous sur la restauration
-       rapide ?
-       Avis des Français sur la restauration à service rapide 2015
-       De manière générale, quel avis portez-vous sur la restauration
-       rapide ?
-     * Basic Statistique Fréquence à laquelle les Français mangent au
-       fast-food 2015
-       À quelle fréquence vous arrive-t-il de manger dans un fast-food en
-       France en 2015 ?*
-       Fréquence à laquelle les Français mangent au fast-food 2015
-       À quelle fréquence vous arrive-t-il de manger dans un fast-food en
-       France en 2015 ?*
-     * Premium Statistique Enseignes de restauration rapide préférées des
-       Français 2013
-       Classement des enseignes de restauration rapide idéales selon les
-       Français en 2013
-       Enseignes de restauration rapide préférées des Français 2013
-       Classement des enseignes de restauration rapide idéales selon les
-       Français en 2013
-     * Premium Statistique Lieux les plus fréquentés par les Français pour
-       consommer une pizza 2017
-       Classement des lieux les plus fréquentés par les Français pour
-       consommer des pizzas en 2017
-       Lieux les plus fréquentés par les Français pour consommer une pizza
+   (BUTTON) Afficher toutes les statistiques (6)
+   (BUTTON) Habitudes alimentaires
+     * Avis des Français sur la restauration à service rapide 2015
+     * Fréquence à laquelle les Français mangent au fast-food 2015
+     * Enseignes de restauration rapide préférées des Français 2013
+     * Lieux les plus fréquentés par les Français pour consommer une pizza
        2017
-       Classement des lieux les plus fréquentés par les Français pour
-       consommer des pizzas en 2017
-     * Premium Statistique Lieux les plus fréquentés par les Français pour
-       consommer une pizza par âge 2017
-       Classement des lieux les plus fréquentés par les Français pour
-       consommer des pizzas en 2017, selon la tranche d'âge
-       Lieux les plus fréquentés par les Français pour consommer une pizza
+     * Lieux les plus fréquentés par les Français pour consommer une pizza
        par âge 2017
-       Classement des lieux les plus fréquentés par les Français pour
-       consommer des pizzas en 2017, selon la tranche d'âge
-     * Premium Statistique Principaux produits de snacking achetés en
-       grande distribution en France 2015
-       Quel type de produit de snaking achetez-vous en grande et moyenne
-       surface ?*
-       Principaux produits de snacking achetés en grande distribution en
+     * Principaux produits de snacking achetés en grande distribution en
        France 2015
-       Quel type de produit de snaking achetez-vous en grande et moyenne
-       surface ?*
-     * Premium Statistique Avis des Français sur la nécessité de prix bas
-       dans la restauration rapide 2015
-       Pour vous, les prix bas sur une carte sont-ils une qualité
-       importante pour être un bon restaurant rapide ?*
-       Avis des Français sur la nécessité de prix bas dans la restauration
+     * Avis des Français sur la nécessité de prix bas dans la restauration
        rapide 2015
-       Pour vous, les prix bas sur une carte sont-ils une qualité
-       importante pour être un bon restaurant rapide ?*
-     * Premium Statistique Restauration rapide : importance de la quantité
-       de nourriture selon les Français 2015
-       Pour vous, la quantité de nourriture représente-t-elle une qualité
-       importante dans la restauration rapide ?*
-       Restauration rapide : importance de la quantité de nourriture selon
+     * Restauration rapide : importance de la quantité de nourriture selon
        les Français 2015
-       Pour vous, la quantité de nourriture représente-t-elle une qualité
-       importante dans la restauration rapide ?*
 
-Sujets apparentés
-
-Recommandations
-
-   2
-     * L'industrie du vin en France
-     * Inflation et indice des prix en France
+   (BUTTON) Afficher toutes les statistiques (8)
+   (BUTTON)
+   S'abonner
 
 Dossier sur le thème
 
@@ -596,49 +292,34 @@ Indicateurs importants
 
 Les emplois dans la restauration rapide
 
-     *
-
-        Nombre d'employés dans la restauration rapide en France 2016
-                176,928
-
+     * Nombre d'employés dans la restauration rapide en France 2016
+       176,928
        Nombre d'employés dans le secteur de la restauration de type rapide
        en France entre 2011 et 2016 (en milliers)
        Statistique détaillée
        Nombre d'employés de la restauration de type rapide en France
        2011-2016
-     *
-
-        Nombre de salariés du groupe français LE DUFF dans le monde 2017
-                35.420
-
+     * Nombre de salariés du groupe français LE DUFF dans le monde 2017
+       35.420
        Nombre d'employés du groupe français LE DUFF dans le monde entre
        2005 et 2017
        Statistique détaillée
        Employés du groupe français LE DUFF à l'international 2005-2017
-     *
-
-        Part du nombre d'employés à McDonald's en France 2017
-                89 %
-
+     * Part du nombre d'employés à McDonald's en France 2017
+       89 %
        Répartition des salariés des filiales de McDonald's en France en
        2013 et 2017, par position hiérarchique
        Statistique détaillée
        Répartition par catégorie des salariés de McDonald's en France
        2013-2017
-     *
-
-        Part des femmes salariées à McDonald's en France 2017
-                58 %
-
+     * Part des femmes salariées à McDonald's en France 2017
+       58 %
        Répartition des salariés des filiales de McDonald's en France entre
        2013 et 2017, par sexe
        Statistique détaillée
        Répartition par sexe des salariés de McDonald's en France 2013-2017
-     *
-
-        Part des hommes salariés à McDonald's en France 2017
-                42 %
-
+     * Part des hommes salariés à McDonald's en France 2017
+       42 %
        Répartition des salariés des filiales de McDonald's en France entre
        2013 et 2017, par sexe
        Statistique détaillée
@@ -647,55 +328,40 @@ Les emplois dans la restauration rapide
 
 Les leaders mondiaux de la restauration rapide
 
-     *
-
-        La valeur de McDonald's en 2019
-                124,9 Mio USD
-
+     * La valeur de McDonald's en 2019
+       124,9 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
        2021, selon la valeur de l'entreprise * (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     *
-
-        La valeur de Starbucks en 2019
-                42,2 Mio USD
-
+     * La valeur de Starbucks en 2019
+       42,2 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
        2021, selon la valeur de l'entreprise * (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     *
-
-        La valeur de Subway en 2019
-                18,3 Mio USD
-
+     * La valeur de Subway en 2019
+       18,3 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
        2021, selon la valeur de l'entreprise * (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     *
-
-        La valeur de KFC en 2019
-                15,8 Mio USD
-
+     * La valeur de KFC en 2019
+       15,8 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
        2021, selon la valeur de l'entreprise * (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     *
-
-        La valeur de Domino's Pizza en 2019
-                8,3 Mio USD
-
+     * La valeur de Domino's Pizza en 2019
+       8,3 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
        2021, selon la valeur de l'entreprise * (en millions de dollars
        des États-Unis)
@@ -704,22 +370,32 @@ Les leaders mondiaux de la restauration rapide
        l'entreprise 2021
      * (BUTTON) Afficher plus de faitsMasquer
 
-Rapports & étudesObtenez les meilleurs rapports pour mieux comprendre votre
-secteur
+Plus de thèmes intéressants
 
-Obtenez les meilleurs rapports pour mieux comprendre votre secteur
+Sujets apparentés
 
-     * Dépenses touristiques en France Dépenses touristiques en France
-     * Consommation de vin en France Consommation de vin en France
-     * Le marché du bio en France Le marché du bio en France
-     * Inflation et indices des prix à la consommation Inflation et
-       indices des prix à la consommation
+   Lien vers L'industrie du vin en France Thème
+   L'industrie du vin en France
+   Lien vers Inflation et indice des prix en France Thème
+   Inflation et indice des prix en France
 
-   Dépenses touristiques en France Dépenses touristiques en France
-   Consommation de vin en France Consommation de vin en France
-   Le marché du bio en France Le marché du bio en France
-   Inflation et indices des prix à la consommation Inflation et indices
-   des prix à la consommation
+Infographies sur ce thème
+
+   Lien vers La restauration rapide en France Infographie - Les fast-foods
+   (encore) moins sains qu'il y a 30 ans ? Infographie
+   evolution du nombre de calories et de la taille des portions US
+
+Études complémentaires sur le thème
+
+     * Dépenses touristiques en France
+     * Consommation de vin en France
+     * Le marché du bio en France
+     * Inflation et indices des prix à la consommation
+
+   Maxime Gautier
+   Maxime Gautier
+   Research Lead covering the French market
+   Contactez-nous
 
 Contact
 
@@ -787,6 +463,9 @@ Contact
    +1 212 419-5774
 
    Lun - Ven, 9:00 - 18:00 h (EST)
+
+   Yes, let me download!
+   ...and make my research life easier.
 
      * Home
      * À propos de Statista

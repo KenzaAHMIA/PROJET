@@ -1,25 +1,6 @@
 #!/usr/bin/env bash
 
-# see egrep or others
 
-#===============================================================================
-# VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
-# Ici, on décrit le comportement du programme.
-# Indiquez, entre autres, comment on lance le programme et quels sont
-# les paramètres.
-# La forme est indicative, sentez-vous libres d'en changer !
-# Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
-###################################################
-# curl -ILs = -I header -L suivre redirection, -s silencieux  
-# grep -e =egrep ^http (line beg with http) , obtained header by curl 
-# -Eo grep etendu, o = only d | cut (sérapré par) -d(délimiteur)" "-f2 (f= field/columns, -f2 = looking for 2nd column, délimité par = | tail -n 1 (last line of file) 
-# the commands above can be stored in a variable 
-#pour fichier csv délimiteur , , donc 
-### for context :m
-#regexp (...)(mitif à chercher ?)(...)
-#regexp (\w+\W)(robots?)(\w\w+)
-# cat nomFicher.txt | sed 's/\(.../)robots\?(...)/____/'
-#===============================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
@@ -30,16 +11,17 @@ then
 	exit
 fi
 
-mot="\bresauration rapide|fast-food\b"
+mot="\b(R|r)estauration (R|r)apide | (F|f)ast-?(F|f)ood\b"
+#mot="\bresauration rapide|fast-food\b"
 # street food # à modifier selon langue
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
 echo "<html><body>" > $fichier_tableau
-echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
+echo "<h2>Tableau français :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
-echo "<table>" >> $fichier_tableau
+echo "<table aligne=\"center\"border=\"1px\"bordercolor=#ff964f>" >> $fichier_tableau
 echo "<tr><th>ligne</th>
 	<th>code</th>
 	<th>encodage</th>
@@ -121,7 +103,7 @@ while read -r URL; do
 	<td><a href=\"../aspirations/$basename-$lineno.html\">fr-$lineno</a></td>
 	<td>$occurences</td>
 	<td><a href=\"../contextes/$basename-$lineno.txt\">fr-$lineno</a></td>
-	<td><a href=\"../concordances/$basename-$lineno.html\">fr-$lineno</a></td>
+	<td><a href=\"./../concordances/$basename-$lineno.html\">fr-$lineno</a></td>
 	</tr>" >> $fichier_tableau
 	
 	echo -e "\t--------------------------------"

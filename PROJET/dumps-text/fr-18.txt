@@ -34,26 +34,26 @@
      * Jeux
      * Boutique
      * LeCLUB
-     * Séjour en montagne
+     * Mon Séjour en Montagne
 
    Aujourd'hui
    Strasbourg
 
    Strasbourg
 
-   mer. 23/11/2022
+   lun. 09/01/2023
    Lire le journal
    Les Dernières Nouvelles d'Alsace
    S'abonner Se connecter Me connecter/ M’inscrire
    Création de compte
-     * Activer JavaScript dans votre navigateur pour accéder �
+     * Activer JavaScript dans votre navigateur pour accéder à
        l'inscription sur notre site
 
    Civilité
    (*) Madame ( ) Monsieur ( ) Société
    Siret ____________________
    Nom ____________________
-   Prénom_____________________
+   Prénom ____________________
    Adresse e-mail ____________________
    Mot de passe ____________________
    [ ] Je souhaite recevoir les communications et les exclusivités du
@@ -63,7 +63,7 @@
    [ ] J'ai lu et accepté les Conditions générales d'utilisation
 
    Si vous voyez ce champ, ne le remplissez pas ____________________
-   Je m'inscris
+   ____________________ Je m'inscris
 
    Les Dernières Nouvelles d'Alsace, en tant que responsable de
    traitement, recueille dans ce formulaire des informations qui sont
@@ -125,7 +125,6 @@
           + Bas-Rhin
           + Haut-Rhin
 
-     * Coupe du monde de football
      * Toute l'actualité sportive
           + Résultats et classements
           + Matchs en direct
@@ -254,7 +253,6 @@
           + Haut-Rhin
 
    Je choisis mon �dition favorite
-     * Coupe du monde de football
      * Toute l'actualité sportive
           + Résultats et classements
           + Matchs en direct
@@ -333,7 +331,7 @@
 
    Strasbourg
 
-   mer. 23/11/2022
+   lun. 09/01/2023
    Lire le journal
      * Vidéos
      * Podcasts
@@ -343,7 +341,7 @@
      * Jeux
      * Boutique
      * LeCLUB
-     * Séjour en montagne
+     * Mon Séjour en Montagne
 
    Icone de l'application mobile
 
@@ -424,12 +422,12 @@ bien"
    fast-food s‘en sortent plutôt bien, avec des pertes deux fois
    inférieures à celles des établissements traditionnels. Une exemption
    qui s’explique notamment par l’augmentation de la vente à emporter ou
-   la livraison, pour lesquelles ces chaînes de restauration étaient déj�
+   la livraison, pour lesquelles ces chaînes de restauration étaient déjà
    préparées, contrairement aux restaurants plus classiques", note
    l’étude.
 
    En un an, Paris a toutefois perdu près de 10 % de ses enseignes de
-   fast-food (336 contre 373 en 2020). L‘heure est également au reflux �
+   fast-food (336 contre 373 en 2020). L‘heure est également au reflux à
    Lyon (68 enseignes contre 77), Marseille (68 contre 70), Toulouse (60
    au lieu de 62) et Bordeaux (51 au lieu de 54).
 

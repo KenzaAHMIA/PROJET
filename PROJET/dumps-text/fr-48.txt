@@ -4,6 +4,7 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
 
    Retour à l’accueil
+     * Journal
      *
      *
      *
@@ -63,9 +64,10 @@
 
    Dans l’actu
      * Guerre en Ukraine
-     * Coupe du monde 2022
-     * Inflation
-     * Sorties ciné
+     * Emeutes au Brésil
+     * Crise énergétique
+     * Noël le Graët
+     * Réforme des retraites
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -229,12 +231,12 @@ McDonald's
      * Sportune
 
    Codes promo
-     * Codes promo
-     * Code promo AliExpress
-     * Code promo Carrefour
-     * Code promo Dell
-     * Code promo Vistaprint
-     * Code promo Black Friday
+     * Code Promo
+     * Code Promo Samsung
+     * Code Promo Dell
+     * Code Promo ALL - Accor Live Limitless
+     * Code Promo Adidas
+     * Code Promo SNCF
 
    20 Minutes
      * Recrutement
@@ -278,6 +280,7 @@ McDonald's
      * CGU
      * Protection des données personnelles
      * Gestion des cookies
+     * Supprimer les cookies publicitaires éditeur
      * Nous contacter
 
    Choix de consentement © Copyright 20 Minutes - La fréquentation de
