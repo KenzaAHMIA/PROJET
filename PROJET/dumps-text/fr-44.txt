@@ -5,10 +5,14 @@
    Eighties
 
 <<<<<<< HEAD
+   Eighties.fr, le site qui baguenaude dans les paturages !
+=======
+<<<<<<< HEAD
    Eighties.fr, le site qui fait encore développer ses photos
 =======
    Eighties.fr, le site qui mange du Tang. Sans eau.
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
 
      * ACCUEIL
      * Qui sommes nous
@@ -430,41 +434,55 @@ Voir les commentaires ! – Ajouter un commentaire !! !
 
 Sur le même thème
 
-   Chocolat Treets années 80
+   Annees 80, 80's, eighties, Bonbons des annees 80, Smarties, Nestlé,
+   Collection, images du cirque, tubes, boites, bus smarties, nostalgie,
+   souvenirs,
    Pubs et Produits quotidiens
 
-Treets et Bonitos, les M&M’s des années 70 / 80 !
+Les bonbons Smarties des Années 80 !
 
-   14 septembre 2017 Max 0
+   17 octobre 2012 Max 0
 
-   Allez zou ! Aujourd’hui on va se mettre plein de boules de chocolat
-   dans le bidon !! Si vous êtes un enfant de la même époque que la nôtre,
-   vous n’avez pas pu oublier les ancêtres de nos bons vieux M&M’s,
-   appelés Treets et Bonitos !!! Les Bonitos, […]
+   Aujourd’hui, place à la gourmandise ! Embarquez tous au pays des
+   Smarties, et plus particulièrement au sein de l’année 1985… Période où
+   ces délicieuses petites dragées remplies de chocolat nous ont offert
+   une très belle série de petites images de cirque à collectionner !
 
-   Belle des champs fromage des annees 80 1
-   Pubs et Produits quotidiens
-
-Le Fromage Belle des champs !
-
-   11 septembre 2009 Tommy 1
-
-   Entre fromage et dessert, ici, on a choisi !! ! Venez donc baguenauder
-   dans les pâturages, venez donc vous promener avec la Belle des Champs !
-   Qu’il est blanc, qu’il est crémeux cet article !
 
    […]
 
    Pubs et Produits quotidiens
 
-Mini berlingots de Nestlé : Le lait concentré sucré des 80’s !
+Crok’images et autres biscuits de l’Alsacienne !
 
-   9 juin 2017 Max 2
+   28 novembre 2011 Max 1
+   Si je vous dis : “Chamonix Orange”, “Résille d’Or”, “Palmito”, “Kango”,
+   ou encore “Crok’images”… A quoi cela vous fait-il penser ?? Hé oui !
+   Bravo ! Il s’agit de délicieux biscuits de marque « L’Alsacienne » que
+   nous avons dévorés durant notre enfance !! Aujourd’hui, je vous propose
+   un petit article rempli de gourmandise grâce à un voyage aux pays des
+   biscuits de «L’Alsacienne», marque disparue depuis une quinzaine
+   d’années, mais encore bel et bien présente dans nos souvenirs !
 
-   Vous êtes joufflu, potelé, heureux de vivre ? Les enfants, si vous vous
-   reconnaissez dans cette description, c’est que vous avez eu l’immense
-   bonheur d’avoir dégusté quelques tubes de lait concentré étant petits
-   et surtout des mini berlingots !!   Faut bien admettre que c’est super
+   […]
+
+   années, annees, 80, 80's, eighties, 70's, 70, unimel, vandamme, LU,
+   prosper, ours, le, roi, du, pain, d'épices, miel, youplaboum, vandame,
+   van damme, nostalgie, mascotte, trentenaires, dispaus, mascottes,
+   souvenirs,
+   Pubs et Produits quotidiens
+
+Prosper, le Roi du pain d’épices des 80’s ! (Ours Vandamme)
+
+   23 novembre 2009 Max 2
+
+   En 1977, la marque “Unimel-Vandamme” décide de créer une mascotte afin
+   de promouvoir ses pains d’épices… C’est alors que nous assisterons à
+   l’incroyable success-story de Prosper, sympathique ours grassouillet en
+   brassière jaune ! La “Prospermania” occupera toute la décennie !
+   Flashback sur ce mémorable héros, Roi inconstestable du pain d’épices
+   des années 80 !
+
    […]
 
 <<<<<<< HEAD

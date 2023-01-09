@@ -23,10 +23,14 @@ McDonald's et Uber Etats plebiscitées parmi les enseignes préférées des
 Français
 
 <<<<<<< HEAD
+   14 Mai 2021 - 4635 vue(s)
+=======
+<<<<<<< HEAD
    14 Mai 2021 - 4574 vue(s)
 =======
    14 Mai 2021 - 4631 vue(s)
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
    Twitter Facebook LinkedIn Email
    Ey-Parthenon vient de publier les résultats de son enquête annuelle sur
    les enseignes préférées des Français. Signes des temps, après des mois

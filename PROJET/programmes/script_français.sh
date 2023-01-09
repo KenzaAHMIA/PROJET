@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-
+# Ce script bash prend en arguement un fichier .txt et le nom d'un tableau html, qu'il génère en sortie
+# le fichier txt est une liste de 5- URLS sur Fast ou Street Food
+# Vérifie l'encodage, et crée/ extrait les informations souhaités : dump, nombre d'occurence du motif, contexte
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
@@ -23,14 +25,14 @@ echo "<h2>Tableau français :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table aligne=\"center\"border=\"1px\"bordercolor=#ff964f>" >> $fichier_tableau
 echo "<tr><th>ligne</th>
-	<th>code</th>
-	<th>encodage</th>
+	<th>Code</th>
+	<th>Encodage</th>
 	<th>URL</th>
 	<th>Dumps</th>
 	<th>Aspirations</th>
-	<th>occurences</th>
+	<th>Occurences</th>
 	<th>Contexte</th>
-	<th>concordances</th></tr>" >> $fichier_tableau
+	<th>Concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
@@ -90,11 +92,6 @@ while read -r URL; do
 	contexte=$(grep -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
 	echo "$contexte"
 	
-	## iTrameur 
-	
-	
-	
-
 	echo "<tr><td>$lineno</td>
 	<td>$code</td>
 	<td>$charset</td>

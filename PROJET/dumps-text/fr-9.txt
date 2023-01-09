@@ -174,24 +174,31 @@ villes où les fast-foods sont les plus nombreux.
        Doubs : les fast-foods ont de plus en plus de mal à recruter
        Entreprises et marchés
      *
+<<<<<<< HEAD
+   Les régions où l’on se drogue le plus en France
+       Les régions où l’on se drogue le plus en France
+       Entreprises et marchés
+     *
+   Investissement Pinel : ces villes où l’on trouve (encore) des
+       deux-pièces à acheter
+       Investissement Pinel : ces villes où l’on trouve (encore) des
+       deux-pièces à acheter
+=======
    Immobilier : ces villes franciliennes où l’on trouve encore des
        logements neufs à vendre
        Immobilier : ces villes franciliennes où l’on trouve encore des
        logements neufs à vendre
+>>>>>>> refs/remotes/origin/main
        Immobilier
      *
-   Les régions où l’on se drogue le plus en France
-       Les régions où l’on se drogue le plus en France
-       Entreprises et marchés
+   Les 25 départements français où l'on meurt le plus
+       Les 25 départements français où l'on meurt le plus
+       Economie et politique
      *
    Les villes où l'on paie le plus.... et le moins l'impôt sur le revenu
        Les villes où l'on paie le plus.... et le moins l'impôt sur le
        revenu
        Votre argent
-     *
-   Les 25 départements français où l'on meurt le plus
-       Les 25 départements français où l'on meurt le plus
-       Economie et politique
        Publicité
      *
    Colocation : les villes où les candidats ont le plus de mal à trouver
@@ -200,6 +207,8 @@ villes où les fast-foods sont les plus nombreux.
        trouver un logement
        Immobilier
      *
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
    Les 10 villes d’Europe où trouver le plus facilement un emploi
        Les 10 villes d’Europe où trouver le plus facilement un emploi
@@ -212,6 +221,7 @@ villes où les fast-foods sont les plus nombreux.
        Conso
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      *
+>>>>>>> refs/remotes/origin/main
    Les fast-foods étrangers lui mangent dans la main
        Les fast-foods étrangers lui mangent dans la main
        Entreprises et marchés
@@ -220,6 +230,14 @@ villes où les fast-foods sont les plus nombreux.
        Sodebo : le triomphe du fast-food à la française
        Entreprises et marchés
      *
+<<<<<<< HEAD
+   Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira son
+       premier restaurant à Paris
+       Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira
+       son premier restaurant à Paris
+       Conso
+     *
+=======
 <<<<<<< HEAD
    Angers, désignée comme la ville où l'on vit le mieux en France en 2022
        Angers, désignée comme la ville où l'on vit le mieux en France en
@@ -232,6 +250,7 @@ villes où les fast-foods sont les plus nombreux.
        vous aurez du mal
        Immobilier
 =======
+>>>>>>> refs/remotes/origin/main
    Après le "food" McDo soigne le "fast"
        Après le "food" McDo soigne le "fast"
        Entreprises et marchés

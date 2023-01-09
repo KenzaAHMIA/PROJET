@@ -256,6 +256,12 @@ AUSSI SUR NEON
        d’autres, elle est à 8. Puisque c’est...
        BOIRE & MANGER
        28.05.2015
+     * Quel goût a la chair humaine ?
+       Quel goût a la chair humaine ?
+       Dans notre n° 59 (octobre), notre journaliste s’est penché sur le
+       cannibalisme. Il a discuté avec des hommes...
+       BOIRE & MANGER
+       26.09.2017
      * #SpotifyWrapped2020 : merci pour le partages de vos goûts musicaux,
        au moins, on a ri
        #SpotifyWrapped2020 : merci pour le partages de vos goûts musicaux,
@@ -264,12 +270,6 @@ AUSSI SUR NEON
        l’année 2020.
        CULTURE & DIVERTISSEMENT
        03.12.2020
-     * Quel goût a la chair humaine ?
-       Quel goût a la chair humaine ?
-       Dans notre n° 59 (octobre), notre journaliste s’est penché sur le
-       cannibalisme. Il a discuté avec des hommes...
-       BOIRE & MANGER
-       26.09.2017
        Publicité
      * Junk food, journées en pyjama, sessions binge-watching : êtes-vous
        touché.e par la “tendance lutin” ?
@@ -299,6 +299,12 @@ AUSSI SUR NEON
        Tous à Perpignan !
        BOIRE & MANGER
        14.10.2021
+     * WTF : Junk Face
+       WTF : Junk Face
+       Dans sa série « Wotsit all about », l’artiste britannique James
+       Ostrer a recouvert des corps et des visages...
+       WTF & BONNES NOUVELLES
+       11.09.2015
      * “C’était effrayant” : Paris Hilton se livre sur les viols et
        agressions sexuelles qu’elle a subis en pension
        “C’était effrayant” : Paris Hilton se livre sur les viols et
@@ -306,20 +312,19 @@ AUSSI SUR NEON
        Dans des centres dits "thérapeutiques"
        SOCIÉTÉ ET POLITIQUE
        13.10.2022
-     * WTF : Junk Face
-       WTF : Junk Face
-       Dans sa série « Wotsit all about », l’artiste britannique James
-       Ostrer a recouvert des corps et des visages...
-       WTF & BONNES NOUVELLES
-       11.09.2015
        Publicité
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
      * Alcool sans alcool : on a goûté (et parfois, on a même un peu aimé)
        Alcool sans alcool : on a goûté (et parfois, on a même un peu aimé)
        Un petit blanc sans mal de crâne ou une bière à 8 mois de grossesse
        ? C’est possible avec « l’alcool sans...
        BOIRE & MANGER
        20.10.2017
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
      * 10 bonnes raisons d'aller à Paris
@@ -328,6 +333,7 @@ AUSSI SUR NEON
        dans les allées des jardins Albert-Kahn…...
        SOCIÉTÉ ET POLITIQUE
        07.07.2015
+>>>>>>> refs/remotes/origin/main
      * Food VS Porn : le match
        Food VS Porn : le match
        Excitation, plaisir, satiété… La nourriture et le sexe ont de

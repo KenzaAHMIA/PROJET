@@ -340,6 +340,9 @@ Trouver une franchise
 Les franchises qui recrutent dans le même secteur
 
 <<<<<<< HEAD
+GROUPE CHEVALLIER
+=======
+<<<<<<< HEAD
 MY LITTLE WARUNG
 
    Les restaurants beach food de l’Asie du sud-est
@@ -350,15 +353,52 @@ MY LITTLE WARUNG
    20
 =======
 SANTOSHA
+>>>>>>> refs/remotes/origin/main
 
-   Première cantine street food d'Asie du Sud-Est
-   Des restaurants ouverts 7 jours sur 7, sur place, à emporter et en
-   livraison ! Une cuisine saine, fraîche et équilibrée s’adaptant à tous
-   les régimes alimentaires. Une identité forte avec un code couleur
-   composé de jaune et de vert, des tables [...]
-   19
+   Un savoir-faire artisanal
+   Boulangerie, pâtisserie, traiteur
+   32
    Implantations
-   75 000 €
+   150 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+MEXI KEBAB
+
+   Fast-food, restaurant, kebab, tacos, burger, restauration, nouveau
+   concept, food, halal.
+   MEXI KEBAB propose de la restauration rapide type Fast-Food moderne
+   principalement à base de Kebab, tacos et de Burger.
+   7
+   Implantations
+   90 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+MURRAY’S
+
+   Murray’s développe enfin en France son fameux concept de recettes de
+   pâtes Mac And Cheese !
+   1er réseau de restauration rapide à base de pâtes au fromage : Mac And
+   Cheese. MURRAY’S : LES PATES … EN MIEUX ! Un process inédit en France
+   qui permet de préparer des cups de pâtes à la minute avec une fraicheur
+   étonnante et savouveuse
+   64
+   Implantations
+   70 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+POKE THAI
+
+   Première enseigne de pokés d’influence thaïlandaise, fonctionnant en
+   réseau en France.
+   POKE THAI vous fait voyager depuis Hawaï jusqu’à la Thaïlande afin de
+   découvrir son concept de pokés bowls d’influence thaïlandaise. La
+   marque réinvente le poké bowl, le twiste, le booste en saveurs !
+   1
+   Implantation
+   80 000 €
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
@@ -374,6 +414,8 @@ NBK NAANERIE
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+<<<<<<< HEAD
+=======
 CLASS'CROUTE
 
    Restauration rapide, livraison aux salariés et aux entreprises.
@@ -423,6 +465,7 @@ LA MIE DE PAIN
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+>>>>>>> refs/remotes/origin/main
 COTE SUSHI
 
    Nikkei from Peru
@@ -435,17 +478,44 @@ COTE SUSHI
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
-LE CARIBEEN
+PIZZA HUT
 
-   Bokit & Street Food
-   Restauration rapide inspirée de la street-food antillaise (bokit,
-   burgers, salades) à base de viande halal.
+   Pizza, Livraison, Vente à emporter, Restauration rapide
+   Marque incontournable du secteur de la restauration rapide et plus
+   précisément de la vente de pizzas à emporter et de livraison de pizzas
+   à domicile
+   131
+   Implantations
+   80 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+CHICKEN TIME
+
+   Passionné de Street food et snacking, ouvrez votre fast food et devenez
+   la référence du poulet frit
+   Ouvrez votre fastfood Chicken Time et lancez-vous dans le snacking avec
+   un concept à l'univers Street Art, dédié au poulet frit sous toutes ses
+   formes.
+   4
+   Implantations
+   60 000 €
+   Apport personnel
+   (BUTTON) Demander une documentation gratuite
+
+GRUBERS BURGERS
+
+   The secret is inside
+   Grubers est un concept fast-casual créé par Riccardo Giraudi.
    3
    Implantations
    60 000 €
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 
+<<<<<<< HEAD
+TUTTI PIZZA
+=======
 <<<<<<< HEAD
 BELGA QUEEN
 
@@ -513,17 +583,15 @@ O'TACOS
 =======
 COMPOSE - CANTINE SUR MESURE
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
 
-   Restauration rapide sur mesure qui propose un large choix de plats
-   chauds ou froids avec des produits sélectionnés et préparés sur place
-   par nos cuisiniers quotidiennement à déguster sur place, à commander en
-   ligne en click&collect ou en livraison.
-   Réseau de restauration rapide sur mesure, raffiné, convivial, urbain.
-   Du petit-déjeuner au dîner, COMPOSE offre un large choix gourmand qui
-   évolue au gré des saisons et se décline en plats chauds, froids,
-   salades, soupes, pizzas, tartes [...]
-   15
+   30 ans d’expérience
+   Un partenariat de choix !
+   75
    Implantations
+<<<<<<< HEAD
+   40 000 €
+=======
    80 000 €
    Apport personnel
    (BUTTON) Demander une documentation gratuite
@@ -560,6 +628,7 @@ BOULANGERIE SOPHIE LEBREUILLY
    Implantations
    120 000 €
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
    Apport personnel
    (BUTTON) Demander une documentation gratuite
 

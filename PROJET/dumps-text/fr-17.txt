@@ -177,6 +177,10 @@ Mon actualité personnalisable
 
    Sélectionné pour vous
 <<<<<<< HEAD
+
+Retrouvez les tribunes d'experts de l'année 2022
+=======
+<<<<<<< HEAD
    Des magasins prêts au nouveau label national anti-gaspi, sous expertise
    de Phenix
 
@@ -188,16 +192,20 @@ Cora et E. Leclerc arrêtent la diffusion de prospectus
 En Belgique, Mestdagh passe sous pavillon Intermarché ce 3 janvier 2022
 =======
    [Experts 2023] Yves Marin : 2023, une année exigeante
+>>>>>>> refs/remotes/origin/main
 
 [Experts 2023] Yves Marin : 2023, une année exigeante
 
 Alexandre Guérin (Ipsos) : "Chaque marque a une stratégie à adopter face à
 l'inflation"
 
+<<<<<<< HEAD
+=======
 Pertes et gaspillage : l’opportunité de développer une économie souhaitable
 pour l’agroalimentaire [Tribune]
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
+>>>>>>> refs/remotes/origin/main
    Partager
      *
      *

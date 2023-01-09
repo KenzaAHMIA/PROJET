@@ -269,6 +269,8 @@ Pomme de Pain
    France
    Tendances
    1
+<<<<<<< HEAD
+=======
    30 spécialités alsaciennes à goûter absolument
    2
 <<<<<<< HEAD
@@ -299,7 +301,12 @@ Pomme de Pain
 =======
    Classement des 100+ plus grands chefs cuisiniers français
    3
+>>>>>>> refs/remotes/origin/main
    Top 100+ des meilleures chaînes de restaurants au monde
+   2
+   Classement des 43 meilleurs Burgers de chez McDo
+   3
+   Classement des 16 meilleurs sandwichs Subway
    Votez aussi pour
    Top 100+ des meilleures chaînes de restaurants au monde
    3 247 votes
@@ -320,8 +327,12 @@ Pomme de Pain
    Les 35 desserts préférés des Français
    4 233 votes
    Les 50+ meilleurs fromages de France, d'après les français
+<<<<<<< HEAD
+   10 895 votes
+=======
    10 894 votes
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
    Plus de tops
 
    Toplitic

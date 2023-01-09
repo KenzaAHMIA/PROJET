@@ -92,8 +92,8 @@
        décembre 2022.
        Chronique
        Article réservé aux abonnés
-       Disney : « Jake Sully est en fait l’avatar de James Cameron, le
-       réalisateur le plus rentable de toute l’histoire du cinéma »
+       « Jake Sully est en fait l’avatar de James Cameron, le réalisateur
+       le plus rentable de toute l’histoire du cinéma »
        Philippe Escande
        Tribune
        Article réservé aux abonnés
@@ -114,13 +114,22 @@
        Enquête
        Comment des appareils de surveillance de Frontex sont utilisés par
        les garde-côtes libyens pour intercepter des migrants
+       Des partisans du président sortant, Jair Bolsonaro, ont brisé les
+       vitres du palais présidentiel pour s’y introduire, dimanche 8
+       janvier. Des partisans du président sortant, Jair Bolsonaro, ont
+       brisé les vitres du palais présidentiel pour s’y introduire,
+       dimanche 8 janvier. International
+       Brésil : les images l’insurrection pro-Bolsonaro
        International
        Pourquoi la livraison de chars légers par la France à
        l’Ukraine peut changer la donne
+<<<<<<< HEAD
+=======
        International
        Révolte en Iran : sept minutes pour comprendre les causes profondes
        de la colère
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
        L’année 2022 a été marqué par de nombreux évènements : guerre en
        Ukraine, élection présidentielle, Coupe du monde au Qatar...
        L’année 2022 a été marqué par de nombreux évènements : guerre en
@@ -177,13 +186,10 @@
        directrice générale de l’association France Parkinson
 =======
        Menaces sur la démocratie brésilienne
-       Une femme prie à l’intérieur de l’église Saint-Sulpice à Paris, le
-       4 octobre 2021. Une femme prie à l’intérieur de l’église
-       Saint-Sulpice à Paris, le 4 octobre 2021.
        Entretien
        Article réservé aux abonnés
-       Andrea Riccardi : « Est-ce la fin de l’Eglise ou le début d’une
-       nouvelle manière de vivre le christianisme ? »
+       « La charge contre les études sur le genre et le racisme menace la
+       liberté académique »
        Le ministre de l’intérieur, Gérald Darmanin, à l’Assemblée
        nationale, à Paris, le 6 décembre 2022. Le ministre de l’intérieur,
        Gérald Darmanin, à l’Assemblée nationale, à Paris, le 6 décembre
@@ -193,14 +199,26 @@
        « Contre les discours d’exclusion, il faut écouter les classes
        moyennes issues de l’immigration »
        Philippe Bernard
+       Des Ethiopiens marchent pour rejoindre le lieu où aura lieu une
+       opération de distribution alimentaire, dans la région du Tigré, le
+       8 mai 2021. Des Ethiopiens marchent pour rejoindre le lieu où aura
+       lieu une opération de distribution alimentaire, dans la région du
+       Tigré, le 8 mai 2021.
        Tribune
        Article réservé aux abonnés
+<<<<<<< HEAD
+       Afrique de l’Est : « La région est de nouveau au bord de la
+       catastrophe humanitaire »
+       David Miliband
+       Humanitaire
+=======
        Crise climatique : « A présent qu’un accord a été trouvé sur la
        création d’un fonds à la COP27, il faut définir les modalités de
        paiement »
        Craig Cogut
        PDG de Pegasus Capital Advisors
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      * Culture
           + Culture
           + Cinéma
@@ -235,8 +253,8 @@
        décembre 2022.
        Chronique
        Article réservé aux abonnés
-       Disney : « Jake Sully est en fait l’avatar de James Cameron, le
-       réalisateur le plus rentable de toute l’histoire du cinéma »
+       « Jake Sully est en fait l’avatar de James Cameron, le réalisateur
+       le plus rentable de toute l’histoire du cinéma »
        Philippe Escande
        Russell Banks à Paris, le 12 octobre 2016. Russell Banks à Paris,
        le 12 octobre 2016. Disparitions
@@ -246,14 +264,17 @@
        Article réservé aux abonnés
        « Reservation Dogs », saison 2, sur Disney + : le surnaturel et le
        burlesque cohabitent sur la réserve
-       « Black Is Different » (1994), de Niki de Saint Phalle,
-       sérigraphie. « Black Is Different » (1994), de Niki de Saint
-       Phalle, sérigraphie.
-       Culture
+       Philippe Bélaval, à Paris, le 10 mai 2021. Philippe Bélaval, à
+       Paris, le 10 mai 2021. Culture
        Article réservé aux abonnés
+<<<<<<< HEAD
+       « Emmanuel et Brigitte Macron l’adorent ! » : Philippe Bélaval
+       nommé conseiller culture de l’Elysée
+=======
        Les Abattoirs de Toulouse brossent un portrait de Niki de Saint
        Phalle en guerrière indignée
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      * Le Goût du monde
           + Le Goût du monde
           + Le Monde passe à table

@@ -102,14 +102,17 @@
           + baleine
           + plouguerneau
           + dauphin
-          + Concarneau
           + obseques
-          + crozon
+          + Concarneau
           + naissances
+          + crozon
           + Hahahard
-          + Théâtre du croisty
           + accident
+<<<<<<< HEAD
+          + Théâtre du croisty
+=======
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
      *
           + Toute l'actualité
           + Le T+

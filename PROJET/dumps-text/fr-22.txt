@@ -167,6 +167,16 @@ Burger King
    Le contenu chaud, tout juste sorti de notre rédaction
 
 <<<<<<< HEAD
+10 prochaines déclarations de Le Graet
+
+10 héros sexy de notre enfance
+
+20+ tweets drôles de la semaine #472
+
++20 objets pour arrêter de fumer
+
+=======
+<<<<<<< HEAD
 8 erreurs à ne pas faire avec ses chaussures
 
 10 théories cheloues sur les films Disney
@@ -187,6 +197,7 @@ Burger King
 
 8 histoires de cannibalisme au Moyen Age
 =======
+>>>>>>> refs/remotes/origin/main
 11 films si les héros avait dit non
 
 9 façons de voir le monde par les Américains
@@ -199,6 +210,8 @@ Un support de papier toilette en forme de mouton, bêêê
 
 10 champions de la semaine #412
 
+<<<<<<< HEAD
+=======
 Une bouillotte pénis qui sourit, chaleur et raffinement
 
 10 trucs flippants de l'évolution
@@ -209,6 +222,7 @@ Une ceinture pour attacher ton repas en voiture, pour éviter d'en foutre
 partout
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
 
+>>>>>>> refs/remotes/origin/main
   Les articles les plus lus
 
    Ceux qu'il ne faut surtout pas rater

@@ -39,6 +39,8 @@
 --
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
        Immobilier
      *
    Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira son
@@ -48,9 +50,15 @@
        Conso
 --
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
        Entreprises et marchés
      *
    Sodebo : le triomphe du fast-food à la française
        Sodebo : le triomphe du fast-food à la française
        Entreprises et marchés
      *
+   Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira son
+       premier restaurant à Paris
+       Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira
+       son premier restaurant à Paris
+       Conso

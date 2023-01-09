@@ -149,6 +149,13 @@ Mots proches
      __________________________________________________________________
 
 <<<<<<< HEAD
+   Quel est le participe passé du verbe « repaître » ?
+     *
+          + (*) repaissé
+          + ( ) repu
+          + ( ) repait
+=======
+<<<<<<< HEAD
    Pour les mots « sandwich » ou « match », quel pluriel faut-il utiliser
    de préférence en français ?
      *
@@ -162,6 +169,7 @@ Mots proches
           + ( ) chenal
           + ( ) festival
 >>>>>>> ca9d49d1e40ca9b8afbcf814f46af5551d5ed22f
+>>>>>>> refs/remotes/origin/main
 
    Applications mobiles Index Mentions légales et crédits CGU Charte de
    confidentialité Cookies Contact © Larousse
