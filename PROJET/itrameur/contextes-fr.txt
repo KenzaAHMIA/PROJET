@@ -1,12 +1,4 @@
-<lang="fr">
-<page="fr-10">
-<text>
 
-</text>
-</page> §
-<page="fr-11">
-<text>
-     Actualités
 
      Bilan du marché de la restauration rapide en France
 
@@ -25,9 +17,6 @@ La restauration rapide en chiffres et les nouvelles tendances
    milliards d’euros en 2018 contre 7,3 milliards d’euros en 2008). La
    restauration rapide plaît parce qu’elle est bien sûr rapide, mais aussi
    accessible, peu coûteuse et nomade.
-
---
-
    En 2018, on a tout de même recensé 41 millions de visites pour le seul
    secteur de la restauration rapide avec service à table ; la progression
    est de 1,2 % par rapport à 2017.
@@ -35,19 +24,14 @@ La restauration rapide en chiffres et les nouvelles tendances
    hexagonale, le marché de la restauration rapide en France en 2019 est
    représenté par environ 41 000 établissements dans toute la France, dont
    16 000 font partie d'une chaîne d’envergure nationale ou
---
-
    Si les Français sont globalement des aficionados de l’éternel sandwich,
    l’avantage de la restauration rapide est qu’elle se décline en un
    nombre quasi-incalculable de mets tous plus délicieux les uns que les
-   autres.
---
-   local ou/et bio.
+   autres..
 
    Ainsi, la restauration rapide a aujourd’hui pris en compte la volonté
    de « mieux manger ». Elle se veut donc plus saine, plus écologique avec
    des formules proposant même des plats bio, vegan, voire sans gluten ou
---
    établissements.
 
    Le succès du segment de la restauration rapide ne s’est pas démenti ces
@@ -55,12 +39,12 @@ La restauration rapide en chiffres et les nouvelles tendances
    des restaurants implantés en France. Il s’agit de replacer la
    restauration rapide dans le contexte des chiffres de la restauration en
    2019 si possible ou de la dernière année connue à défaut.
-
    Ainsi en 2018, plus de 30 % des Français déclaraient manger au
    restaurant entre 2 et 10 fois par an et environ 20 % d’entre eux
    affirmaient aller régulièrement au fast-food.
    Ce type d'alimentation séduit davantage la jeunesse et les
    établissements de restauration rapide sont majoritairement fréquentés
+
    par les 18-24 ans alors que parmi les plus de 50 ans, il n’y a que 50 %
    d’entre eux qui s'y rendent régulièrement.
 --
@@ -90,10 +74,13 @@ Quelles sont les raisons du succès de la restauration rapide ?
    restauration rapide doivent savoir les relever et évoluer en fonction
    des tendances et des demandes.
    La fidélisation de la clientèle est l’un d’entre eux et les entreprises
-</text>
-</page> §
-<page="fr-12">
-<text>
+HEAD
+Un chiffre d'affaires annuel estimé à 19 milliards d’euros
+
+   D'après l'étude de NPD, la branche “fast-food” représente, à elle seule
+   63% de part de marché de la restauration en France.
+   Avec 19 milliards d’euros de chiffre d’affaires annuel enregistré en
+=======
 Les chiffres du marché de la restauration rapide
 
    marché restauration rapide chiffres
@@ -180,18 +167,18 @@ En 1972, le premier restaurant rapide voit le jour en France
    Venu tout droit des USA, le premier fast-food de France, un McDonalds,
    ouvre ses portes en région parisienne en 1972.
    Selon Acrelec, la restauration rapide en France a démarré les 20
+ 
    premières années par une majorité de burgers et de pizzas.
    Depuis quelque temps, nous assistons à l'émergence d’une plus grande
-</text>
-</page> §
-<page="fr-13">
-<text>
+   [9k=] étude de marché du fast food
+=======
    étude de marché du fast food étude de marché du fast food
+  
 
    Ouvrir fast-food
 
    Marché
---
+
    Alors qu’elle avait été sévèrement touchée par la crise sanitaire en
    2020 (son chiffre d’affaires en valeur avait reculé de 21,5%), la
    restauration rapide a retrouvé son niveau d’avant-crise en 2021.
@@ -200,39 +187,24 @@ En 1972, le premier restaurant rapide voit le jour en France
 --
    De nombreux réseaux sous enseignes ont investi ces concepts afin de se
    démarquer dans un contexte concurrentiel âpre.
-     * le fast casual : cette restauration rapide haut de gamme répond à
+       le fast casual : cette restauration rapide haut de gamme répond à
        une préoccupation grandissante des consommateurs pour l'équilibre
        alimentaire et la qualité des produits consommés. Avec un ticket
 --
    22 Septembre 2022
    (BUTTON)
    Les points de vigilance des fast-food
+  
 
    Les points de vigilance des fast-food
    Restauration / Bar
    27 Décembre 2022
-   (BUTTON)
-   L'activité des fast-food
-
-   L'activité des fast-food
-   Restauration / Bar
-   27 Décembre 2022
-   (BUTTON)
-   La réglementation des fast-food
-
-   La réglementation des fast-food
-   Restauration / Bar
-   27 Décembre 2022
-</text>
-</page> §
-<page="fr-14">
-<text>
-     * économie
 
 Les chiffres de la croissance phénoménale du fast-food en France
 
-     *
+      
 --
+ 
    Elisabeth Assayag, édité par Grégoire Duhourcau 14h50, le 28 août 2018,
    modifié à 15h45, le 28 août 2018
    La restauration rapide a pris le pas sur la restauration à table en
@@ -240,12 +212,13 @@ Les chiffres de la croissance phénoménale du fast-food en France
    et le développement d'entreprises de livraison 2.0.
    LA FRANCE BOUGE
 
+  
    Un chiffre d'affaires de 54 milliards d'euros. La restauration rapide a
    le vent en poupe en France. D'après une étude menée par le cabinet Gira
    Conseil, le fast-food en France représente un chiffre d'affaires de 54
    milliards d'euros, soit plus de la moitié du chiffre d'affaires total
    de la restauration qui est de 88 milliards d'euros. La restauration
---
+   
    le révèle une étude d'Edenred (Ticket Restaurant), les Français
    consacrent en moyenne 31 minutes à leur pause déjeuner, ce qui permet à
    la restauration rapide de tirer son épingle du jeu. Autre élément à
@@ -265,6 +238,7 @@ Les chiffres de la croissance phénoménale du fast-food en France
    La restauration rapide haut de gamme va continuer à s'implanter. Les
    gros acteurs du marché se penchent d'ailleurs sur la question.
    McDonald's par exemple, a lancé des bars à salades ou encore des
+  
 </text>
 </page> §
 <page="fr-15">
@@ -281,6 +255,7 @@ les grandes villes françaises?
    l'endroit où on en trouve le plus, proportionnellement à son nombre
    d'habitants.
 --
+ 
    déclarait:
 
      "La particularité des aliments servis en restauration rapide est
@@ -288,6 +263,7 @@ les grandes villes françaises?
      et les vitamines, mais riche en gras, en sel, en sucre et autres
 --
    Si on rapporte le nombre de fast-foods à la population locale, Bordeaux
+  
    se démarque négativement du reste de la France. Avec 21 établissements
    de restauration rapide pour 100.000 habitants, la préfecture de Gironde
    figure devant Limoges (19 fast-food pour 100.000 hab.), Metz (18),
@@ -296,11 +272,13 @@ les grandes villes françaises?
    En queue de peloton, on trouve Le Havre (4 fast-food pour 100.000 hab.)
    et Saint-Denis (La Réunion, 4 établissements pour 100.000 hab.)
 
+ 
 Comparez le nombre de fast-foods par ville
 
    Pour comparer le nombre de chaînes de restauration rapide entre les
    villes, consultez les tableaux ci-dessous, divisés en trois catégories:
    burgers, boulangeries et cafés, sandwicheries et pizzerias. Cliquez sur
+  
 </text>
 </page> §
 <page="fr-16">
@@ -312,19 +290,22 @@ le plus jeune âge
 
 --
 
+ 
    Image d'illustration - REMY GABALDA / AFP
    Selon un rapport de l'Anses, la consommation de restauration rapide a
    augmenté en France ces 10 dernières années. L'Agence appelle à la
    contrer en facilitant l'accès à des cantines, scolaires ou
 --
 
+  
    En 2005, plus d'un tiers des adultes actifs et des étudiants
    affirmaient ne jamais manger de fast-food. 10 ans plus tard, cette part
    d'irréductibles ne représente plus qu'une personne sur 10. Dans le même
    temps, la proportion d'amateurs de restauration rapide occasionnels (1
+ 
    à 3 fois par mois) et réguliers (au moins 4 repas par mois) est, elle,
    devenue majoritaire, passant de 28% à 55%.
---
+    
 
 Les actifs, les étudiants et les enfants vont de plus en plus régulièrement
 dans des fast-food
@@ -343,7 +324,7 @@ dans des fast-food
    d'amateur de fast-food semble se dessiner. Selon l'Anses, il s'agit
    souvent d'hommes, âgés de 18 à 44 ans, vivant dans des grandes villes
    de plus 100.000 habitants et ayant un niveau d'étude égal ou supérieur
---
+   
 
      L'Agence affirme d'ailleurs que, chez les adolescents, la
      restauration rapide "semble constituer un concurrent direct aux
@@ -364,10 +345,13 @@ La restauration rapide pas seule fautive
    consommations et apports nutritionnels des individus sont issus de
    l’alimentation à domicile". La restauration rapide est donc loin d'être
    l'unique responsable de la qualité de l'alimentation des Français.
+
+  
 </text>
 </page> §
 <page="fr-17">
 <text>
+ 
    partout - ou peut-être que si ? Afin d'étudier ce phénomène de plus
    près, HelloFresh s'est penché en février 2022 sur la part des
    restaurants et chaînes de restauration rapide dans 25 des plus grandes
@@ -387,6 +371,7 @@ La restauration rapide pas seule fautive
 --
    [placeholder.jpg]
 
+  
    Part de la restauration rapide dans l'ensemble des restaurants
 
    "Si nous considérons le pourcentage de restaurants fast-food par
@@ -396,18 +381,20 @@ La restauration rapide pas seule fautive
    souhaitent trouver ce genre de restauration ont beaucoup plus de
    chances à Cergy-Pontoise, avec un pourcentage de 18 %. Presque un
 --
+ 
    [placeholder.jpg]
 
    Chaînes de restauration rapide - quelle est leur part?
 
    S’il n’est plus nécessaire de les citer, les célèbres chaînes de
 --
+  
    appartiennent aux grandes chaînes. À Amiens également, environ un
    restaurant fast food sur trois fait partie d'une grande chaîne. À
    Saint-Quentin-en-Yvelines et au Mans, près d'un fast-food sur deux
    appartient à une grande chaîne. "À Paris, Aix-en-Provence et Grenoble,
    les fast-foods individuels semblent être nettement plus populaires".
---
+   
    [placeholder.jpg]
 
    Nombre de restaurants de restauration rapide appartenant à des chaînes
@@ -417,16 +404,19 @@ La restauration rapide pas seule fautive
    restauration rapide appartenant à des chaînes implantées dans chaque
    ville. Là encore, il n'est pas surprenant que les plus grandes villes
    du pays soient en tête du classement", explique HelloFresh. Paris
+  
 </text>
 </page> §
 <page="fr-18">
 <text>
+ 
 
    Mieux armées face à la pandémie que les restaurants traditionnels, les
    enseignes de restauration rapide ont résisté dans de nombreuses villes
    en 2020, et particulièrement à Bordeaux, Tours et Metz, en tête du
    classement.
 --
+  
    0,195 pour 1000 habitants.
 
    Suivent ensuite Tours (0,172 fast-food pour 1000 habitants), Metz
@@ -450,13 +440,18 @@ bien"
 --
 
    En un an, Paris a toutefois perdu près de 10 % de ses enseignes de
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+   fast-food (336 contre 373 en 2020). L‘heure est également au reflux �
+=======
    fast-food (336 contre 373 en 2020). L‘heure est également au reflux à
+  
    Lyon (68 enseignes contre 77), Marseille (68 contre 70), Toulouse (60
    au lieu de 62) et Bordeaux (51 au lieu de 54).
 </text>
 </page> §
 <page="fr-19">
 <text>
+ 
    les enseignes préférées des Français. Signes des temps, après des mois
    passés à s’adapter aux conséquences des restrictions sanitaires, la
    restauration rapide et les plateformes de livraison sont largement
@@ -469,6 +464,7 @@ bien"
    proportion a quasiment doublé en l’espace d’un an (+ 3 points) et c’est
    surtout Uber Eats qui a su en profiter, son taux de « fans » grimpant
 --
+  
    restaurants
 
 Le fast-food plébiscité, McDo en tête
@@ -481,6 +477,7 @@ Le fast-food plébiscité, McDo en tête
 </page> §
 <page="fr-1">
 <text>
+ 
    campagnes, les usines et les chantiers, l'essor de la restauration
    rapide apparaît à la suite de l'accroissement du secteur tertiaire^[5].
    La restauration rapide a commencé en Amérique, au Kansas en
@@ -507,12 +504,13 @@ Controverses[modifier | modifier le code]
    l'agroindustrie, parfois ultratransformés (associés à un risque accru
    de cancer^[14]^,^[15]^,^[16]), trop riches en lipide, sel et sucre, et
 --
-     * Super Size Me, documentaire sur la restauration rapide
+       Super Size Me, documentaire sur la restauration rapide
        (McDonald's).
-     * Fast Food Nation, livre et film sur la restauration rapide aux
+       Fast Food Nation, livre et film sur la restauration rapide aux
        États-Unis.
-     * Le Fondateur (The Founder), film biographique américain réalisé par
+       Le Fondateur (The Founder), film biographique américain réalisé par
 --
+  
     9. ↑ ^a et b Benjamin Neumann, « Un McDo effacé de l'histoire »,
        L'Expansion, 1^er mars 2010 (consulté le 19 décembre 2017)
    10. ↑ Laurent Telo, « La petite histoire du fast-food en France », Le
@@ -528,17 +526,19 @@ Controverses[modifier | modifier le code]
    20. ↑ ^a et b Tri des déchets : les fast-food français doivent revoir
        leur copie rapidement - Sciences et Avenir/AFP, 31 janvier 2018.
 
---
-     * Cuisine de rue
-     * Malbouffe
-     * Restauration rapide haut de gamme
-     * Snack (grignotage)
-     * Vente à emporter
+   
+       Cuisine de rue
+       Malbouffe
+       Restauration rapide haut de gamme
+       Snack (grignotage)
+       Vente à emporter
 --
 
    Voir aussi :
-     * Critique de la restauration rapide (en)
-     * Liste de chaînes de restaurants
+       Critique de la restauration rapide (en)
+       Liste de chaînes de restaurants
+
+  
 </text>
 </page> §
 <page="fr-20">
@@ -569,13 +569,13 @@ Controverses[modifier | modifier le code]
 </page> §
 <page="fr-21">
 <text>
-     * Actu franchises
+       Actu franchises
 
 Top 5 des enseignes de fast-food les plus puissantes
 
    Author avatar Tomas
---
-     * Tweet
+   
+       Tweet
 
    La restauration rapide est un marché florissant qui pèse plusieurs
    milliards de dollars. Et ce n'est pas près de s'arrêter. Ci-après le
@@ -597,9 +597,10 @@ Top 5 des enseignes de fast-food les plus puissantes
 --
 Cela pourrait vous intéresser
 
-     * Classement des enseignes de restauration rapide - LE BAROMÈTRE
+       Classement des enseignes de restauration rapide - LE BAROMÈTRE
        PROMISE CONSULTING INC Classement des enseignes de restauration
        rapide par Tomas
+  
 </text>
 </page> §
 <page="fr-22">
@@ -622,12 +623,12 @@ Cela pourrait vous intéresser
 </page> §
 <page="fr-24">
 <text>
-     * Suivez nous:    
+       Suivez nous:    
 
    Accueil >gt; langue française >gt; dictionnaire >gt; fast-food
    Accueil >gt; langue française >gt; dictionnaire >gt; fast-food n.m.
-     * Définitions
-     * Difficultés
+       Définitions
+       Difficultés
 --
    
 
@@ -644,7 +645,7 @@ Cela pourrait vous intéresser
 
 Difficultés de fast-food
 
-     * ORTHOGRAPHE
+       ORTHOGRAPHE
 --
 Mots proches
 
@@ -675,7 +676,11 @@ Top 13 des meilleures chaînes de fast-food en France
    Afficher plus
    Règles du top Votez pour vos chaînes de fast-food préférées
    99%
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+   Classement fiable Avec 6 567 votes, ce top est considéré comme fiable ✔
+=======
    Classement fiable Avec 6 588 votes, ce top est considéré comme fiable ✔
+  
 
 Classement des chaînes de fast-food en France ↷
 
@@ -714,8 +719,10 @@ Selon un rapport de l'Anses, la consommation de fast-food a grimpé ces dix
 dernières années. Pour contrer cette tendance, l'Agence incite à faciliter
 l'accès aux cantines, scolaires et professionnelles.
 --
+ 
    de l'Agence nationale de sécurité sanitaire de l’alimentation, de
    l’environnement et du travail (Anses) publiée le 25 février, la
+  
    restauration rapide gagne en popularité chez les enfants, adolescents
    et adultes français. La part de ceux qui affirment ne jamais manger au
    fast-food a fondu comme neige au soleil : ils représentaient un tiers
@@ -740,14 +747,14 @@ l'accès aux cantines, scolaires et professionnelles.
 
    A découvrir :
 --
-     * La liste des villes où l'on trouve le plus de fast-foods en France
-     * Une étude dénonce les menus trop caloriques des fast-foods
-     * Israël : un fast-food propose des burgers végétaux faits par des
+       La liste des villes où l'on trouve le plus de fast-foods en France
+       Une étude dénonce les menus trop caloriques des fast-foods
+       Israël : un fast-food propose des burgers végétaux faits par des
        robots
 
 --
    D'autres articles qui pourraient vous intéresser
-     *
+      
    Quelles sont les villes qui comptent le plus de fast-food par habitant
        en France ?
        Quelles sont les villes qui comptent le plus de fast-food par
@@ -755,48 +762,50 @@ l'accès aux cantines, scolaires et professionnelles.
        Entreprises et marchés
 --
        Entreprises et marchés
-     *
+      
    Sodebo : le triomphe du fast-food à la française
        Sodebo : le triomphe du fast-food à la française
        Entreprises et marchés
-     *
+      
 --
        Entreprises et marchés
-     *
+      
    Le fast-food se met enfin au régime
        Le fast-food se met enfin au régime
        Economie et politique
        Publicité
 --
        Entreprises et marchés
-     *
+      
    Comment le pionnier du fast-food californien Carl's Jr veut conquérir
        la France
        Comment le pionnier du fast-food californien Carl's Jr veut
        conquérir la France
        Entreprises et marchés
-     *
+      
+ 
    Fast-Food: on va manger quoi dans 10 ans ?
        Fast-Food: on va manger quoi dans 10 ans ?
        Conso
-     *
+      
+  
    McDonald’s contre Burger King : la guerre du fast-food
        McDonald’s contre Burger King : la guerre du fast-food
        Entreprises et marchés
-     *
+      
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+--
+       Conso
+      
+=======
+  
    Bercy fait condamner la chaine de fast-food Subway
        Exclu Capital. Bercy fait condamner la chaine de fast-food Subway
        Entreprises et marchés
-     *
+      
    Le fast-food à la carte, un concept malin signé Subway
        Le fast-food à la carte, un concept malin signé Subway
        Entreprises et marchés
-</text>
-</page> §
-<page="fr-28">
-<text>
-   (BUTTON)
-
 Le fast-food, une certaine idée de la France ?
 
    Lundi 19 novembre 2018
@@ -812,9 +821,10 @@ critique gastronomique, et le journaliste Pierre-Philippe Berson, auteur de
    Au pays de la gastronomie, le fast-food – repas sur le pouce - serait
    en train de détrôner la nappe à carreaux : de l’enseigne O'Tacos au
    camion de rue, la restauration rapide s’est faite une place dans
+ 
    l’hexagone, entre "french tacos" et burgers gastros.
    Publicité
---
+    
 
    Populaire ou raffiné, comment expliquer son succès ? Y’a-t-il une
    culture française du fast-food ?
@@ -827,20 +837,11 @@ critique gastronomique, et le journaliste Pierre-Philippe Berson, auteur de
    sociabilité où l'on peut  s'asseoir et prendre son temps?
 
 --
-     * Podcasts
-     * La Grande Table idées
-     * Le fast-food, une certaine idée de la France ?
+       Podcasts
+       La Grande Table idées
+       Le fast-food, une certaine idée de la France ?
 
    La radio
-</text>
-</page> §
-<page="fr-29">
-<text>
-
-</text>
-</page> §
-<page="fr-2">
-<text>
 Burger à 2,90 euros à Mangez et cassez-vous
 
    Ma première étape est le fast-food “Mangez et cassez-vous”, dans le 11e
@@ -859,11 +860,18 @@ Burger à 2,90 euros à Mangez et cassez-vous
 </page> §
 <page="fr-31">
 <text>
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+     __________________________________________________________________
+
+   La restauration rapide, communément appelé “fast-food” est un type de
+   restauration à un prix souvent raisonnable, avec des horaires
+   flexibles. Ces fast-foods proposent des produits dont la préparation
+=======
    Tendances - 22 avril 2021
 
 L’ascension du marché de la restauration rapide en France
 
-     * Facebook
+       Facebook
 --
    flexibles. Ces fast-foods proposent des produits dont la préparation
    est globalement automatisée, pouvant être consommés sur place ou à
@@ -876,12 +884,13 @@ L’ascension du marché de la restauration rapide en France
    une étude de Gira Conseil en 2018, la restauration rapide représentait
    un chiffre d’affaires de 54 milliards d’euros, ce qui équivaut à plus
    de la moitié du chiffre d’affaires total de la restauration, qui était
---
+    
 
 
    Retour sur l’histoire du fast-food en France
 
 
+ 
    La restauration rapide a vu le jour en France, en 1972, avec le premier
    restaurant Mcdonald’s implanté à Créteil. Puis, c’est à partir des
    années 80 que la France connaît un véritable essor des fast-foods, avec
@@ -897,10 +906,8 @@ L’ascension du marché de la restauration rapide en France
    par la Covid-19. Effectivement, la restauration rapide était déjà
    formée à la vente à emporter, au drive, ou encore à la livraison.
    D’après Bernard Boutboul, Président de Gira, ce secteur a connu un
-</text>
-</page> §
-<page="fr-32">
-<text>
+ 
+ 
    Se connecter
 
 Le marché de la restauration rapide en France
@@ -922,12 +929,13 @@ Extrait du document
 
    On distingue 7 segments de restauration rapide : les fast-foods, la
    restauration alternative, les spécialités locales, les sandwicheries,
+  
    les coffee shop, la restauration ethnique et les pizzerias. En 2008,
    les plus grosses parts de marchés se partagaient entre la restauration
    alternative (34%), les spécialités locales (24%) et les fast-food
    (20%).
 
---
+   
 
 
    Le secteur de la restauration rapide en France est très concurrentiel,
@@ -958,11 +966,8 @@ Extrait du document
    Le secteur de la restauration rapide est en pleine expansion, de
    nombreux points de vente s'ouvrent chaque jour en France. Ils
    s'adaptent à la demande des consommateurs qui veulent manger vite mais
-</text>
-</page> §
-<page="fr-33">
-<text>
-     * Accueil
+
+       Accueil
 
 Le marché de la restauration rapide en France
 
@@ -1010,20 +1015,16 @@ France
    de la restauration rapide en France - La vie des entreprises
 
 
-     * La concurrence sur le marché de la restauration rapide en France :
+       La concurrence sur le marché de la restauration rapide en France :
           + Spécialistes de la restauration rapide
           + Restaurants traditionnels, cafétérias et bars-cafés
 --
 
 
-     * Les différentes modes de vente de la restauration rapide :
+       Les différentes modes de vente de la restauration rapide :
           + Consommation sur place
           + Vente à emporter
-</text>
-</page> §
-<page="fr-34">
-<text>
-     * Focus sur les secteurs d’activité
+       Focus sur les secteurs d’activité
 
 Le marché de la restauration rapide : quelles tendances pour 2020 ?
 
@@ -1118,54 +1119,39 @@ L’innovation en franchise : le gage d’un succès durable
    donner l’opportunité de réussir sur le long terme. Disposant de moyens
    souvent beaucoup plus importants que les entrepreneurs indépendants,
 --
+MEXI KEBAB
 
-   Restauration rapide, livraison aux salariés et aux entreprises.
-   Class’croute associe restauration rapide sur place/à emporter et la
-   livraison en entreprise de plateaux-repas, de cocktails et de buffets.
-   150
+   Fast-food, restaurant, kebab, tacos, burger, restauration, nouveau
+   concept, food, halal.
+   MEXI KEBAB propose de la restauration rapide type Fast-Food moderne
+   principalement à base de Kebab, tacos et de Burger.
+   7
+--
+   Murray’s développe enfin en France son fameux concept de recettes de
+   pâtes Mac And Cheese !
+   1er réseau de restauration rapide à base de pâtes au fromage : Mac And
+   Cheese. MURRAY’S : LES PATES … EN MIEUX ! Un process inédit en France
+   qui permet de préparer des cups de pâtes à la minute avec une fraicheur
 --
 
-   Foud, cuisine de bistrot fait maison, à déguster sur place, en
-   livraison ou à emporter. Restauration rapide - Restaurant d’entreprise
-   - Livraison repas - Pause déjeuner - Plateaux repas - restauration
-   digitale
+   Pizza, Livraison, Vente à emporter, Restauration rapide
+   Marque incontournable du secteur de la restauration rapide et plus
+   précisément de la vente de pizzas à emporter et de livraison de pizzas
+   à domicile
 --
+   Passionné de Street food et snacking, ouvrez votre fast food et devenez
+   la référence du poulet frit
+   Ouvrez votre fastfood Chicken Time et lancez-vous dans le snacking avec
+   un concept à l'univers Street Art, dédié au poulet frit sous toutes ses
+   formes.
 
-   Bokit &amp; Street Food
-   Restauration rapide inspirée de la street-food antillaise (bokit,
-   burgers, salades) à base de viande halal.
-   3
---
-COMPOSE - CANTINE SUR MESURE
-
-   Restauration rapide sur mesure qui propose un large choix de plats
-   chauds ou froids avec des produits sélectionnés et préparés sur place
-   par nos cuisiniers quotidiennement à déguster sur place, à commander en
-   ligne en click&amp;collect ou en livraison.
-   Réseau de restauration rapide sur mesure, raffiné, convivial, urbain.
-   Du petit-déjeuner au dîner, COMPOSE offre un large choix gourmand qui
-   évolue au gré des saisons et se décline en plats chauds, froids,
---
-
-   La Gourmandise, recette de notre développement !
-   Boulangerie, Pâtisserie, Restauration Rapide et Café Gourmand
-   35
-   Implantations
-</text>
-</page> §
-<page="fr-35">
-<text>
-
-</text>
-</page> §
-<page="fr-36">
-<text>
 1.1 Présentation et définition du marché
 
    La restauration de type rapide (ou fast-food) est définie par l’INSEE
    comme « la fourniture au comptoir d’aliments et de boissons à consommer
    sur place ou à emporter, présentés dans des conditionnements
 --
+ 
    La rapidité du service, la simplicité des plats, une offre peu coûteuse
    et une capacité à gérer une demande importante caractérisent ainsi la
    restauration rapide. En cela, la restauration rapide inclut à la fois
@@ -1181,19 +1167,20 @@ COMPOSE - CANTINE SUR MESURE
 --
 1.2 Le marché mondial
 
-   Marché mondial de la restauration rapide ****-****, Monde, en milliards
-   de dollars Source: ****
+   Marché mondial de la restauration rapide     -    , Monde, en milliards
+   de dollars Source:     
 
    Le marché mondial de la restauration rapide devrait connaître une
-   croissance rapide pour atteindre près de *** milliards de dollars en
-   ****, ce qui représente un taux moyen de croissance annuelle de *,*%
+   croissance rapide pour atteindre près de     milliards de dollars en
+       , ce qui représente un taux moyen de croissance annuelle de  , %
 --
 1.3 Un marché national solide
 
    Selon Gira Consulting , le marché français de la restauration rapide a
-   atteint ** milliards d'euros de recettes en ****. Selon La Vie Des
-   Entreprises [***], le marché a réalisé un chiffre d'affaires de **,*
+   atteint    milliards d'euros de recettes en     . Selon La Vie Des
+   Entreprises [   ], le marché a réalisé un chiffre d'affaires de   , 
 --
+  
 ANALYSE DE LA DEMANDE
 
 2.1 Les Français, des consommateurs atypiques mais amateurs de fast-food
@@ -1205,17 +1192,20 @@ ANALYSE DE LA DEMANDE
    consommateurs français à l’image ...
 
 --
-   plus de cinq fois plus que la deuxième ville au classement, Lyon (***).
+ 
+   plus de cinq fois plus que la deuxième ville au classement, Lyon (   ).
    Il apparaît ainsi que la capitale accueille la plus grande demande de
    restauration rapide de la part des consommateurs. Néanmoins, si l'on se
    base sur une population de ...
 
 --
+  
 
    Le graphique ci-dessus illustre de fortes disparités dans les
    comportements de consommation de fast-food selon les tranches d'âge des
    Français : plus le consommateur est jeune, plus il est susceptible de
-   consommer de la restauration rapide. Les **-** ans sont les plus
+   consommer de la restauration rapide. Les   -   ans sont les plus
+ 
    intéressés par la restauration rapide ...
 
 2.5 L'essor de la consommation de poulet en France favorise les chaînes
@@ -1228,12 +1218,12 @@ ANALYSE DE LA DEMANDE
 --
 3.2 Un nombre croissant d’acteurs sur le marché
 
-   Nombre d'établissements de restauration rapide France, ****-****, en
-   unités Source: ****
+   Nombre d'établissements de restauration rapide France,     -    , en
+   unités Source:     
 
    Selon ACOSS, le nombre d'entreprises du secteur français de la
-   restauration rapide est passé de ** *** en **** à ** *** en ****, soit
-   une augmentation de ** % sur la période. Il faut néanmoins garder à
+   restauration rapide est passé de        en      à        en     , soit
+   une augmentation de    % sur la période. Il faut néanmoins garder à
    l'esprit que plusieurs établissements peuvent appartenir à une même ...
 --
    en France :
@@ -1279,7 +1269,7 @@ restauration rapide
 
    Les diverses chaînes de restauration rapide en France ont eu à proposer
    un plan de mise en conformité en ce qui concerne le tri des déchets en
-   mars **** tel que le relate Le Point. Ces chaînes de restauration
+   mars      tel que le relate Le Point. Ces chaînes de restauration
 --
    [reviews.svg]
 
@@ -1298,11 +1288,7 @@ restauration rapide
    le marché de la restauration rapide - France
 
    Businesscoot logo horizontal
-</text>
-</page> §
-<page="fr-37">
-<text>
-   Voir plus
+  
 
 La restauration rapide monte en gamme
 
@@ -1358,16 +1344,18 @@ Une tendance à l’hybridation des univers
    acteurs qui disputent aux établissements de restauration rapide le
    marché du « snacking ». En premier lieu, les boulangeries se sont
    lancées avec succès sur ce marché où elles sont de plus en plus
-</text>
-</page> §
-<page="fr-38">
-<text>
+
+
+fast-food
+
+   [ ] 12 langues
+=======
    Définition, traduction, prononciation, anagramme et synonyme sur le
    dictionnaire libre Wiktionnaire.
    Voir aussi : Fastfood, fastfood, fast food
 
 Français[modifier le wikicode]
---
+    
 Étymologie[modifier le wikicode]
 
           (Date à préciser) De l’anglais fast-food (« restaurant »).
@@ -1384,7 +1372,11 @@ Nom commun [modifier le wikicode]
        client.
           + Le fast-food est un plaisir pervers. Une jouissance
             intellectuelle d’abord : la volupté de se vautrer dans le
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+            politiquement incorrect. — (Philippe Delerm, Dickens, barbe �
+=======
             politiquement incorrect. — (Philippe Delerm, Dickens, barbe à
+  
             papa, Gallimard, collection Folio, 2005, page 53)
           + Le fast-food halal est historiquement dominé de la tête et des
             épaules par les kebabs, ces petits points de vente dans
@@ -1402,51 +1394,47 @@ Nom commun [modifier le wikicode]
             apparition. — (Delphine Christophe, Georgina Letourmy, Paris
             et ses cafés, 2004, page 101)
 --
+ 
 Variantes orthographiques[modifier le wikicode]
 
-     * fastfood
-     * fast food
-     * fastefoude
+       fastfood
+       fast food
+       fastefoude
 --
 Traductions[modifier le wikicode]
 
-     * Allemand : Fastfood (de), Schnellkost (de) féminin
-     * Anglais : fast food (en)
-     * Arabe : وجبات سريعة (ar) ()
+       Allemand : Fastfood (de), Schnellkost (de) féminin
+       Anglais : fast food (en)
+       Arabe : وجبات سريعة (ar) ()
 --
+  
 Prononciation[modifier le wikicode]
 
-     * France (Saint-Maurice-de-Beynost) : écouter « fast-food
+       France (Saint-Maurice-de-Beynost) : écouter « fast-food
        [Prononciation ?] »
-     * France (Vosges) : écouter « fast-food [Prononciation ?] »
-     * France (Lyon) : écouter « fast-food [Prononciation ?] »
+       France (Vosges) : écouter « fast-food [Prononciation ?] »
+       France (Lyon) : écouter « fast-food [Prononciation ?] »
 
 Voir aussi[modifier le wikicode]
 
-     * fast-food sur l’encyclopédie Wikipédia Wikipedia-logo-v2.svg
+       fast-food sur l’encyclopédie Wikipédia Wikipedia-logo-v2.svg
 
-   Récupérée de
-</text>
-</page> §
-<page="fr-39">
-<text>
 
-</text>
-</page> §
-<page="fr-3">
-<text>
-
-     * Traiteurs
-     * Fast-food
-     * Restauration
-     * Hôtellerie
+       Traiteurs
+       Fast-food
+       Restauration
+       Hôtellerie
 --
+  
      __________________________________________________________________
 
    Le fast-food ou la restauration rapide commence à se répandre de plus
    en plus à Paris. Pour trouver l’adresse qui répond au mieux à vos
+
+   attentes, retrouvez ci-dessus le top 5 des meilleurs fast-foods �
+=======
    attentes, retrouvez ci-dessus le top 5 des meilleurs fast-foods à
---
+    
 
    Kraft Hot Dog se situe au 15 Rue des Archives, Paris 75004. Le
    fast-food est ouvert du lundi au vendredi de 12h à 00h. Ses plats les
@@ -1457,9 +1445,11 @@ Maoz Vegetarian
 
    Maoz Vegetarian est un fast-food qui, comme son nom l’indique, propose
    des plats végétariens, mais vous pouvez aussi y retrouver des
-   spécialités végétaliennes. L’établissement est spécialisé dans la
+--
+=======
    restauration rapide de plats méditerranéens et du Moyen-Orient.
 
+  
    Maoz Vegetarian sert généralement des déjeuners et des dîners. Il peut
    ouvrir très tard si vous souhaitez passer une soirée entre amis ou en
    groupe. Le fast-food se situe au 8 Rue Xavier Privas, 75005 Paris.
@@ -1487,12 +1477,13 @@ Hamler’s Burgery
    Fast-food Fast-food à Paris Top des fast-food à Paris
 
 Navigation de l’article
---
+   
 
-     * Cuisine
-     * Fast-food
-     * Hôtellerie
-     * Non classé
+       Cuisine
+       Fast-food
+       Hôtellerie
+       Non classé
+  
 </text>
 </page> §
 <page="fr-40">
@@ -1525,6 +1516,9 @@ Navigation de l’article
 
 En France, La capitale du fast-food est…
        Partager
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+       40910 vues
+=======
        40911 vues
 --
        Pour la journée mondiale de la santé, un média français a établi
@@ -1532,7 +1526,7 @@ En France, La capitale du fast-food est…
        restauration rapide par habitant. Un classement étonnant, qui
        consacre Bordeaux comme capitale de la malbouffe dans l’Hexagone.
        À LIRE AUSSI
---
+    
        Speed Burger.
        C’est la ville de Bordeaux qui se place en première position, avec
        une densité de fast-food pour 1 000 habitants de 0,1959. A la
@@ -1547,7 +1541,7 @@ En France, La capitale du fast-food est…
 </page> §
 <page="fr-43">
 <text>
-     * Recherche
+       Recherche
 
 La petite histoire du fast-food en France
 
@@ -1568,6 +1562,7 @@ La petite histoire du fast-food en France
 </page> §
 <page="fr-44">
 <text>
+ 
    #Eighties » Flux Eighties » Flux des commentaires Eighties » Flux iCal
    Eighties » L’explosion des Fast-Food dans les Années 80 ! Flux des
    commentaires alternate alternate alternate
@@ -1577,6 +1572,7 @@ La petite histoire du fast-food en France
    AccueilCulture EightiesPubs et Produits quotidiensL’explosion des
    Fast-Food dans les Années 80 !
 
+  
 L’explosion des Fast-Food dans les Années 80 !
 
 Les hamburgers et fast-food de notre jeunesse !
@@ -1593,6 +1589,7 @@ Les hamburgers et fast-food de notre jeunesse !
 
    A l’époque, on parlait déjà de malbouffe, mais la restauration rapide
 --
+ 
    chaîne Mc Donald’s. Mais nous parlerons aussi d’autres enseignes qui
    vous rappelleront sans doute des souvenirs. Voici donc l’histoire non
    exhaustive de la restauration rapide en France.
@@ -1605,6 +1602,7 @@ Mc Donald’s :
    la plus franchisée de l’Hexagone, et pourtant le pari n’était pas gagné
    d’avance…
 --
+  
    la Suède en 1973, et le Royaume Uni en 1974.
 
    restaurant Mc Donald hamburgers années 80 fast-food
@@ -1684,12 +1682,14 @@ Burger King
 
    Burger King, malgré sa puissance aux USA et dans le reste de l’Europe,
 --
+ 
 O’Kitch
 
    Voila une chaîne de restauration rapide totalement éphémère, mais qui a
    compté pour beaucoup dans le développement des fast-foods en France.
 
 --
+  
    McDo est officiellement celui de Strasbourg).
 
    restaurant o'kitch hamburgers années 80 fast-food Paris
@@ -1738,12 +1738,12 @@ What a burger !
 <page="fr-46">
 <text>
 
-     * Introduction
-     * Histoire des Fast-Food
-     * Techniques marketing et commerciales
-     * Publicités
+       Introduction
+       Histoire des Fast-Food
+       Techniques marketing et commerciales
+       Publicités
 --
-     * ... Pour conclure
+       ... Pour conclure
 
 Histoire des Fast-Food
 
@@ -1771,7 +1771,7 @@ Histoire des Fast-Food
 
 Les fast-food en France
 
-     * Concept
+       Concept
 --
    Use tab to navigate through the menu items.
 
@@ -1779,12 +1779,14 @@ Les fast-food en France
 
    Le contexte Historique, économique et social en France
 --
+ 
 
    Jacques Borel, industriel français, inventeur de la première chaîne de
    restauration rapide en France en 1961, propose des hamburgers,
    milk-shake… Il pense que le changement du rythme de vie des Français
    laisse une place à une autre forme de restauration (plus rapide, à
 --
+  
    C’est en 1972 que le McDonald’s s’implante en France, à Créteil, dans
    le Val-de-Marne, grâce à Raymond Dayan qui a obtenu un contrat de
    franchise. C’est le premier fast-food implanté en France, la première
@@ -1795,7 +1797,11 @@ Les fast-food en France
    », « le plus souvent debout », « à côté, les snack-bars et autres
    self-services font figure de Maxim’s ou de Tour d’argent. Un restaurant
    fast-food (…) n’offre qu’un choix très limité, toujours le même :
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+   hamburger ou poulet rôti, pommes frites, un gâteau industriel, et �
+=======
    hamburger ou poulet rôti, pommes frites, un gâteau industriel, et à
+  
    boire ». Puis en 1973 c’est le premier choc pétrolier qui plonge la
 --
    2008, devant les Etats-Unis.
@@ -1809,7 +1815,7 @@ Les fast-food en France
    d'après sociétés, médias
 
 --
-     * Généralisation
+       Généralisation
 
    Les fast-food ont pris une place importante dans la société française
    depuis leur arrivée, en effet en 2012 le chiffre d’affaire de la
@@ -1836,8 +1842,9 @@ Les fast-food en France
    fast-food contre 13,50 pour les restaurants traditionnels. De plus, la
    restauration rapide rime avec rapidité, immédiateté. Aujourd’hui ces
    critères sont importants pour les clients en effet, ils exigent une «
+ 
    émotion gustative rapide » car ils ne peuvent perdre leur temps lors
---
+    
 Posts récents
 
    1. De l'histoire de la naissance du hamburger à celle des fast-food
@@ -1876,9 +1883,9 @@ Posts récents
    toujours selon Gira Conseil, le hamburger n'a pas  détroné le
 --
    sandwiches tous pains et toutes garnitures confondues.
-     * Restauration rapide
-     * Fast-food
-     * Hamburger
+       Restauration rapide
+       Fast-food
+       Hamburger
 </text>
 </page> §
 <page="fr-49">
@@ -1890,6 +1897,13 @@ Posts récents
 
    Mais pour ce qui est des fast-food avec pignon sur rue, de ces valeurs
    sûres garanties 100% exploitation du personnel dans lesquelles on
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+   retourne encore et encore malgré l’écoeurement qui nous y étreint �
+--
+   12/06/2009 17:34
+   Je confirme la politique branchée d'O'Kitch. Expos d'artistes (de
+   mémoire le collectif Bazooka). C'était même le premier fast-food �
+=======
    retourne encore et encore malgré l’écoeurement qui nous y étreint à
 --
    Les deux marques se sont à ce point inscrites dans le paysage qu’on en
@@ -1901,6 +1915,7 @@ Posts récents
    12/06/2009 17:34
    Je confirme la politique branchée d'O'Kitch. Expos d'artistes (de
    mémoire le collectif Bazooka). C'était même le premier fast-food à
+  
    diffuser des clips vidéos sur des moniteurs (souvenirs de fins de
    soirée d'après concert dans le quartier des Halles, à Paris)
 </text>
@@ -1911,7 +1926,7 @@ Posts récents
 
    (BUTTON) Fastfood.fr Fastfood.fr
 
-     * Burgers
+       Burgers
 --
    (BUTTON)
 
@@ -1970,7 +1985,7 @@ La Mie Câline
    », le premier point de vente ayant…
    26 juillet 2022 Temps de lecture : 1 minutes
 --
-     * Plan du site
+       Plan du site
 
    © 2023 FastFood.fr. Le guide du Fast Food en France : Burgers
    Restaurants, FoodTruck de Paris et les Chaînes de restauration rapide.
@@ -1983,7 +1998,11 @@ La Mie Câline
    burgers à la carte de cette enseigne nordiste. Un fast-food à la
    française qui a vu le jour dans la Métropole lilloise en 1971. Dans les
    années 80 c’est Gérard Mulliez qui s’empare du concept et en fait le
+<lt;<lt;<lt;<lt;<lt;<lt;<lt; HEAD
+   chouchou des jeunes avec un menu à 15 francs pour les étudiants soit �
+=======
    chouchou des jeunes avec un menu à 15 francs pour les étudiants soit à
+  
    peine 2,50 €. Le pain était livré deux fois par jour, les légumes frais
    et les produits souvent locaux, le tout avec la rapidité du fast-food.
 
@@ -2010,12 +2029,14 @@ La Mie Câline
    burgers, mais des hamburgés préparés avec des fromages typiquement
    français (tomme de Savoie, raclette, morbier, etc.). On peut même
 --
+ 
    Prix : €
 
    O Tacos est une chaîne de restauration rapide française qui propose des
    tacos à composer soi-même. On choisit d’abord la taille (une, deux ou
    trois viandes), puis le type de viande parmi 7 options, une sauce et
 --
+  
 
    Malgré un nom à consonance italienne, Mezzo Di Pasta est également une
    création française. Ce fast-food propose des pâtes fraîches. On peut
@@ -2088,25 +2109,28 @@ Nabab
 </page> §
 <page="fr-8">
 <text>
+ 
    Publié par Statista Research Department, 13 déc. 2021
    Hamburgers, sandwichs, pâtes à emporter ou sushis : l'offre de
    restauration rapide semble de nos jours inépuisable. Selon l'Insee, la
    restauration de type rapide comprend bien évidemment les restaurants de
    restauration rapide, mais aussi les restaurants proposant
 --
+  
    Français déclaraient se rendre au moins deux à dix fois par an au
    restaurant, près de 20 % des Français déclaraient aimer manger
    régulièrement au fast-food. Ce type d'alimentation séduit davantage les
    jeunes puisque une écrasante majorité des 18-24 ans fréquentaient les
    établissements de la restauration rapide, contre 50 % des plus de 50
 --
+ 
    Avec plus de quatre milliards de burgers, sandwiches et pizzas vendus
    et un chiffre d'affaires approchant les 19 milliards d'euros en 2016,
    on peut dire que le secteur de la restauration rapide en France se
    porte bien. Sur ce marché, on retrouve les grandes entreprises
    américaines, telles que McDonald's - dont la valeur de marque s'élevait
 --
-     * Habitudes alimentaires
+       Habitudes alimentaires
 
    Chiffre d'affaires du secteur de la restauration rapide en France 2016
    18,7 Mio EUR
@@ -2114,16 +2138,18 @@ Nabab
    4,5 Mio EUR
    Revenus des ventes du groupe français LE DUFF dans le monde 2017
 --
+  
    (BUTTON) Habitudes alimentaires
-     * Avis des Français sur la restauration à service rapide 2015
-     * Fréquence à laquelle les Français mangent au fast-food 2015
-     * Enseignes de restauration rapide préférées des Français 2013
-     * Lieux les plus fréquentés par les Français pour consommer une pizza
+       Avis des Français sur la restauration à service rapide 2015
+       Fréquence à laquelle les Français mangent au fast-food 2015
+       Enseignes de restauration rapide préférées des Français 2013
+       Lieux les plus fréquentés par les Français pour consommer une pizza
+ 
        2017
 --
-     * Avis des Français sur la nécessité de prix bas dans la restauration
+       Avis des Français sur la nécessité de prix bas dans la restauration
        rapide 2015
-     * Restauration rapide : importance de la quantité de nourriture selon
+       Restauration rapide : importance de la quantité de nourriture selon
        les Français 2015
 
 --
@@ -2141,74 +2167,79 @@ Dossier sur le thème
 
 Les emplois dans la restauration rapide
 
-     * Nombre d'employés dans la restauration rapide en France 2016
+       Nombre d'employés dans la restauration rapide en France 2016
        176,928
        Nombre d'employés dans le secteur de la restauration de type rapide
 --
-     * La valeur de McDonald's en 2019
+       La valeur de McDonald's en 2019
        124,9 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
-       2021, selon la valeur de l'entreprise * (en millions de dollars
+       2021, selon la valeur de l'entreprise   (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     * La valeur de Starbucks en 2019
+       La valeur de Starbucks en 2019
        42,2 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
-       2021, selon la valeur de l'entreprise * (en millions de dollars
+       2021, selon la valeur de l'entreprise   (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     * La valeur de Subway en 2019
+       La valeur de Subway en 2019
        18,3 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
-       2021, selon la valeur de l'entreprise * (en millions de dollars
+       2021, selon la valeur de l'entreprise   (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     * La valeur de KFC en 2019
+       La valeur de KFC en 2019
        15,8 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
-       2021, selon la valeur de l'entreprise * (en millions de dollars
+       2021, selon la valeur de l'entreprise   (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     * La valeur de Domino's Pizza en 2019
+       La valeur de Domino's Pizza en 2019
        8,3 Mio USD
        Classement des chaînes de restauration rapide dans le monde en
-       2021, selon la valeur de l'entreprise * (en millions de dollars
+       2021, selon la valeur de l'entreprise   (en millions de dollars
        des États-Unis)
        Statistique détaillée
        Chaînes mondiales de restauration rapide selon la valeur de
        l'entreprise 2021
-     * (BUTTON) Afficher plus de faitsMasquer
+       (BUTTON) Afficher plus de faitsMasquer
 --
 Infographies sur ce thème
 
    Lien vers La restauration rapide en France Infographie - Les fast-foods
    (encore) moins sains qu'il y a 30 ans ? Infographie
    evolution du nombre de calories et de la taille des portions US
+  
 </text>
 </page> §
 <page="fr-9">
 <text>
+ 
    consommation du jeudi 21 avril, il ne s'agit pas seulement des
    enseignes proposant des burgers et des frites. Font partie de la
    restauration rapide des restaurants qui proposent des plats aussi
    différents que le fameux burger, mais aussi le jambon-beurre, la pizza,
+  
    les fish and chips, les croque-monsieur et croque-madame, les salades,
    les wraps, et autres sandwichs, précise cette société qui propose dans
    le monde entier des "box" de repas. Dans tous les cas, fast-food ne
    signifie pas nourriture malsaine, tient à rappeler HelloFresh, qui a
    étudié de près ces restaurants où les plats se préparent et se mangent
 --
+ 
    En moyenne, un restaurant sur 10 est un établissement de restauration
    rapide en France, selon cette étude. HelloFresh a aussi analysé la part
    des chaînes de restauration rapide parmi les fast-foods de ces villes,
+  
    telles que McDonalds, Burger King, Kentucky Fried Chicken, Subway,
    Pizza Hut et Domino's Pizza. À Cergy et à Amiens, un restaurant de
    fast-food sur trois appartient à une de ces grandes chaînes. Mais dans
@@ -2217,32 +2248,41 @@ Infographies sur ce thème
 --
 
    A lire aussi
-     * Les Français de plus en plus accros au fast-food
-     * Immobilier : ces villes où l’on trouve plus de logements vides que
+       Les Français de plus en plus accros au fast-food
+       Immobilier : ces villes où l’on trouve plus de logements vides que
        de candidats locataires
 --
    D'autres articles qui pourraient vous intéresser
-     *
+      
    Quelles sont les villes qui comptent le plus de fast-food par habitant
        en France ?
        Quelles sont les villes qui comptent le plus de fast-food par
        habitant en France ?
        Entreprises et marchés
 --
+ 
+ 
        Immobilier
-     *
+      
    Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira son
        premier restaurant à Paris
        Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira
        son premier restaurant à Paris
        Conso
 --
+  
+>gt;>gt;>gt;>gt;>gt;>gt;>gt; refs/remotes/origin/main
        Entreprises et marchés
-     *
+      
    Sodebo : le triomphe du fast-food à la française
        Sodebo : le triomphe du fast-food à la française
        Entreprises et marchés
-     *
+      
+   Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira son
+       premier restaurant à Paris
+       Popeyes : découvrez où cette célèbre enseigne de fast-food ouvrira
+       son premier restaurant à Paris
+       Conso
 </text>
 </page> §
 </lang>

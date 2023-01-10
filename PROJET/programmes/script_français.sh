@@ -1,13 +1,8 @@
 #!/usr/bin/env bash
 
-# pour lancer le script nous nous plaçons dans le repertoire PROJET/programmes/
-# ./script_anglais.sh ../URLS/en.txt ../tableaux/tableau_en.html
-
 # Ce script bash prend en arguement un fichier .txt et le nom d'un tableau html, qu'il génère en sortie
 # le fichier txt est une liste de 5- URLS sur Fast ou Street Food
 # Vérifie l'encodage, et crée/ extrait les informations souhaités : dump, nombre d'occurence du motif, contexte
-
-
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
@@ -18,15 +13,15 @@ then
 	exit
 fi
 
-# à modifier selon langue
-mot="\b(street|fast|roadside)[-]? food\b"
-
+mot="\b(R|r)estauration (R|r)apide | (F|f)ast-?(F|f)ood\b"
+#mot="\bresauration rapide|fast-food\b"
+# street food # à modifier selon langue
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
 echo "<html><body>" > $fichier_tableau
-echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
+echo "<h2>Tableau français :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table aligne=\"center\"border=\"1px\"bordercolor=#ff964f>" >> $fichier_tableau
 echo "<tr><th>ligne</th>
@@ -79,9 +74,6 @@ while read -r URL; do
 	# dump 
 	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
 	
-	# concatenation de dumps-texts pour analyse ultérieure
-	#echo "$dump" >> "../concat/ang-dumps.txt"
-	
 	# number of instances of a word , insert in HTML Table 
 	occurences=$(grep -E -o -i "$mot" ../dumps-text/$basename-$lineno.txt | wc -l)
 	
@@ -97,31 +89,23 @@ while read -r URL; do
 	# ou prétraiter les dossier avant
 	
 	# extraction des contextes
-	contexte=$(grep -i -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
+	contexte=$(grep -E -A2 -B2 "$mot" ../dumps-text/$basename-$lineno.txt > ../contextes/$basename-$lineno.txt)
 	echo "$contexte"
-	
-	
-	### This is the last part 
-	## iTrameur 
-	#../programmes/correction1_itrameur.sh ../dumps-text $basename > ../itrameur/$basename-$lineno.txt
-	
-	
-	############
 	
 	echo "<tr><td>$lineno</td>
 	<td>$code</td>
 	<td>$charset</td>
 	<td><a href=\"$URL\">$URL</a></td>
-	<td><a href=\"../dumps-text/$basename-$lineno.txt\">en-$lineno</a></td>
-	<td><a href=\"../aspirations/$basename-$lineno.html\">en-$lineno</a></td>
+	<td><a href=\"../dumps-text/$basename-$lineno.txt\">fr-$lineno</a></td>
+	<td><a href=\"../aspirations/$basename-$lineno.html\">fr-$lineno</a></td>
 	<td>$occurences</td>
-	<td><a href=\"../contextes/$basename-$lineno.txt\">en-$lineno</a></td>
-	<td><a href=\"./../concordances/$basename-$lineno.html\">en-$lineno</a></td>
+	<td><a href=\"../contextes/$basename-$lineno.txt\">fr-$lineno</a></td>
+	<td><a href=\"./../concordances/$basename-$lineno.html\">fr-$lineno</a></td>
 	</tr>" >> $fichier_tableau
 	
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 	
 done < $fichier_urls
-echo "</table>" >> $fichier_tableauTAL
+echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau

@@ -20,7 +20,7 @@ div.tête{
 header h1{
 	font-family: Arial;
 }
-div.paragraphe {
+div.sous_titre {
 	font-size: 40px;
 	background-color: white;
 	text-align: center;
@@ -38,7 +38,7 @@ nav.menu{
 	width: 860px;
 	margin: 0 auto 0 auto;
 	text-align: center;
-	padding-top: 40px;
+	padding-top: 10px;
 }
 
 nav.menu ul li{
@@ -58,38 +58,53 @@ nav.menu ul li a {
 	background: url(./images/presentation.jpg);
 	padding: 30px;
 	background-size: 150px;
-	font-size: 30px;
+	font-size: 20px;
 }
 .scripts {
 	background: url(./images/scripts.jpg);
 	padding: 30px;
 	background-size: 150px;
-	font-size: 30px;
+	font-size: 20px;
 }
 .tableaux {
 	background: url(./images/tableaux.jpg);
 	padding: 30px;
 	background-size: 150px;
-	font-size: 30px;
+	font-size: 20px;
 }
 .analyse{
 	background: url(./images/analyse.jpg);
 	padding: 30px;
 	background-size: 150px;
-	font-size: 30px;
+	font-size: 20px;
 }
 .git{
 	background: url(./images/git.jpg);
 	padding: 30px;
 	background-size: 150px;
-	font-size: 30px;
+	font-size: 20px;
 }
 
 a {
 	text-decoration: none;
 	color:  black;
 }
+/* ------Texte--- */
 
+.titre {
+	text-align: center;
+	font-size: 30px;
+	font-family: fantasy;
+	background-color: #edfffe;
+}
+
+.paragraphe{
+	text-align: justify;
+	font-family: fantasy;
+
+}
+
+/* ------Bas de page---- */
 footer {
 	width:900px;
 	clear:both;
@@ -99,4 +114,5 @@ footer {
 	text-align:center;
 	line-height:14pt;
 	color: black;
+	background-color: #edfffe;
 }

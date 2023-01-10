@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# pour lancer le script nous nous plaçons dans le repertoire PROJET/programmes/
+#./script_chinois.sh ../URLS/chin.txt ../tableaux/tableau_chinois.html 
+
 
 # Ce script bash prend en arguement un fichier .txt et le nom d'un tableau html, qu'il génère en sortie
 # le fichier txt est une liste de 5- URLS sur Fast ou Street Food
