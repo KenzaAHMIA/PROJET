@@ -1,67 +1,14 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8" />
-	<title>PROJET fast-food</title>	
-	<link rel="stylesheet" href="style.css" />
+	<meta charset="utf-8">
+	<style>
+		body { font-family:caption; background-color: #edfffe}
+	</style>
 </head>
-
-<!-- tête -->
 <body>
-	<div id="page1">
-		<div id="page2">
-			<div id="header">
-				<h1>Fast-food</h1>
-				<div class="description">Fast-food - Restauration rapide - Fast food - Street food - 快餐 - 便餐 - 速食 </div>
-			</div>
-				<div id="menulinks">
-					<a href="../index.html">
-						<span>Acceuil</span>
-					</a>
-					<a href="presentation.html">
-						<span>Présentation</span>
-					</a>
-					<a  class="active" href="scripts.html">
-						<span>Scripts</span>
-					</a>
-					<a href="tableaux.html">
-						<span>Tableaux</span>
-					</a>
-					<a href="analyse.html">
-						<span>Analyse</span>
-					</a>
-					<a href="https://github.com/KenzaAHMIA/PROJET-FASTFOOD">
-						<span>Github</span>
-					</a>
-				</div>
-<!--------------->
-
-<!-- Contenu ---->
-				<div id="mainarea">
-					<div id="contentarea">
-<br>
-				<h1 class="titre">Scripts</h1>
-				<h2>Explication des scripts</h2>
-					<p>
-						Dans cette rubrique nous présentons nos trois scripts : <strong><a href="#FR">le script pour le français</a></strong>, <strong><a href="#EN"> le script pour l'anglais</a></strong> et <strong><a href="#CHIN"> le script pour le chinois</a></strong>. 
-					</p>
-					<p>
-						Les trois se ressemblent fortement, ce qui change c'est l'expression régulière et les noms (en, fr, chin).
-					</p>
-					<p>
-						Globalement, les scripts aident d'abord à connaitre le code html et l'encodage. Ensuite, à extraire les informations des pages http ou les URLS comme le contenu ou le dumps, les aspirations, le nombre d'occurrences du motif recherché. 
-						On trouve aussi le contexte,  et les concordances, les mots ou les termes qui l'entourent à sa droit et à sa gauche.	
-					</p>
-					<p>
-						En les exécutant, ils générent un tableau (par langue et par script). Chaque tableau contient une colonne pour chaque information.
-					</p>
-					<p>
-						Pour la <b>segmentation du chinois</b>: nous nous sommes servis du script <b>segment.sh</b> rédigé par Stanford. 
-						Le dossier '<i>stanford-segmenter-2020-11-17</i>' étant trop lourd n'a pas pu être ajouté sur le Git. 
-						Veuillez le trouver <a href="https://nlp.stanford.edu/software/segmenter.shtml".>ici</a>.
-
-					</p>
-						<h2>Script pour le français</h2>
+	<h1 class="titre">Scripts</h1>
+		<h2>Script pour le français</h2>
 				<div id="FR">
 						<pre>
 							<code>
@@ -414,23 +361,10 @@ echo "</body></html>" >> $fichier_tableau
 			</div>
 
 
-<!--------------->
 
-<!--pied de page-->
-<br>
-				<div id = retour >
-						<a href="#top">
-							<img src="./images/pic.jpg" alt="Retourner en haut">
-						</a>
-				</div>
 
-				<div id="footer">
-					<p>&copy; AU 2022/2023 - PPE : Projet FAST-FOOD - K.AHMIA , Y.XUAN, S.GLAM 
-					</p>
-				</div>
-<!--------------->
 
-		</div>
-	</div>
+
+
 </body>
 </html>
