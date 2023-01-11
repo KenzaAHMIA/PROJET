@@ -204,6 +204,13 @@ iframe {
 	margin-bottom: 20px;
 }
 
+p.title {
+	font-family: cursive;
+	background-color: #edfffe;
+	text-align: center;
+	font-size: 18px;
+}
+
 #nuagesmots {
 	margin-left: 250px;
 	margin-right: auto ;
