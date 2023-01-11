@@ -41,12 +41,15 @@
 					<div id="contentarea">
 <br>
 				<h1 class="titre">Scripts</h1>
-				<h2>Explication des scripts</h2>
+					<h2>Explication des scripts</h2>
 					<p>
-						Dans cette rubrique nous présentons nos trois scripts : <strong><a href="#FR">le script pour le français</a></strong>, <strong><a href="#EN"> le script pour l'anglais</a></strong> et <strong><a href="#CHIN"> le script pour le chinois</a></strong>. 
+						Dans cette rubrique nous présentons nos trois scripts ayant générés des tableaux: <strong><a href="#FR">le script pour le français</a></strong>, <strong><a href="#EN"> le script pour l'anglais</a></strong> et <strong><a href="#CHIN"> le script pour le chinois</a></strong>. 
 					</p>
 					<p>
-						Les trois se ressemblent fortement, ce qui change c'est l'expression régulière et les noms (en, fr, chin).
+						De plus, <strong><a href="#itram">le script pour itrameur</a></strong> et <strong><a href="https://nlp.stanford.edu/software/segmenter.shtml">le script pour la segmentation du chinois</a></strong> (le script n'est pas sur le git car il est trop lourd).
+					</p>
+					<p>
+						Les trois scripts pour les tableaux se ressemblent fortement, ce qui change c'est l'expression régulière et les noms (en, fr, chin).
 					</p>
 					<p>
 						Globalement, les scripts aident d'abord à connaitre le code html et l'encodage. Ensuite, à extraire les informations des pages http ou les URLS comme le contenu ou le dumps, les aspirations, le nombre d'occurrences du motif recherché. 
@@ -55,13 +58,7 @@
 					<p>
 						En les exécutant, ils générent un tableau (par langue et par script). Chaque tableau contient une colonne pour chaque information.
 					</p>
-					<p>
-						Pour la <b>segmentation du chinois</b>: nous nous sommes servis du script <b>segment.sh</b> rédigé par Stanford. 
-						Le dossier '<i>stanford-segmenter-2020-11-17</i>' étant trop lourd n'a pas pu être ajouté sur le Git. 
-						Veuillez le trouver <a href="https://nlp.stanford.edu/software/segmenter.shtml".>ici</a>.
-
-					</p>
-						<h2>Script pour le français</h2>
+						<h2>Script pour les tableaux du français</h2>
 				<div id="FR">
 						<pre>
 							<code>
@@ -178,7 +175,7 @@ echo "</body></html>" >> $fichier_tableau
 						</pre>
 					</div>
 
-						<h2>Script pour l'anglais</h2>
+						<h2>Script pour les tableaux de l'anglais</h2>
 				<div id="EN">
 						<pre>
 							<code>
@@ -291,7 +288,7 @@ echo "</body></html>" >> $fichier_tableau
 						</pre>
 					</div>
 
-						<h2>Script pour le chinois</h2>
+						<h2>Script pour les tableaux du chinois</h2>
 				<div id="CHIN">
 						<pre>
 							<code>
@@ -407,6 +404,59 @@ done < $fichier_urls
 echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau
 </xmp>
+							</code>
+						</pre>
+					</div>
+
+						<h2>Script pour itrameur</h2>
+				<div id="itram">
+						<pre>
+							<code>
+#!/usr/bin/env bash
+
+# attention : ce script doit être lancé depuis la racine du projet.
+# Cela lui permet de récupérer les fichiers dans les bons dossiers.
+# 
+# Se lancera donc comme ça :
+# $ ./programmes/correction_itrameur.sh
+
+if [[ $# -ne 2 ]]
+then
+	echo "Deux arguments attendus: <dossier> <langue>"
+	exit
+fi
+
+folder=$1 # dumps-text OU contextes
+basename=$2 # en, fr, ru, pl, it, jp, etc...
+
+echo "<lang=\"$basename\">" > "./itrameur/$folder-$basename.txt"
+
+for filepath in $(ls $folder/$basename-*.txt)
+do
+	# filepath == dumps-texts/fr-1.txt
+	# 	==> pagename = fr-1
+	pagename=$(basename -s .txt $filepath)
+
+	echo "<page=\"$pagename\">" >> "./itrameur/$folder-$basename.txt"
+	echo "<text>" >> "./itrameur/$folder-$basename.txt"
+	
+	# on récupère les dumps/contextes
+	# et on écrit à l'intérieur de la balise text
+	content=$(cat $filepath)
+	# ordre important : & en premier
+	# sinon : < => &lt; => &amp;lt;
+	content=$(echo "$content" | sed 's/&/&amp;/g')
+	content=$(echo "$content" | sed 's/</&lt;/g')
+	content=$(echo "$content" | sed 's/>/&gt;/g')
+
+	echo "$content" >> "./itrameur/$folder-$basename.txt"
+
+	echo "</text>" >> "./itrameur/$folder-$basename.txt"
+	echo "</page> §" >> "./itrameur/$folder-$basename.txt"
+done
+
+echo "</lang>" >> "./itrameur/$folder-$basename.txt"
+
 							</code>
 						</pre>
 					</div>

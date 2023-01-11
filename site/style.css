@@ -118,24 +118,6 @@ h1 a {
 	color:#FFFFFF;
 }
 
-iframe {
-	background-color: #ffe3d3;
-	border: 1px solid #999;
-	width: 800px;
-	height: 500px;
-	margin-left : 20px;
-	margin-right : auto;
-	margin-bottom: 20px;
-}
-
-#nuagesmots {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 700px;
-	height: 550px;
-}
-
 /*---- contenu --- */
 
 #mainarea {
@@ -210,6 +192,28 @@ img.nuages {
 	width: 300px;
 	display: block;
 }
+
+
+iframe {
+	background-color: #ffe3d3;
+	border: 1px solid #999;
+	width: 800px;
+	height: 500px;
+	margin-left : 20px;
+	margin-right : auto;
+	margin-bottom: 20px;
+}
+
+#nuagesdemots {
+	
+}
+
+#itrameur {
+	display: block;
+	height: 10px;
+	width: 10px;
+}
+
 /*---- bas de page --- */
 #retour{
 	position: fixed;

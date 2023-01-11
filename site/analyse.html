@@ -49,25 +49,33 @@
 							Elle consiste à éliminer un ou plusieurs éléments du texte comme : les mots vides (stop words), les balises, certaines ponctuations, ou des mots que l'on juge brouilleurs de résultats.
 						</p>
 						<p>
-							
+							Pour le français et l'anglais nous avons effectué la normalistion manuellement c'est à dire en supprimant des éléments directement ou avec recherche et remplaçe (fonctionnalisé intégré dans l'éditeur de texte).
+						</p>
+						<p>
+							Particuliérement pour le français nous avons utilisé la commande <i>sed</i> pour remplacer les numérotations.
+						</p>
+						<p>
+							Pour le chinois c'était différents car il fallait d'abord ségmenter le contenu.
+							Pour cela, nous nous sommes servis du script <b>segment.sh</b> rédigé par Stanford. 
+							Le dossier '<i>stanford-segmenter-2020-11-17</i>' étant trop lourd n'a pas pu être ajouté sur le Git. 
+							Veuillez le trouver <a href="https://nlp.stanford.edu/software/segmenter.shtml".>ici</a>.
 						</p>
 							<h2>Itrameur</h2>
-								<p>  </p>
+								<p><a href="http://www.tal.univ-paris3.fr/trameur/iTrameur/" >Itrameur</a> est une application en ligne de textométrie développé par <b>Serges Fleury</b> (maître de conférences en linguistique informatique).</p>
 								<h3> Français </h3>
-									<p>
-										
-									</p>
+									<div id="itrameur"></div>
+								
 								<h3> Anglais </h3>
-									<p>
-										
+									<div id="itrameur"></div>
+
 									</p>
 								<h3> Chinois </h3>
-									<p>
-										
+									<p> </p>
+									<p>Notre première analyse porte sur les segments répétés dont la fréquence est bien élevée dans notre corpus. Sur le graphique, le mot « 品牌 » (la marque) est le plus fréquent et nous voyons aussi « 连锁店 » (restaurant à succursales) parmi les segments répétés. Cela ne nous étonne pas parce qu’une grande partie de notre corpus provient du site d’information qui en parle souvent beaucoup.</p>
 									</p>
 							<h2>Nuages de mots</h2>
 							<h3> Français </h3>
-							<div id="nuagesmots">
+								<div id="nuagesmots">
 								<img class="nuages" src="../PROJET/analyse/fr_nuage_mot.png" width="auto" height="300">
 							</div>
 
