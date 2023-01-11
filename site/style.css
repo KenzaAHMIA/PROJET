@@ -128,6 +128,14 @@ iframe {
 	margin-bottom: 20px;
 }
 
+#nuagesmots {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 550px;
+}
+
 /*---- contenu --- */
 
 #mainarea {
