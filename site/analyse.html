@@ -42,17 +42,17 @@
 					<br>
 						<h1 class="titre">Analyse</h1>
 						<p>
-							Avant de procéder à l'analyse de nos données, nous avons effectué une étape crutiel qui est la normalisation du contenu.
+							Avant de procéder à l'analyse de nos données, nous avons effectué une étape crutiale qui est la normalisation du contenu.
 						</p>
 						<p>
 							Cette étape permet d'avoir un corpus propre. 
 							Elle consiste à éliminer un ou plusieurs éléments du texte comme : les mots vides (stop words), les balises, certaines ponctuations, ou des mots que l'on juge brouilleurs de résultats.
 						</p>
 						<p>
-							Pour le français et l'anglais nous avons effectué la normalistion manuellement c'est à dire en supprimant des éléments directement ou avec recherche et remplaçe (fonctionnalisé intégré dans l'éditeur de texte).
+							Pour le français et l'anglais nous avons effectué la normalistion à l'aide des fonctionnalités NLTK de python.
 						</p>
 						<p>
-							Particuliérement pour le français nous avons utilisé la commande <i>sed</i> pour remplacer les numérotations par des espaces car elles étaients trop nombreuses.
+							Particuliérement pour le français il restait quelques extra-texte que nous avons éliminé manuellement avec recherche et remplaçe (fonctionnalisé intégré dans l'éditeur de texte).
 						</p>
 						<p>
 							Pour le chinois c'était différents car il fallait d'abord ségmenter le contenu.
@@ -60,44 +60,55 @@
 							Le dossier '<i>stanford-segmenter-2020-11-17</i>' étant trop lourd n'a pas pu être ajouté sur le Git. 
 							Veuillez le trouver <a href="https://nlp.stanford.edu/software/segmenter.shtml".>ici</a>.
 						</p>
-							<h2>Itrameur</h2>
-								<p><a href="http://www.tal.univ-paris3.fr/trameur/iTrameur/" >Itrameur</a> est une application en ligne de textométrie développé par <b>Serges Fleury</b> (maître de conférences en linguistique informatique).</p>
-								<h3> Français </h3>
+							<h2 style="font-size: 40px;">Itrameur</h2>
+								<p><a href="http://www.tal.univ-paris3.fr/trameur/iTrameur/" >Itrameur</a> est une application en ligne de textométrie développé par <b>Serge Fleury</b> (maître de conférences en linguistique informatique).</p>
+
+								<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Français </h3>
 									<p class="title">COOCURRENCES</p>
-									<div id="itrameur"></div>
-								
-								<h3> Anglais </h3>
+									<div></div>
+										
+										<div style="display: flex;">
+										<div><img src="../PROJET/analyse/" height=" 280" width="500"> </div>
+										<div><img src="../PROJET/analyse/" height="450" width="300"> </div>
+									</div>
+								<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Anglais </h3>
 									<p class="title">COOCURRENCES</p>
 									<div id="analyse">
 										<p>En effectuant une recherche par le mot "food",  les cooccurrents les plus fréquents, dans ce contexte, sont  "fast" et "street". La présence des termes  "Western" , "culture" et "industry" , entre autres, aident à donner une nuance culturelle, et  à démontrer l'influence de la culture occidentale. Le nœud de co-occurrence est encore plus parlant, nous avons des termes comme "restaurant",  "famous" et "popular" , mais aussi "Common chains", "industry", "junk" et "consumption".</p></div>
-									<div style="display: flex;">
-										<div><img src="../PROJET/analyse/en_cooc_itrameur.png" height=" 280" width="500"> </div>
-										<div><img src="../PROJET/analyse/en_tab_cooc.png" height="450" width="300"> </div>
+									<div style="margin-left: 250px ;">
+									<img src="../PROJET/analyse/en_tab_itrameur.png" height="450" width="300" > 
 									</div>
-								<h3> Chinois </h3>
+									<div style="margin-left: 160px ;">
+									<img src="../PROJET/analyse/en_cooc_itrameur.png" height="280" width="500" > 
+									</div>
+
+								<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Chinois </h3>
 									<p class="title">COOCURRENCES</p>
 									<div id="analyse"><p>Notre première analyse porte sur les segments répétés dont la fréquence est bien élevée dans notre corpus. Sur le graphique, le mot « 品牌 » (la marque) est le plus fréquent et nous voyons aussi « 连锁店 » (restaurant à succursales) parmi les segments répétés. Cela ne nous étonne pas parce qu’une grande partie de notre corpus provient du site d’information qui en parle souvent beaucoup.</p></div>
-									<div>
-										
+
+									<div style="margin-left: 250px ;">
+									<img src="../PROJET/analyse/ch_tab_itrameur.png" height="450" width="300"> 
 									</div>
-										
 									<div id="analyse">
 									<p>Nous pouvons remarquer que les mots comme « 西式 » (à l’occidentale) , « 中式 » (à la chinoise), sont non seulement les plus fréquentés, mais aussi liés souvent avec le mot « 快餐 ». Cela implique qu’en Chine, la restauration rapide à l’occidentale ou à la chinoise constitue la principale façon dont les gens la classent. Ensuite, le terme « 文化 » (la culture (du fast-food) est également utilisé en conjonction avec notre mot de pivot, et ils forment un segment qui constitue un métaphore du phénomène cherchant le succès et la popularité rapides que nous critique beaucoup à cette époque en Chine.</p></div>
 
-							<h2>Nuages de mots</h2>
-							<h3> Français </h3>
+									<div style="margin-left: 160px ;">
+									<img src="../PROJET/analyse/ch_cooc_itrameur.png" height="280" width="500" > 
+									</div>
+							<h2 style="font-size: 40px;">Nuages de mots</h2>
+							<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Français </h3>
 								<div id="nuagesmots">
-								<img class="nuages" src="../PROJET/analyse/fr_nuage_mot.png" width="auto" height="300">
+								<img class="nuages" src="../PROJET/analyse/fr_nuage_mot.png">
 								<p> </p>
 							</div>
 
-							<h3> Anglais </h3>
+							<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Anglais </h3>
 							<div id="nuagesmots">
 								<img class="nuages" src="../PROJET/analyse/en_nuage_mot.png">
 							</div>
 								<p align="center" >Le terme le plus visible est "Food". "Indian", "Street", "Fast", "Street", "Eat" le suivent de près. </p>
 							
-							<h3> Chinois </h3>
+							<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Chinois </h3>
 							<div id="nuagesmots">
 								<img class="nuages" src="../PROJET/analyse/ch_nuage_mot.png">
 							</div>

@@ -197,7 +197,7 @@ img.nuages {
 iframe {
 	background-color: #ffe3d3;
 	border: 1px solid #999;
-	width: 800px;
+	width: 750px;
 	height: 500px;
 	margin-left : 20px;
 	margin-right : auto;
@@ -216,9 +216,6 @@ p.title {
 	margin-right: auto ;
 }
 
-#itrameur {
-
-}
 
 /*---- bas de page --- */
 #retour{
