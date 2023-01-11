@@ -52,10 +52,10 @@
 							Pour le français et l'anglais nous avons effectué la normalistion à l'aide des fonctionnalités NLTK de python.
 						</p>
 						<p>
-							Particuliérement pour le français il restait quelques extra-texte que nous avons éliminé manuellement avec recherche et remplaçe (fonctionnalisé intégré dans l'éditeur de texte).
+							Particuliérement pour le français il restait quelques extra-texte que nous avons éliminé manuellement avec recherche et remplace (fonctionnalité intégré dans l'éditeur de texte).
 						</p>
 						<p>
-							Pour le chinois c'était différents car il fallait d'abord ségmenter le contenu.
+							Pour le chinois c'était différent car il fallait d'abord ségmenter le contenu.
 							Pour cela, nous nous sommes servis du script <b>segment.sh</b> rédigé par Stanford. 
 							Le dossier '<i>stanford-segmenter-2020-11-17</i>' étant trop lourd n'a pas pu être ajouté sur le Git. 
 							Veuillez le trouver <a href="https://nlp.stanford.edu/software/segmenter.shtml".>ici</a>.
@@ -64,7 +64,8 @@
 								<p><a href="http://www.tal.univ-paris3.fr/trameur/iTrameur/" >Itrameur</a> est une application en ligne de textométrie développé par <b>Serge Fleury</b> (maître de conférences en linguistique informatique).</p>
 
 								<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Français </h3>
-								<p> Nous avons fait une recherche par mot car nous ne pouvions pas faire une recherche par mots composées sur itrameur.</p>
+								<p> Nous avons fait une recherche par mot car les mots composés ne donnent pas de résutats. 
+								Par ailleurs, il existe des mots composés intégrés dans l'application, ceux la sont collés mais ne donnent pas les résultats souhaités.</p>
 								<div>
 								<p>
 								En regardant les cooccurences du mot <b>restauration</b> et <b>fast</b>, nous perçevons en premier 'rapide' pour <b>restauration rapide</b> et food pour <b>fast-food</b>
@@ -135,7 +136,8 @@
 							<div id="nuagesmots">
 								<img class="nuages" src="../PROJET/analyse/en_nuage_mot.png">
 							</div>
-								<p align="center" >Le terme le plus visible est "Food". "Indian", "Street", "Fast", "Street", "Eat" le suivent de près. </p>
+								<p align="center" >Le terme le plus visible est "Food". "Indian", "Street", "Fast", "Street", "Eat" le suivent de près.</p>
+								<p>Nous retrouvons également quelques  street foods traditionnels: "vada", "pav" et "roll".</p>
 							
 							<h3 style="font-size: 30px; text-align: center; font-family: monospace; background-color: #ffe3d3;"> Chinois </h3>
 							<div id="nuagesmots">
@@ -149,7 +151,7 @@
 							</div>
 					</div>
 							<h2 style="font-size: 40px;">Conclusion d'analyse</h2>
-								<p>
+								<p> Suite </p>
 				</div>
 
 

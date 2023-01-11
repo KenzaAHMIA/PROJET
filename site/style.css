@@ -169,7 +169,7 @@ p {
 iframe {
 	background-color: #edfffe;
 	border: 1px solid #999;
-	width: 835px;
+	width: 800px;
 	height: 500px;
 	margin-left : 0px;
 	margin-right : auto;
@@ -191,17 +191,6 @@ img.nuages {
 	height: 300px;
 	width: 300px;
 	display: block;
-}
-
-
-iframe {
-	background-color: #ffe3d3;
-	border: 1px solid #999;
-	width: 750px;
-	height: 500px;
-	margin-left : 20px;
-	margin-right : auto;
-	margin-bottom: 20px;
 }
 
 p.title {
